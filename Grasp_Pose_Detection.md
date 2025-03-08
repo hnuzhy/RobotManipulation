@@ -170,6 +170,10 @@
 
 * **RT-Grasp(arxiv2024.11)** RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model [[arxiv link](https://arxiv.org/abs/2411.05212)][[project link](https://sites.google.com/view/rt-grasp)][`Baidu RAL + Rutgers University`]
 
+***
 
+* **MetaMVUC(RAL2025)** MetaMVUC: Active Learning for Sample-Efficient Sim-to-Real Domain Adaptation in Robotic Grasping [[paper link](https://ieeexplore.ieee.org/abstract/document/10892643)][[openreview link](https://openreview.net/forum?id=LCMWRGqfVo)][`Karlsruhe Institute of Technology, Germany`]
+
+* **AffordGrasp(arxiv2025.03)** AffordGrasp: In-Context Affordance Reasoning for Open-Vocabulary Task-Oriented Grasping in Clutter [[arxiv link](https://arxiv.org/abs/2503.00778)][[project link](https://eqcy.github.io/affordgrasp/)][`Chinese Academy of Sciences + Harbin Institute of Technology (Shenzhen) + Beijing Academy of Artificial Intelligence + Peking University`]
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
