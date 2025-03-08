@@ -48,7 +48,11 @@
 
 * **SAMPart3D(arxiv2024.11)** SAMPart3D: Segment Any Part in 3D Objects [[arxiv link](https://arxiv.org/abs/2411.07184)][[project link](https://yhyang-myron.github.io/SAMPart3D-website/)][[code|official](https://github.com/Pointcept/SAMPart3D)][`The University of Hong Kong + VAST`]
 
-* 👍**SMITE(arxiv2024.10)** SMITE: Segment Me In TimE [[paper link]()][[arxiv link](https://arxiv.org/abs/2410.18538)][[project link](https://segment-me-in-time.github.io/)][[code|official](https://github.com/alimohammadiamirhossein/smite/)][[weixin blog](https://mp.weixin.qq.com/s/b2b6NxyaVpjGO8_pgL7KFA)][`Simon Fraser University + Autodesk Research + University of Toronto + Google DeepMind`]
+* 👍**SMITE(arxiv2024.10)** SMITE: Segment Me In TimE [[arxiv link](https://arxiv.org/abs/2410.18538)][[project link](https://segment-me-in-time.github.io/)][[code|official](https://github.com/alimohammadiamirhossein/smite/)][[weixin blog](https://mp.weixin.qq.com/s/b2b6NxyaVpjGO8_pgL7KFA)][`Simon Fraser University + Autodesk Research + University of Toronto + Google DeepMind`]
+
+* **EfficientTAM(arxiv2024.11)** Efficient Track Anything [[arxiv link](https://arxiv.org/abs/2411.18933)][[project link](https://yformer.github.io/efficient-track-anything/)][[code|official](https://github.com/yformer/EfficientTAM)][`Meta AI + Nanyang Technological University`]
+
+
 
 ***
 
