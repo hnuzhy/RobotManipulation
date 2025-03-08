@@ -67,3 +67,12 @@
 
 * 👍**RFM_loco_mani(RAL2024)(arxiv2024.12)** Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator [[paper link](https://ieeexplore.ieee.org/abstract/document/10806624)][[arxiv link](https://arxiv.org/abs/2412.03012)][[project link](https://clearlab-sustech.github.io/RFM_loco_mani/)][`Southern University of Science and Technology + Zhejiang University-University of Illinois Urbana-Champaign Institute + LimX Dynamics`]
 
+***
+
+* **EmbraceCollisions(arxiv2025.02)** Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions [[arxiv link](https://arxiv.org/abs/2502.01465)][[project link](https://project-instinct.github.io/)][`IIIS, Tsinghua University + Shanghai Qi Zhi Institute`; `Hang Zhao`][Whole-Body Control]
+
+* **BeamDojo(arxiv2025.02)** BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds [[arxiv link](https://arxiv.org/abs/2502.10363)][[project link](https://why618188.github.io/beamdojo/)][`Shanghai AI Laboratory + Shanghai Jiao Tong University + Zhejiang University + The University of Hong Kong + The Chinese University of Hong Kong`; `Weinan Zhang + Jiangmiao Pang`]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+
