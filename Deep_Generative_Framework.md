@@ -192,6 +192,8 @@ also named ***Deep Generative Model***
 
 * **Meshtron(arxiv2024.12)** Meshtron: High-Fidelity, Artist-Like 3D Mesh Generation at Scale [[openreview link](https://openreview.net/forum?id=mhzDv7UAMu)][[arxiv link](https://arxiv.org/abs/2412.09548)][[project link](https://research.nvidia.com/labs/dir/meshtron/)][[project link 2](https://meshtron.github.io/)][`NVIDIA`][This paper is rejected by ICLR2025]
 
+* **PhiP-G(arxiv2025.02)** PhiP-G: Physics-Guided Text-to-3D Compositional Scene Generation [[arxiv link](https://arxiv.org/abs/2502.00708)][`Shanghai University`]
+
 
 ### ▲ NeRF-based
 [Neural Radiance Field (NeRF): collections in paperswithcode wedsite](https://paperswithcode.com/method/nerf)
