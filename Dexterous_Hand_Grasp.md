@@ -69,6 +69,8 @@
 
 * **WiLoR(arxiv2024.09)** WiLoR: End-to-end 3D hand localization and reconstruction in-the-wild [[arxiv link](https://arxiv.org/abs/2409.12259)][[project link](https://rolpotamias.github.io/WiLoR/)][[code|official](https://github.com/rolpotamias/WiLoR)][`Imperial College London + Shanghai Jiao Tong University`][doing hand `detection` and `reconstruction`.]
 
+* 👍**Dyn-HaMR(arxiv2024.12)** Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera [[arxiv link](https://arxiv.org/abs/2412.12861)][[project link](https://dyn-hamr.github.io/)][[code|official](https://github.com/ZhengdiYu/Dyn-HaMR)][`Imperial College London`]
+
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
 ***
@@ -117,13 +119,19 @@
 
 * **OakInk(CVPR2022)(arxiv2022.03)** OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_OakInk_A_Large-Scale_Knowledge_Repository_for_Understanding_Hand-Object_Interaction_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2203.15709)][[project link](https://oakink.net/)][[code|official](https://github.com/oakink/OakInk)][`SJTU`]
 
-* **ARCTIC(CVPR2023)** ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation [[arxiv link](https://arxiv.org/abs/2204.13662)][[project link](https://arctic.is.tue.mpg.de/)][[code|official](https://github.com/zc-alexfan/arctic)][`MPII`, `Hand-Object Manipulation`]
+* **ARCTIC(CVPR2023)(arxiv2022.04)** ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation [[paper link](http://openaccess.thecvf.com/content/CVPR2023/html/Fan_ARCTIC_A_Dataset_for_Dexterous_Bimanual_Hand-Object_Manipulation_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2204.13662)][[project link](https://arctic.is.tue.mpg.de/)][[code|official](https://github.com/zc-alexfan/arctic)][`MPII`, `Hand-Object Manipulation`]
 
-* **RUFormer(ICCV2023)** Nonrigid Object Contact Estimation With Regional Unwrapping Transformer [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.14074)][`Southeast University`, `Nonrigid Object Hand Contact`]
+* **RUFormer(ICCV2023)(arxiv2023.08)** Nonrigid Object Contact Estimation With Regional Unwrapping Transformer [[paper link](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_Nonrigid_Object_Contact_Estimation_With_Regional_Unwrapping_Transformer_ICCV_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2308.14074)][`Southeast University`, `Nonrigid Object Hand Contact`]
 
-* **HO-NeRF(ICCV2023)** Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.11198)][[project link](https://iscas3dv.github.io/HO-NeRF/)][`Hand-Object Interaction`, `NeRF`]
+* **HO-NeRF(ICCV2023)(arxiv2023.08)** Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Qu_Novel-View_Synthesis_and_Pose_Estimation_for_Hand-Object_Interaction_from_Sparse_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.11198)][[project link](https://iscas3dv.github.io/HO-NeRF/)][`Hand-Object Interaction`, `NeRF`]
 
-* **USST(ICCV2023)** Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Bao_Uncertainty-aware_State_Space_Transformer_for_Egocentric_3D_Hand_Trajectory_Forecasting_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2307.08243)][[project link](https://actionlab-cv.github.io/EgoHandTrajPred/)][[code|official](https://github.com/oppo-us-research/USST)][`3D Ego-Hand Trajectory Forecasting`]
+* **USST(ICCV2023)(arxiv2023.07)** Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Bao_Uncertainty-aware_State_Space_Transformer_for_Egocentric_3D_Hand_Trajectory_Forecasting_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2307.08243)][[project link](https://actionlab-cv.github.io/EgoHandTrajPred/)][[code|official](https://github.com/oppo-us-research/USST)][`3D Ego-Hand Trajectory Forecasting`]
+
+* **3DOI(ICCV2023)(arxiv2023.05)** Understanding 3D Object Interaction from a Single Image [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Qian_Understanding_3D_Object_Interaction_from_a_Single_Image_ICCV_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2305.09664)][[project link](https://jasonqsy.github.io/3DOI/)][[code|official](https://github.com/JasonQSY/3DOI)][`University of Michigan`]
+
+* **ContactGen(ICCV2023)(arxiv2023.10)** ContactGen: Generative Contact Modeling for Grasp Generation [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_ContactGen_Generative_Contact_Modeling_for_Grasp_Generation_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2310.03740)][[project link](https://stevenlsw.github.io/contactgen/)][[code|official](https://github.com/stevenlsw/contactgen)][`University of Illinois Urbana-Champaign + Adobe Research`]
+
+* **AffordPose(ICCV2023)(arxiv2023.09)** AffordPose: A Large-Scale Dataset of Hand-Object Interactions with Affordance-Driven Hand Pose [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Jian_AffordPose_A_Large-Scale_Dataset_of_Hand-Object_Interactions_with_Affordance-Driven_Hand_ICCV_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2309.08942)][[project link](https://affordpose.github.io/)][[code|official](https://github.com/GentlesJan/AffordPose)][`Dalian University of Technology + Shandong University + Shenzhen University + Tsinghua University`]
 
 * **Hands23(NIPS2023)** Towards A Richer 2D Understanding of Hands at Scale [[paper link](https://papers.nips.cc/paper_files/paper/2023/hash/612a7948f3294a02a63d970566ca8536-Abstract-Conference.html)][[openreview link](https://openreview.net/forum?id=6ldTxwhgtP)][`University of Michigan + Addis Ababa University + New York University`]
 
@@ -158,6 +166,8 @@
 * **WildHOI(ECCV2024)** 3D Reconstruction of Objects in Hands without Real World 3D Supervision [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-73229-4_8)][[project link](https://ap229997.github.io/projects/wild-hoi/)][[code|official](https://github.com/ap229997/wild-hoi/)][`University of Illinois Urbana-Champaign`]
 
 * **HOGraspNet(ECCV2024)(arxiv2024.09)** Dense Hand-Object(HO) GraspNet with Full Grasping Taxonomy and Dynamics [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-73007-8_17)][[arxiv link](https://arxiv.org/abs/2409.04033)][[project link](https://hograspnet2024.github.io/)][[code|official](https://github.com/UVR-WJCHO/HOGraspNet)][`KAIST UVR Lab + KAIST CVL Lab + Kwangwoon University + Surromind + KAIST KI-ITC ARRC + Imperial College London`]
+
+* **G-HOP(CVPR2024)(arxiv2024.04)** G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Ye_G-HOP_Generative_Hand-Object_Prior_for_Interaction_Reconstruction_and_Grasp_Synthesis_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2404.12383)][[project link](https://judyye.github.io/ghop-www/)][[code|official](https://github.com/JudyYe/ghop)][`Carnegie Mellon University + Meta AI`][HOI Generations]
 
 * **HoP(arxiv2024.09)** Hand-Object Interaction Pretraining from Videos [[arxiv link](https://arxiv.org/abs/2409.08273)][[project link](https://hgaurav2k.github.io/hop/)][[code|official](https://github.com/hgaurav2k/hop)][`University of California, Berkeley`; `Pieter Abbeel`]
 
@@ -245,6 +255,8 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * 👍**SemGrasp(ECCV2024)(arxiv2024.04)** SemGrasp: Semantic Grasp Generation via Language Aligned Discretization [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-72627-9_7)][[arxiv link](https://arxiv.org/abs/2404.03590)][[project link](https://kailinli.github.io/SemGrasp/)][[dataset link (CapGrasp)](https://huggingface.co/datasets/LiKailin/CapGrasp)][`Shanghai Jiao Tong University + Shanghai AI Laboratory`; `Cewu Lu`]
 
+* **DGTR(CVPR2024)(arxiv2024.04)** Dexterous Grasp Transformer [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_Dexterous_Grasp_Transformer_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2404.18135)][[project link](https://isee-laboratory.github.io/dgtr/)][[code|official](https://github.com/iSEE-Laboratory/DGTR)][`Sun Yat-sen University`]
+
 * **CIMER(arxiv2024.04)** Learning Prehensile Dexterity by Imitating and Emulating State-only Observations [[arxiv link](https://arxiv.org/abs/2404.05582)][[project link](https://sites.google.com/view/cimer-2024/)][[code|official](https://github.com/GT-STAR-Lab/CIMER)][`Georgia Institute of Technology`; based on their previous work `KODex`; they did not conduct real robot experiments.]
 
 * **DexGYS/DexGYSNet/DexGYSGrasp(arxiv2024.05)** Grasp as You Say: Language-guided Dexterous Grasp Generation [[arxiv link](https://arxiv.org/abs/2405.19291)][[project link](https://sites.google.com/stanford.edu/dexgys)][`Sun Yat-sen University + Stanford University + Wuhan University `] 
@@ -254,6 +266,8 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 * **penspin(arxiv2024.07)** Lessons from Learning to Spin "Pens" [[arxiv link](https://arxiv.org/abs/2407.18902)][[project link](https://penspin.github.io/)][[code|official](https://github.com/HaozhiQi/penspin)][`UC San Diego, + Carnegie Mellon University + UC Berkeley`; `Xiaolong Wang`]
 
 * **VoxAct-B(CoRL2024)(arxiv2024.07)** VoxAct-B: Voxel-Based Acting and Stabilizing Policy for Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2407.04152)][[project link](https://voxact-b.github.io/)][`University of Southern California`]
+
+* **DesignDexHand(arxiv2024.09)** The Foundational Pose as a Selection Mechanism for the Design of Tool-Wielding Multi-Finger Robotic Hands [[arxiv link](https://arxiv.org/abs/2409.14158)][` Carnegie Mellon University`]
 
 * **TaskDexGrasp(IROS2024)(arxiv2024.09)** Task-Oriented Dexterous Grasp Synthesis Using Differentiable Grasp Wrench Boundary Estimator [[arxiv link](https://arxiv.org/abs/2309.13586)][[project link](https://pku-epic.github.io/TaskDexGrasp/)][`Peking University + Beijing Academy of Artificial Intelligence + Galbot`; `He Wang`]
 
@@ -265,7 +279,21 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **PriorDexGrasp(arxiv2024.12)** Dexterous Manipulation Based on Prior Dexterous Grasp Pose Knowledge [[arxiv link](https://arxiv.org/abs/2412.15587)][`SJTU` + `Haoshu Fang + Cewu Lu`]
 
+* 👍**DextrAH-RGB(arxiv2024.12)** DextrAH-RGB: Visuomotor Policies to Grasp Anything with Dexterous Hands [[arxiv link](https://arxiv.org/abs/2412.01791)][[project link](https://dextrah-rgb.github.io/)][`NVIDIA + University of California Berkeley`][It is the first work that is able to demonstrate robust `sim2real transfer` of an end2end `RGB-based policy` for a complex, dynamic, contact-rich tasks such as dexterous grasping.]
+
+***
+
 * **DexHier(arxiv2025.01)** From Simple to Complex Skills: The Case of In-Hand Object Reorientation [[arxiv link](https://arxiv.org/abs/2501.05439)][[project link](https://dexhier.github.io/)][`UC Berkeley + Meta AI + TU Dresden + The Centre for Tactile Internet with Human-in-the-Loop (CeTI)`]
+
+* **DexTrack(ICLR2025)(arxiv2025.02)** DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References [[openreview link](https://openreview.net/pdf?id=ajSmXqgS24)][[arxiv link](https://arxiv.org/abs/2502.09614)][[project link](https://meowuu7.github.io/DexTrack/)][[code|official](https://github.com/Meowuu7/DexTrack)][`Tsinghua University + Shanghai Qi Zhi Institute + Shanghai AI Laboratory + UC San Diego`]
+
+* **InGraspManipulation(arxiv2025.02)** Robotic In-Hand Manipulation for Large-Range Precise Object Movement: The RGMC Champion Solution [[arxiv link](https://arxiv.org/abs/2502.07472)][[project link](https://rgmc-xl-team.github.io/ingrasp_manipulation/)][[code|official](https://github.com/RGMC-XL-team/ingrasp_manipulation)][`Tsinghua University`]
+
+* 👍**RetrDex(arxiv2025.02)** Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand [[arxiv link](https://arxiv.org/abs/2502.18423)][[project link](https://changwinde.github.io/RetrDex/)][`Shanghai Jiao Tong University + PKU-PsiBot Joint Lab + Peking University`]
+
+* **MKA(arxiv2025.02)** Multi-Keypoint Affordance Representation for Functional Dexterous Grasping [[arxiv link](https://arxiv.org/abs/2502.20018)][[code|official](https://github.com/PopeyePxx/MKA)][`Hunan University`]
+
+* 👍**VF-IHM-IL(ICRA2025)(arxiv2025.03)** Variable-Friction In-Hand Manipulation for Arbitrary Objects via Diffusion-Based Imitation Learning [[arxiv link](https://arxiv.org/abs/2503.02738)][[project link](https://sites.google.com/view/vf-ihm-il/home)][`MTL, Imperial College London	+ Princeton University`]
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
