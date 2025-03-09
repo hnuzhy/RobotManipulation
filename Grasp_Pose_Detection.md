@@ -176,4 +176,6 @@
 
 * **AffordGrasp(arxiv2025.03)** AffordGrasp: In-Context Affordance Reasoning for Open-Vocabulary Task-Oriented Grasping in Clutter [[arxiv link](https://arxiv.org/abs/2503.00778)][[project link](https://eqcy.github.io/affordgrasp/)][`Chinese Academy of Sciences + Harbin Institute of Technology (Shenzhen) + Beijing Academy of Artificial Intelligence + Peking University`]
 
+* **NeuGrasp(ICRA2025)(arxiv2025.03)** NeuGrasp: Generalizable Neural Surface Reconstruction with Background Priors for Material-Agnostic Object Grasp Detection [[arxiv link](https://arxiv.org/abs/2503.03511)][[project link](https://neugrasp.github.io/)][[code|official](https://github.com/Fanqyu/NeuGrasp)][`Chinese Academy of Sciences + University of Chinese Academy of Sciences + Qiyuan Lab`]
+
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
