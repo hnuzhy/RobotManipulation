@@ -48,9 +48,6 @@
 
 * **SAMPart3D(arxiv2024.11)** SAMPart3D: Segment Any Part in 3D Objects [[arxiv link](https://arxiv.org/abs/2411.07184)][[project link](https://yhyang-myron.github.io/SAMPart3D-website/)][[code|official](https://github.com/Pointcept/SAMPart3D)][`The University of Hong Kong + VAST`]
 
-* 👍**SMITE(arxiv2024.10)** SMITE: Segment Me In TimE [[arxiv link](https://arxiv.org/abs/2410.18538)][[project link](https://segment-me-in-time.github.io/)][[code|official](https://github.com/alimohammadiamirhossein/smite/)][[weixin blog](https://mp.weixin.qq.com/s/b2b6NxyaVpjGO8_pgL7KFA)][`Simon Fraser University + Autodesk Research + University of Toronto + Google DeepMind`]
-
-* **EfficientTAM(arxiv2024.11)** Efficient Track Anything [[arxiv link](https://arxiv.org/abs/2411.18933)][[project link](https://yformer.github.io/efficient-track-anything/)][[code|official](https://github.com/yformer/EfficientTAM)][`Meta AI + Nanyang Technological University`]
 
 
 ***
@@ -64,13 +61,20 @@
 
 * **VLP-SAM(arxiv2025.02)** VLP-SAM: Vision and Language reference Prompt into SAM [[arxiv link](https://arxiv.org/abs/2502.00719)][[code|official](https://github.com/kosukesakurai1/VLP-SAM)][`Waseda University`][It is still based on the large `sam_vit_h_4b8939.pth` weight, and not user-friendly for real-time inference.]
 
+***
+
+## ⭐Tracking Anything Series
+*for the `2d/3d visual tracking` task*
+
+* 👍**SMITE(ICLR2025)(arxiv2024.10)** SMITE: Segment Me In TimE [[arxiv link](https://arxiv.org/abs/2410.18538)][[project link](https://segment-me-in-time.github.io/)][[code|official](https://github.com/alimohammadiamirhossein/smite/)][[weixin blog](https://mp.weixin.qq.com/s/b2b6NxyaVpjGO8_pgL7KFA)][`Simon Fraser University + Autodesk Research + University of Toronto + Google DeepMind`]
+
+* **EfficientTAM(arxiv2024.11)** Efficient Track Anything [[arxiv link](https://arxiv.org/abs/2411.18933)][[project link](https://yformer.github.io/efficient-track-anything/)][[code|official](https://github.com/yformer/EfficientTAM)][`Meta AI + Nanyang Technological University`]
+
 
 ***
 
 ## ⭐Depth Anything Series
 *for the `monocular depth estimation` task*
-
-### Papers
 
 * **DepthAnything(CVPR2024)(arxiv2024.01)** Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Depth_Anything_Unleashing_the_Power_of_Large-Scale_Unlabeled_Data_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2401.10891)][[project link](https://depth-anything.github.io/)][[code|official](https://github.com/LiheYoung/Depth-Anything)][`HKU + TikTok + CUHK + ZJU`][the first author is [`Lihe Yang`](https://liheyoung.github.io/)][two keys factors: following the `scaling law of large dataset` and the `semi-supervised learning` technique][It harnesses large-scale unlabeled data to speed up data scaling-up and increase the data coverage]
   
