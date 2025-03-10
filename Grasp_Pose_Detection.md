@@ -172,10 +172,13 @@
 
 ***
 
+* **DMEG(RAL2025)(arxiv2024.10)** Diffusion for Multi-Embodiment Grasping [[paper link](https://ieeexplore.ieee.org/abstract/document/10854684)][[arxiv link](https://arxiv.org/abs/2410.18835)][`Bosch Corporate Research + Karlsruhe Institute of Technology`]
+
 * **MetaMVUC(RAL2025)** MetaMVUC: Active Learning for Sample-Efficient Sim-to-Real Domain Adaptation in Robotic Grasping [[paper link](https://ieeexplore.ieee.org/abstract/document/10892643)][[openreview link](https://openreview.net/forum?id=LCMWRGqfVo)][`Karlsruhe Institute of Technology, Germany`]
 
 * **AffordGrasp(arxiv2025.03)** AffordGrasp: In-Context Affordance Reasoning for Open-Vocabulary Task-Oriented Grasping in Clutter [[arxiv link](https://arxiv.org/abs/2503.00778)][[project link](https://eqcy.github.io/affordgrasp/)][`Chinese Academy of Sciences + Harbin Institute of Technology (Shenzhen) + Beijing Academy of Artificial Intelligence + Peking University`]
 
 * **NeuGrasp(ICRA2025)(arxiv2025.03)** NeuGrasp: Generalizable Neural Surface Reconstruction with Background Priors for Material-Agnostic Object Grasp Detection [[arxiv link](https://arxiv.org/abs/2503.03511)][[project link](https://neugrasp.github.io/)][[code|official](https://github.com/Fanqyu/NeuGrasp)][`Chinese Academy of Sciences + University of Chinese Academy of Sciences + Qiyuan Lab`]
+
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
