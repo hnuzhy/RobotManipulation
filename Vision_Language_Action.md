@@ -324,6 +324,8 @@
 
 * ❤**C2FARM(CVPR2022 Oral)(arxiv2021.06)** Coarse-To-Fine Q-Attention: Efficient Learning for Visual Robotic Manipulation via Discretisation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/James_Coarse-To-Fine_Q-Attention_Efficient_Learning_for_Visual_Robotic_Manipulation_via_Discretisation_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2106.12534)][[project link](https://sites.google.com/view/c2f-q-attention)][[code|official](https://github.com/stepjam/ARM)][`Dyson Robotics Lab, Imperial College London`][It maybe the `fisrt` work to conduct `next-best keyframe detection` by the first author [`Stephen James`](https://stepjam.github.io/), who also used this “predict the next (best) keyframe action” idea in his other works [`(RAL2022) Q-attention: Enabling Efficient Learning for Vision-based Robotic Manipulation`](https://arxiv.org/abs/2105.14829) and [`(TMLR2022) Auto-Lambda: Disentangling Dynamic Task Relationships`](https://openreview.net/forum?id=KKeCMim5VN). And the `key-frames` idea fisrtly proposed in work [`(ICRA2021) Coarse-to-Fine Imitation Learning: Robot Manipulation from a Single Demonstration`](https://ieeexplore.ieee.org/abstract/document/9560942) by [`Edward Johns`](https://www.robot-learning.uk/) who leading the `Robot Learning Lab` at `Imperial College London`.]
 
+* **DextAIRity(RSS2022, Best Systems Paper Award Finalist)(arxiv2022.03)** DextAIRity: Deformable Manipulation Can be a Breeze [[paper link](https://www.roboticsproceedings.org/rss18/p017.pdf)][[arxiv link](https://arxiv.org/abs/2203.01197)][[project link](https://dextairity.cs.columbia.edu/)][[code|official](https://github.com/real-stanford/dextairity)][`Columbia University + Toyota Research Institute`; `Shuran Song`]
+
 * ❤**R3M(CoRL2022)(arxiv2022.03)** R3M: A Universal Visual Representation for Robot Manipulation [[openreview link](https://openreview.net/forum?id=tGbpgz6yOrI)][[paper link](https://proceedings.mlr.press/v205/nair23a.html)][[arxiv link](https://arxiv.org/abs/2203.12601)][[project link](https://sites.google.com/view/robot-r3m/)][[code|official](https://github.com/facebookresearch/r3m)][`Stanford University + Meta AI`; a pre-training method][We study if `visual representations pre-trained` on `diverse human videos` can enable efficient robotic manipulation. We `pre-train a single representation`, R3M, utilizing an objective that combines `time contrastive learning`, `video-language alignment`, and `a sparsity penalty`.]
 
 * **MVP(CoRL2022 oral)(arxiv2022.10)** Real-World Robot Learning with Masked Visual Pre-training [[openreview link](https://openreview.net/forum?id=KWCZfuqshd)][[paper link](https://proceedings.mlr.press/v205/radosavovic23a.html)][[arxiv link](https://arxiv.org/abs/2210.03109)][[project link](https://tetexiao.com/projects/real-mvp)][[code|official](https://github.com/ir413/mvp)][`University of California, Berkeley`; a pre-training method][It first compiled a massive collection of `4.5 million images` from `ImageNet`, `Epic Kitchens`, `Something Something`, `100 Days of Hands`, and `Ego4D datasets`. Then, it pre-trained a model based on `masked autoencoder (MAE)`.]
@@ -562,6 +564,8 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **OKAMI(CoRL2024, Oral)(arxiv2024.10)** OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [[openreview link](https://openreview.net/forum?id=URj5TQTAXM)][[arxiv link](https://arxiv.org/abs/2410.11792)][[project link](https://sites.google.com/view/okami-corl2024)][`UT Austin + NVIDIA Research`; `Yuke Zhu`][It enables a humanoid robot to imitate manipulation skills from `a single human video demonstration`.]
 
+* **TidyBot++(CoRL2024)(arxiv2024.12)** TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning [[openreview link](https://openreview.net/forum?id=L4p6zTlj6k)][[arxiv link](https://arxiv.org/abs/2412.10447)][[project link](https://tidybot2.github.io/)][[code|official](https://github.com/jimmyyhwu/tidybot2)][`Princeton University + Stanford University + Dexterity`; `Shuran Song`]
+
 * **ObjDex(CoRL2024)** Object-Centric Dexterous Manipulation from Human Motion Data [[openreview link](https://openreview.net/forum?id=KAzku0Uyh1)][[project link](https://sites.google.com/view/obj-dex)][`Stanford University + Peking University`]
 
 * 👍**SplatSim(CoRL Workshop)(arxiv2024.09)** SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting [[arxiv link](https://arxiv.org/abs/2409.10161)][[project link](https://splatsim.github.io/)][`CMU`][`Use Gaussian Splatting as a Renderer over Existing Simulators`]
@@ -759,10 +763,18 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **GAPS(arxiv2024.12)** Generalizable Articulated Object Perception with Superpoints [[arxiv link](https://arxiv.org/abs/2412.16656)][`Shanghai Jiao Tong University + National University of Singapore + University of Science and Technology of China + Hefei University of Technology + National Institute of Technology`; `Cewu Lu`][Generalizable Articulated Object Perception with Superpoints (GAPS)]
 
+* **RFMP(arxiv2024.12)** Fast and Robust Visuomotor Riemannian Flow Matching Policy [[arxiv link](https://arxiv.org/abs/2412.10855)][[project link](https://sites.google.com/view/rfmp)][`Bosch Center for Artificial Intelligence + KTH`]
+
+* **MPD(arxiv2024.12)** Motion Planning Diffusion: Learning and Adapting Robot Motion Planning with Diffusion Models [[arxiv link](https://arxiv.org/abs/2412.19948)][[project link](https://sites.google.com/view/motionplanningdiffusion)][`Technical University of Darmstadt, Germany + Poznan University of Technology, Poland + IDEAS NCBR, Warsaw, Poland + `][SUBMITTED TO IEEE TRANSACTIONS ON ROBOTICS]
+
+* **AffordDP(arxiv2024.12)** AffordDP: Generalizable Diffusion Policy with Transferable Affordance [[arxiv link](https://arxiv.org/abs/2412.03142)][[project link](https://afforddp.github.io/)][`ShanghaiTech University`]
+
+
 
  ***
  **[Year 2025]**
 
+* **ET-SEED(ICLR2025)(arxiv2024.11)** ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy [[openreview link](https://openreview.net/forum?id=OheAR2xrtb)][[arxiv link](https://arxiv.org/abs/2411.03990)][[project link](https://et-seed.github.io/)][[code|official](https://github.com/yuechen0614/ET-SEED)][`Peking University + National University of Singapore`; `Hao Dong`]
 
 * **DreamToManipulate(ICLR2025)(arxiv2024.12)** Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination [[openreview link](https://openreview.net/forum?id=3RSLW9YSgk)][[arxiv link](https://arxiv.org/abs/2412.14957)][[project link](https://leobarcellona.github.io/DreamToManipulate/)][`University of Padova + Polytechnic of Torino + University of Amsterdam`]
 
@@ -838,15 +850,18 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **REDS(arxiv2025.02)** Subtask-Aware Visual Reward Learning from Segmented Demonstrations [[arxiv link](https://arxiv.org/abs/2502.20630)][[project link](https://changyeon.site/reds/)][[code|official](https://csmile-1006.github.io/REDS/)][`KAIST + University of Michigan + LG AI Research`]
 
+* **IVNTR(arxiv2025.02)** Bilevel Learning for Bilevel Planning [[arxiv link](https://arxiv.org/abs/2502.08697)][`Carnegie Mellon University + Centaur AI Institute + Princeton University`]
+
+* **IMLE-Policy(arxiv2025.02)** IMLE Policy: Fast and Sample Efficient Visuomotor Policy Learning via Implicit Maximum Likelihood Estimation [[arxiv link](https://arxiv.org/abs/2502.12371)][[project link](https://imle-policy.github.io/)][`QUT Centre for Robotics + Sydekick Robotics`]
 
 
 * 👍**★-Gen(arxiv2025.03)** A Taxonomy for Evaluating Generalist Robot Policies [[arxiv link](https://arxiv.org/abs/2503.01238)][[project link](https://stargen-taxonomy.github.io/)][`Stanford University + Google DeepMind Robotics`]
 
 * **Scalable-Real2Sim(arxiv2025.03)** Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups [[arxiv link](https://arxiv.org/abs/2503.00370)][[project link](https://scalable-real2sim.github.io/)][[code|official](https://github.com/nepfaff/scalable-real2sim)][`Massachusetts Institute of Technology + Amazon Robotics`]
 
+* **Falcon(arxiv2025.03)** Fast Visuomotor Policies via Partial Denoising [[arxiv link](https://arxiv.org/abs/2503.00339)][`Peking University + BIGAI`]
+
 
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-
 
