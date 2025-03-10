@@ -53,6 +53,17 @@
 * **EfficientTAM(arxiv2024.11)** Efficient Track Anything [[arxiv link](https://arxiv.org/abs/2411.18933)][[project link](https://yformer.github.io/efficient-track-anything/)][[code|official](https://github.com/yformer/EfficientTAM)][`Meta AI + Nanyang Technological University`]
 
 
+***
+
+## ⭐Visual Reference as Prompt for SAM
+*for the `Reference Detection and Segmentation` task*
+
+* **PerSAM(ICLR2024)(arxiv2023.05)** Personalize Segment Anything Model with One Shot [[openreview link](https://openreview.net/forum?id=6Gzkhoc6YS)][[arxiv link](https://arxiv.org/abs/2305.03048)][[code|official](https://github.com/ZrrSkywalker/Personalize-SAM)][`CUHK MMLab + Shanghai Artificial Intelligence Laboratory + Institute of Automation, Chinese Academy of Sciences + CFCS, School of CS, Peking University + CPII of InnoHK`]
+
+* **VRP-SAM(CVPR2024)(arxiv2024.02)** VRP-SAM: SAM with Visual Reference Prompt [[paper link](http://openaccess.thecvf.com/content/CVPR2024/html/Sun_VRP-SAM_SAM_with_Visual_Reference_Prompt_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2402.17726)][[code|official](https://github.com/syp2ysy/VRP-SAM)][`Nanjing University of Science and Technology + Baidu VIS + Beihang University + Australian National University`]
+
+* **VLP-SAM(arxiv2025.02)** VLP-SAM: Vision and Language reference Prompt into SAM [[arxiv link](https://arxiv.org/abs/2502.00719)][[code|official](https://github.com/kosukesakurai1/VLP-SAM)][`Waseda University`][It is still based on the large `sam_vit_h_4b8939.pth` weight, and not user-friendly for real-time inference.]
+
 
 ***
 
