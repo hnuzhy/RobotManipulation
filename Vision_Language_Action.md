@@ -73,6 +73,9 @@
 
 * **RoboSpatial(arxiv2024.11)** RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics [[arxiv link](https://arxiv.org/abs/2411.16537)][`The Ohio State University + NVIDIA`]
 
+* **AgiBot-World(year2025.03)** AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[pdf link](https://opendrivelab.com/assets/file/AgiBot_World_Colosseo.pdf)][[project link](https://agibot-world.com/)][[dataset link](https://huggingface.co/agibot-world)][[research blog](https://opendrivelab.com/blog/agibot-world/)][[code|official](https://github.com/OpenDriveLab/agibot-world)][`Team AgiBot-World`]
+
+
 
 ***
 
