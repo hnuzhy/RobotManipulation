@@ -74,11 +74,13 @@
 ***
 
 ## ⭐Depth Anything Series
-*for the `monocular depth estimation` task*
+*for the `monocular depth estimation` and `stereo matching` task*
 
 * **DepthAnything(CVPR2024)(arxiv2024.01)** Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Depth_Anything_Unleashing_the_Power_of_Large-Scale_Unlabeled_Data_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2401.10891)][[project link](https://depth-anything.github.io/)][[code|official](https://github.com/LiheYoung/Depth-Anything)][`HKU + TikTok + CUHK + ZJU`][the first author is [`Lihe Yang`](https://liheyoung.github.io/)][two keys factors: following the `scaling law of large dataset` and the `semi-supervised learning` technique][It harnesses large-scale unlabeled data to speed up data scaling-up and increase the data coverage]
   
 * **DepthAnythingV2(NIPS2025)(arxiv2024.06)** Depth Anything V2 [[arxiv link](https://arxiv.org/abs/2406.09414)][[project link](https://depth-anything-v2.github.io/)][[code|official](https://github.com/DepthAnything/Depth-Anything-V2)][`HKU + TikTok`][the first author is [`Lihe Yang`](https://liheyoung.github.io/)][two keys factors: following the `scaling law of large dataset` and the `semi-supervised learning` technique][It demonstrates “precise synthetic data + pseudo-labeled real data” is a more promising roadmap than labeled real data]
+
+* **FoundationStereo(CVPR2025)(arxiv2025.01)** FoundationStereo: Zero-Shot Stereo Matching [[arxiv link](https://arxiv.org/abs/2501.09898)][[project link](https://nvlabs.github.io/FoundationStereo/)][[code|official](https://github.com/NVlabs/FoundationStereo)][`NVIDIA`]
 
 
 ***
@@ -98,6 +100,7 @@
 * **FoundationPose(CVPR2024 Highlight)(arxiv2023.12)** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Wen_FoundationPose_Unified_6D_Pose_Estimation_and_Tracking_of_Novel_Objects_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2312.08344)][[project link](https://nvlabs.github.io/FoundationPose/)][[code|official](https://github.com/NVlabs/FoundationPose)][`NVIDIA`]
 
 * **OrientAnything(arxiv2024.12)** Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models [[arxiv link](https://arxiv.org/abs/2412.18605)][[project link](https://orient-anything.github.io/)][[code|official](https://github.com/SpatialVision/Orient-Anything)][`Zhejiang University + Sea AI Lab + The University of Hong Kong`]
+
 
 ***
 
