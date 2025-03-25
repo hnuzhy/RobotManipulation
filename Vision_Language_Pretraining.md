@@ -5,6 +5,8 @@
 
 ## Materials
 
+* [**(github)** VILA: Optimized Vision Language Models, VILA is a family of SOTA VLMs for diverse multimodal AI tasks across the edge, data center, and cloud.](https://github.com/NVlabs/VILA)
+
 ## Datasets
 
 ## Papers
