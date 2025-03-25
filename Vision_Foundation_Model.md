@@ -9,6 +9,7 @@
 * [**(github)** Awesome-Segment-Anything: the first comprehensive survey on Meta AI's Segment Anything Model (SAM).](https://github.com/liliu-avril/Awesome-Segment-Anything)
 * [**(github)** Segment-anything related awesome extensions/projects/repos](https://github.com/JerryX1110/awesome-segment-anything-extensions)
 * [**(github)** Tracking and collecting papers/projects/others related to Segment Anything](https://github.com/Hedlen/awesome-segment-anything)
+* [**(github)** (segment-anything-2 real-time) Run Segment Anything Model 2 on a live video stream](https://github.com/Gy920/segment-anything-2-real-time)
 
 ### Papers
 
@@ -47,7 +48,6 @@
 * **UOIS-SAM(arxiv2024.09)** Adapting Segment Anything Model for Unseen Object Instance Segmentation [[arxiv link](https://arxiv.org/abs/2409.15481)][`CUHK`][`Unseen Object Instance Segmentation (UOIS) SAM`]
 
 * **SAMPart3D(arxiv2024.11)** SAMPart3D: Segment Any Part in 3D Objects [[arxiv link](https://arxiv.org/abs/2411.07184)][[project link](https://yhyang-myron.github.io/SAMPart3D-website/)][[code|official](https://github.com/Pointcept/SAMPart3D)][`The University of Hong Kong + VAST`]
-
 
 
 ***
