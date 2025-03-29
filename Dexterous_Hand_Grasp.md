@@ -295,6 +295,14 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * 👍**VF-IHM-IL(ICRA2025)(arxiv2025.03)** Variable-Friction In-Hand Manipulation for Arbitrary Objects via Diffusion-Based Imitation Learning [[arxiv link](https://arxiv.org/abs/2503.02738)][[project link](https://sites.google.com/view/vf-ihm-il/home)][`MTL, Imperial College London	+ Princeton University`]
 
+* **IBORL(arxiv2025.03)** Dexterous Hand Manipulation via Efficient Imitation-Bootstrapped Online Reinforcement Learning [[arxiv link](https://arxiv.org/abs/2503.04014)][[project link](https://hggforget.github.io/iborl.github.io/)][`JD Explore Academy`][Imitation-Bootstrapped Online Reinforcement Learning (IBORL); It used the `Inspire RH56BFX` Dexterous Hand.]
+
+* **DexGrasp-Anything(CVPR2025)(arxiv2025.03)** DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness [[arxiv link](https://arxiv.org/abs/2503.08257)][[project link](https://dexgraspanything.github.io/)][[code|official](https://github.com/4DVLab/DexGrasp-Anything)][`ShanghaiTech University`][It used the `ShadowHand` for real experiments]
+
+* **SeqMultiGrasp(arxiv2025.03)** Sequential Multi-Object Grasping with One Dexterous Hand [[arxiv link](https://arxiv.org/abs/2503.09078)][[project link](https://hesic73.github.io/SeqMultiGrasp/)][`University of Southern California + Fudan University + INSAIT`]
+
+
+
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
 
