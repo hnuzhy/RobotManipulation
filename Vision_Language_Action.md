@@ -867,5 +867,96 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 
 
+* **IBORL(arxiv2025.03)** Dexterous Hand Manipulation via Efficient Imitation-Bootstrapped Online Reinforcement Learning [[arxiv link](https://arxiv.org/abs/2503.04014)][[project link](https://hggforget.github.io/iborl.github.io/)][`JD Explore Academy`][Imitation-Bootstrapped Online Reinforcement Learning (IBORL); It used the `Inspire RH56BFX` Dexterous Hand.]
+
+* 👍**DemoGen(arxiv2025.02)** DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [[arxiv link](https://arxiv.org/abs/2502.16932)][[project link](https://demo-generation.github.io/)][[code|official](https://github.com/TEA-Lab/DemoGen)][`Tsinghua University + Shanghai Qi Zhi Institute + Shanghai AI Lab`; `Huazhe Xu`]
+
+* **KUDA(ICRA2025)(arxiv2025.03)** KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2503.10546)][[project link](https://kuda-dynamics.github.io/)][[code|official](https://github.com/StoreBlank/KUDA)][`Tsinghua University + University of Illinois Urbana-Champaign + Columbia University`]
+
+* **FreePose(ICLR2025)(arxiv2025.03)** 6D Object Pose Tracking in Internet Videos for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2503.10307)][[project link](https://ponimatkin.github.io/freepose/)][[code|official](https://github.com/ponimatkin/freepose)][`Czech Technical University in Prague + H Company`]
+
+* 👍**AhaRobot(arxiv2025.03)** AhaRobot: A Low-Cost Open-Source Bimanual Mobile Manipulator for Embodied AI [[arxiv link](https://arxiv.org/abs/2503.10070)][[project link](https://aha-robot.github.io/)][[code|official](https://github.com/hilookas/astra_ws)][`Tianjin University`][A new Robot Platform named `AhaRobot`]
+
+* **2HandedAfforder(arxiv2025.03)** 2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos [[arxiv link](https://arxiv.org/abs/2503.09320)][[project link](https://sites.google.com/view/2handedafforder)][[code|official](https://github.com/pearl-robot-lab)][`PEARL Lab, TU Darmstadt, Germany`]
+
+* **HybridVLA(arxiv2025.03)** HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model [[arxiv link](https://arxiv.org/abs/2503.10631)][[project link](https://hybrid-vla.github.io/)][[code|official](https://github.com/PKU-HMI-Lab/Hybrid-VLA)][`Peking University + Beijing Academy of Artificial Intelligence (BAAI) + CUHK`]
+
+* **Decoupled-Interaction(arxiv2025.03)** Rethinking Bimanual Robotic Manipulation: Learning with Decoupled Interaction Framework [[arxiv link](https://arxiv.org/abs/2503.09186)][`Sun Yat-sen University + Imperial College London`]
+
+* **LiteVLP(arxiv2025.03)** Towards Fast, Memory-based and Data-Efficient Vision-Language Policy [[arxiv link](https://arxiv.org/abs/2503.10322)][[project link](https://hustvl.github.io/LiteVLP/)][`Huazhong University of Science and Technology`]
+
+* **FP3(arxiv2025.03)** FP3: A 3D Foundation Policy for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2503.08950)][[project link](https://3d-foundation-policy.github.io/)][[code|official](https://github.com/horipse01/3d-foundation-policy)][`Tsinghua University + Shanghai AI Laboratory + Shanghai Qi Zhi Institute + UC San Diego`; `Yang Gao`]
+
+* **DexGrasp-Anything(CVPR2025)(arxiv2025.03)** DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness [[arxiv link](https://arxiv.org/abs/2503.08257)][[project link](https://dexgraspanything.github.io/)][[code|official](https://github.com/4DVLab/DexGrasp-Anything)][`ShanghaiTech University`][It used the `ShadowHand` for real experiments]
+
+* 👍**BRS(arxiv2025.03)** BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [[arxiv link](https://arxiv.org/abs/2503.05652)][[project link](https://behavior-robot-suite.github.io/)][[code|official](https://github.com/behavior-robot-suite/brs-algo)][`Stanford University`; `Shuran Song + Jiajun Wu + Li Fei-Fei`][The hardware is named `JoyLo: Joy-Con on Low-Cost Kinematic-Twin Arms`; The model is named `WB-VIMA: Whole-Body VisuoMotor Attention Policy`]
+
+* **GarmentPile(CVPR2025)(arxiv2025.03)** GarmentPile: Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation [[arxiv link](https://arxiv.org/abs/2503.09243)][[project link](https://garmentpile.github.io/)][[code|official](https://github.com/AlwaySleepy/Garment-Pile)][`PKU`; `Hao Dong`]
+
+* **SeqMultiGrasp(arxiv2025.03)** Sequential Multi-Object Grasping with One Dexterous Hand [[arxiv link](https://arxiv.org/abs/2503.09078)][[project link](https://hesic73.github.io/SeqMultiGrasp/)][`University of Southern California + Fudan University + INSAIT`]
+
+* **AffordDexGrasp(arxiv2025.03)** AffordDexGrasp: Open-set Language-guided Dexterous Grasp with Generalizable-Instructive Affordance [[arxiv link](https://arxiv.org/abs/2503.07360)][[project link](https://isee-laboratory.github.io/AffordDexGrasp/)][`Sun Yat-sen University`]
+
+* **SlotMIM(CVPR2025)(arxiv2025.03)** A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning [[arxiv link](https://arxiv.org/abs/2503.06960)][[project link]()][[code|official](https://github.com/CVMI-Lab/SlotMIM)][`The University of Hong Kong + University of Edinburgh + Shanghai AI Laboratory`; `Jiangmiao Pang + Xiaojuan Qi`]
+
+* 👍**DensePolicy/DspNet(arxiv2025.03)** Dense Policy: Bidirectional Autoregressive Learning of Actions [[arxiv link](https://arxiv.org/abs/2503.13217)][[project link](https://selen-suyue.github.io/DspNet/)][[code|official-1](https://github.com/Selen-Suyue/DensePolicy2D)][[code|official-2](https://github.com/Selen-Suyue/DensePolicy)][`Shanghai Jiao Tong University + Xidian University + Shanghai Innovation Institute`; `Haoshu Fang + Yong-Lu Li + Cewu Lu1 + Lixin Yang`]
+
+* **FLEX(ICRA2025)(arxiv2025.03)** FLEX: A Framework for Learning Robot-Agnostic Force-based Skills Involving Sustained Contact Object Manipulation [[arxiv link](https://arxiv.org/abs/2503.13418)][[project link](https://tufts-ai-robotics-group.github.io/FLEX/)][[code|official](https://github.com/tufts-ai-robotics-group/FLEX)][`Tufts University`]
+
+* 👍**HumanoidPolicy(arxiv2025.03)** Humanoid Policy ~ Human Policy [[arxiv link](https://arxiv.org/abs/2503.13441)][[project link](https://human-as-robot.github.io/)][[code|official](https://github.com/RogerQi/human-policy)][UC San Diego + CMU + University of Washington + MIT + Apple`; `Xiaolong Wang`]
+
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
 
