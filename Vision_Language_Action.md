@@ -745,8 +745,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **DexH2R(arxiv2024.11)** DexH2R: Task-oriented Dexterous Manipulation from Human to Robots [[arxiv link](https://arxiv.org/abs/2411.04428)][` University of California, Berkeley`]
 
-* **LEGATO(arxiv2024.11)** LEGATO: Cross-Embodiment Imitation Using a Grasping Tool [[arxiv link](http://arxiv.org/abs/2411.03682)][[project link](https://ut-hcrl.github.io/LEGATO/)][[code|official](https://github.com/UT-HCRL/LEGATO)][`1The University of Texas at Austin + The AI Institute`; `Yuke Zhu`]
-
 * **RT-Affordance(arxiv2024.11)** RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2411.02704)][[project link](https://snasiriany.me/rt-affordance)][`Google DeepMind + The University of Austin at Texas`; `Yuke Zhu`]
 
 * **CogACT(arxiv2024.11)** CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2411.19650)][[project link](https://cogact.github.io/)][[code|official](https://github.com/microsoft/CogACT)][`Microsoft Research Asia + Tsinghua University + USTC + Institute of Microelectronics, CAS`]
@@ -796,6 +794,8 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
  ***
  **[Year 2025]**
+
+* **LEGATO(RAL2025)(arxiv2024.11)** LEGATO: Cross-Embodiment Imitation Using a Grasping Tool [[paper link](https://ieeexplore.ieee.org/abstract/document/10855557)][[arxiv link](http://arxiv.org/abs/2411.03682)][[project link](https://ut-hcrl.github.io/LEGATO/)][[code|official](https://github.com/UT-HCRL/LEGATO)][`1The University of Texas at Austin + The AI Institute`; `Yuke Zhu`]
 
 * **ET-SEED(ICLR2025)(arxiv2024.11)** ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy [[openreview link](https://openreview.net/forum?id=OheAR2xrtb)][[arxiv link](https://arxiv.org/abs/2411.03990)][[project link](https://et-seed.github.io/)][[code|official](https://github.com/yuechen0614/ET-SEED)][`Peking University + National University of Singapore`; `Hao Dong`]
 
