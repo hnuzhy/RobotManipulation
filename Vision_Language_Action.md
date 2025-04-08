@@ -853,7 +853,7 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **HEP(arxiv2025.02)** Hierarchical Equivariant Policy via Frame Transfer [[arxiv link](https://arxiv.org/abs/2502.05728)][`Northeastern University + Boston Dynamics AI Institute`]
 
-* 👍**AnyPlace(arxiv2025.02)** AnyPlace: Learning Generalized Object Placement for Robot Manipulation [[arxiv link](https://www.arxiv.org/abs/2502.04531)][[project link](https://any-place.github.io/)][[code|official](https://github.com/ac-rad/anyplace)][ University of Toronto + Vector Institute + Shanghai Jiao Tong University + Wilfrid Laurier University + Acceleration Consortium + Georgia Institute of Technology ]
+* 👍**AnyPlace(arxiv2025.02)** AnyPlace: Learning Generalized Object Placement for Robot Manipulation [[arxiv link](https://www.arxiv.org/abs/2502.04531)][[project link](https://any-place.github.io/)][[code|official](https://github.com/ac-rad/anyplace)][`University of Toronto + Vector Institute + Shanghai Jiao Tong University + Wilfrid Laurier University + Acceleration Consortium + Georgia Institute of Technology`]
 
 * **S2-Diffusion(arxiv2025.02)** S2-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation [[arxiv link](https://arxiv.org/abs/2502.09389)][`KTH Royal Institute of Technology, Sweden + INCAR Robotics AB, Sweden`]
 
