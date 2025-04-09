@@ -803,9 +803,9 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * 👍**HAMSTER(ICLR2025)(arxiv2025.02)** HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation [[openreview link](https://openreview.net/forum?id=h7aQxzKbq6)][[arxiv link](https://arxiv.org/abs/2502.05485)][[project link](https://hamster-robot.github.io/)][`NVIDIA + University of Washington + University of Southern California`]
 
-* **KUDA(ICRA2025)(arxiv2025.03)** KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2503.10546)][[project link](https://kuda-dynamics.github.io/)][[code|official](https://github.com/StoreBlank/KUDA)][`Tsinghua University + University of Illinois Urbana-Champaign + Columbia University`]
-
 * **FreePose(ICLR2025)(arxiv2025.03)** 6D Object Pose Tracking in Internet Videos for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2503.10307)][[project link](https://ponimatkin.github.io/freepose/)][[code|official](https://github.com/ponimatkin/freepose)][`Czech Technical University in Prague + H Company`]
+
+* **KUDA(ICRA2025)(arxiv2025.03)** KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2503.10546)][[project link](https://kuda-dynamics.github.io/)][[code|official](https://github.com/StoreBlank/KUDA)][`Tsinghua University + University of Illinois Urbana-Champaign + Columbia University`]
 
 * **ViViDex(ICRA2025)(arxiv2024.04)** ViViDex: Learning Vision-based Dexterous Manipulation from Human Videos [[arxiv link](https://arxiv.org/abs/2404.15709)][[project link](https://zerchen.github.io/projects/vividex.html)][`Inria + Mohamed bin Zayed University of Artificial Intelligence`]
 
