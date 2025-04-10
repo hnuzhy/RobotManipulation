@@ -285,6 +285,8 @@
 
 * 👍**SimplerEnv(arxiv2024.05)** Evaluating Real-World Robot Manipulation Policies in Simulation [[arxiv link](https://arxiv.org/abs/2405.05941)][[project link](https://simpler-env.github.io/)][[code|official](https://github.com/simpler-env/SimplerEnv)][`UC San Diego + Stanford University + UC Berkeley + Google DeepMind`][Evaluating and reproducing real-world robot manipulation policies (e.g., `RT-1, RT-1-X, Octo`) in simulation under common setups (e.g., `Google Robot, WidowX+Bridge`)]
 
+* **IntervenGen(IROS2024)(arxiv2024.05)** IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning [[paper link](https://ieeexplore.ieee.org/abstract/document/10801523)][[arxiv link](https://arxiv.org/abs/2405.01472)][[project link](https://sites.google.com/view/intervengen2024)][`UC Berkeley + NVIDIA`; `Dieter Fox`]
+
 * 👍**RoboCasa(RSS2024)(arxiv2024.06)** RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots [[arxiv link](https://arxiv.org/pdf/2406.02523)][[project link](https://robocasa.ai/)][[weixin blog](https://mp.weixin.qq.com/s/PPXPbJYru1ZOxgJaMtzDjg)][[zhihu blog](https://zhuanlan.zhihu.com/p/701052987)][[code|official](https://github.com/robocasa/robocasa)][`The University of Texas at Austin + NVIDIA Research`; Real2Sim2Real]
 
 * **IRASim(arxiv2024.06)** IRASim: Learning Interactive Real-Robot Action Simulators [[arxiv link](https://arxiv.org/pdf/2406.14540)][[project link](https://gen-irasim.github.io/)][[code|official](https://github.com/bytedance/IRASim)][`ByteDance Research + HKUST`; `Video Generation as Real-Robot Simulators`]
@@ -315,9 +317,11 @@
 
 * **GenSim2(CoRL2024)(arxiv2024.10)** GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs [[openreview link](https://openreview.net/forum?id=5u9l6U61S7)][[arxiv link](https://arxiv.org/abs/2410.03645)][[project link](https://gensim2.github.io/)][[code|official](https://github.com/GenSim2/gensim2)][`Tsinghua University + UCSD + Shanghai Jiao Tong University + MIT CSAIL`; `Weinan Zhang + Huazhe Xu`]
 
+* **SkillMimicGen(CoRL2024)(arxiv2024.10)** SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment [[paper link](https://proceedings.mlr.press/v270/garrett25a.html)][[openreview link](https://openreview.net/forum?id=YOFrRTDC6d)][[arxiv link](https://arxiv.org/abs/2410.18907)][[project link](https://skillgen.github.io/)][`NVIDIA`; `Dieter Fox`]
+
 * **EvalTasks(arxiv2024.10)** On the Evaluation of Generative Robotic Simulations [[arxiv link](https://arxiv.org/abs/2410.08172)][[project link](https://sites.google.com/view/evaltasks)][`The University of Hong Kong + Tsinghua University IIIS + Shanghai Qi Zhi Institute + Shanghai AI Lab`; `Yi Ma + Huazhe Xu`]
 
-* **DexMimicGen(arxiv2024.10)** DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning [[arxiv link](https://arxiv.org/abs/2410.24185)][[project link](https://dexmimicgen.github.io/)][`NVIDIA Research + UT Austin + UC San Diego`; `Yuke Zhu`]
+* **DexMimicGen(ICRA2025)(arxiv2024.10)** DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning [[arxiv link](https://arxiv.org/abs/2410.24185)][[project link](https://dexmimicgen.github.io/)][`NVIDIA Research + UT Austin + UC San Diego`; `Yuke Zhu`]
 
 * **RoboGSim(arxiv2024.11)** RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator [[arxiv link](https://arxiv.org/abs/2411.11839)][[project link](https://robogsim.github.io/)][`Harbin Institute of Technology, Shenzhen + MEGVII Technology + Zhejiang University + Institute of Computing Technology, Chinese Academy of Sciences`]
 
