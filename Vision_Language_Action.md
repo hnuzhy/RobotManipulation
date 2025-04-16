@@ -921,7 +921,7 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * 👍**HumanoidPolicy(arxiv2025.03)** Humanoid Policy ~ Human Policy [[arxiv link](https://arxiv.org/abs/2503.13441)][[project link](https://human-as-robot.github.io/)][[code|official](https://github.com/RogerQi/human-policy)][UC San Diego + CMU + University of Washington + MIT + Apple`; `Xiaolong Wang`]
 
-* **HybridGen(arxiv2025.03)** HybridGen: VLM-Guided Hybrid Planning for Scalable Data Generation of Imitation Learning [arxiv link](https://arxiv.org/abs/2503.13171)][`Sun Yat-sen University`]
+* **HybridGen(arxiv2025.03)** HybridGen: VLM-Guided Hybrid Planning for Scalable Data Generation of Imitation Learning [[arxiv link](https://arxiv.org/abs/2503.13171)][`Sun Yat-sen University`]
 
 * **JIF(arxiv2025.03)** Train Robots in a JIF: Joint Inverse and Forward Dynamics with Human and Robot Demonstrations [[arxiv link](https://arxiv.org/abs/2503.12297)][`Columbia University`]
 
