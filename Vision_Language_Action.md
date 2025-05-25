@@ -14,6 +14,8 @@
 * **Github** [Awesome-Touch - Tactile Sensor and Simulator; Visual Tactile Manipulation; Open Source.](https://github.com/linchangyi1/Awesome-Touch)
 * **Github** [awesome-embodied-vla/va/vln [vision-language-action (VLA), vision-language-navigation (VLN), vision-action (VA)]](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
 * **Github** [🔥RSS2025 & CVPR2025 & ICLR2025 Embodied AI Paper List Resources](https://github.com/Songwxuan/RSS2025-CVPR2025-ICLR2025-Embodied-AI-Paper-List)
+* **Github** [my_arXiv_daily - Robotics](https://github.com/BaiShuanghao/my_arXiv_daily?tab=readme-ov-file#robotics)
+
 
 ### ※ Representative Blogs
 * **website (CCF)** [具身智能 | CCF专家谈术语 (Cewu Lu)](https://www.ccf.org.cn/Media_list/gzwyh/jsjsysdwyh/2023-07-22/794317.shtml)
