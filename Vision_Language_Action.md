@@ -1048,25 +1048,25 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **DribbleMaster(arxiv2025.05)** Dribble Master: Learning Agile Humanoid Dribbling Through Legged Locomotion [[arxiv link](https://arxiv.org/abs/2505.12679)][[project link](https://zhuoheng0910.github.io/dribble-master/)][`Tsinghua University + Stanford University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **PartDexTOG(arxiv2025.05)** PartDexTOG: Generating Dexterous Task-Oriented Grasping via Language-driven Part Analysis [[arxiv link](https://arxiv.org/abs/2505.12294)][`National University of Defense Technology`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **GLOVER++(arxiv2025.05)** GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2505.11865)][[project link](https://teleema.github.io/projects/GLOVER++/)][[code|official](https://github.com/TeleeMa/GLOVER)][`HKUST (GZ) + HKUST`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **MasterRulesFromChaos(ICRA2025)(arxiv2025.05)** Master Rules from Chaos: Learning to Reason, Plan, and Interact from Chaos for Tangram Assembly [[arxiv link](https://arxiv.org/abs/2505.11818)][[project link](https://robotll.github.io/MasterRulesFromChaos/)][[code|official](https://github.com/RobotLL/MasterRulesFromChaos)][`HKUST`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ALDA(arxiv2025.05)** Zero-Shot Visual Generalization in Robot Manipulation [[arxiv link](https://arxiv.org/abs/2505.11719)][[project link](https://sites.google.com/view/vis-gen-robotics/home)][`University of Southern California`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **EmbodiedMAE(arxiv2025.05)** EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2505.10105)][`Tianjin University + Huawei Noah’s Ark Lab`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **TeleOpBench(arxiv2025.05)** TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation [[arxiv link](https://arxiv.org/abs/2505.12748)][[project link](https://gorgeous2002.github.io/TeleOpBench/)][`Shanghai Artificial Intelligence Laboratory + Zhejiang University + The Chinese University of Hong Kong + The Hong Kong University of Science and Technology (Guangzhou) + The University of Hong Kong + Feeling AI`; `Jiangmiao Pang`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **FlowDreamer(arxiv2025.05)** FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2505.10075)][[project link](https://sharinka0715.github.io/FlowDreamer/)][[code|official](https://github.com/sharinka0715/FlowDreamer/)][`BIGAI + THU + BNU + HUST`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **GTAs(arxiv2025.05)** Grounded Task Axes: Zero-Shot Semantic Skill Generalization via Task-Axis Controllers and Visual Foundation Models [[arxiv link](https://arxiv.org/abs/2505.11680)][`CMU`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ReWiND(arxiv2025.05)** ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations [[arxiv link](https://arxiv.org/abs/2505.10911)][[project link](https://rewind-reward.github.io/)][`University of Southern California + Amazon Robotics + KAIST`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **H2R(arxiv2025.05)** H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos [[arxiv link](https://arxiv.org/abs/2505.11920)][`Peking University + University of Washington`]
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
