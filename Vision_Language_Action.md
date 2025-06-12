@@ -795,7 +795,7 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **CoA-VLA(arxiv2024.12)** Improving Vision-Language-Action Models via Chain-of-Affordance [[arxiv link](https://arxiv.org/abs/2412.20451)][[project link](https://chain-of-affordance.github.io/)][`Midea Group + Shanghai University + East China Normal University`]
 
-* **GAPS(arxiv2024.12)** Generalizable Articulated Object Perception with Superpoints [[arxiv link](https://arxiv.org/abs/2412.16656)][`Shanghai Jiao Tong University + National University of Singapore + University of Science and Technology of China + Hefei University of Technology + National Institute of Technology`; `Cewu Lu`][Generalizable Articulated Object Perception with Superpoints (GAPS)]
+* **GAPS(arxiv2024.12)** Generalizable Articulated Object Perception with Superpoints [[arxiv link](https://arxiv.org/abs/2412.16656)][`Shanghai Jiao Tong University + National University of Singapore + University of Science and Technology of China + Hefei University of Technology + National Institute of Technology`; `Cewu Lu`]
 
 * **RFMP(arxiv2024.12)** Fast and Robust Visuomotor Riemannian Flow Matching Policy [[arxiv link](https://arxiv.org/abs/2412.10855)][[project link](https://sites.google.com/view/rfmp)][`Bosch Center for Artificial Intelligence + KTH`]
 
