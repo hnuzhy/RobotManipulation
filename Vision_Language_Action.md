@@ -1014,21 +1014,21 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **ADCS(arxiv2025.05)** Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation [[arxiv link](https://arxiv.org/abs/2505.13667)][[project link](https://adaptive-diffusion-constrained-sampling.github.io/)][`TU Darmstadt + Hessian.AI + Robotics Institute Germany`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **AGNOSTOS(arxiv2025.05)** Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization [[arxiv link](https://arxiv.org/abs/2505.15660)][[project link](https://jiaming-zhou.github.io/AGNOSTOS/)][[code|official](https://github.com/jiaming-zhou/X-ICM)][`HKUST(GZ) + HKU + SYSU + HKUST`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **DORA(arxiv2025.05)** DORA: Object Affordance-Guided Reinforcement Learning for Dexterous Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2505.14819)][[project link](https://sites.google.com/view/dora-manip)][`University of Hamburg + Agile Robots SE + Technical University of Munich`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **SketchInterfacePoC(HRI2025)(arxiv2025.05)** Sketch Interface for Teleoperation of Mobile Manipulator to Enable Intuitive and Intended Operation: A Proof of Concept [[arxiv link](https://arxiv.org/abs/2505.13931)][[project link](https://toyotafrc.github.io/SketchInterfacePoC-Proj/)][`Frontier Research Center, Toyota Motor Corporation + Aichi Institute of Technology`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **AnyBody(arxiv2025.05)** AnyBody: A Benchmark Suite for Cross-Embodiment Manipulation [[arxiv link](https://arxiv.org/abs/2505.14986)][[project link](https://princeton-vl.github.io/anybody/)][`Princeton University`; `Jia Deng`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **RoboCulture(arxiv2025.05)** RoboCulture: A Robotics Platform for Automated Biological Experimentation [[arxiv link](https://arxiv.org/abs/2505.14941)][[project link](https://ac-rad.github.io/roboculture)][[code|official](https://github.com/ac-rad/roboculture)][`University of Toronto + Vector Institute + Toronto General Health Research Institute + Acceleration Consortium + Canadian Institute for Advanced Research + NVIDIA`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Vid2World(arxiv2025.05)** Vid2World: Crafting Video Diffusion Models to Interactive World Models [[arxiv link](https://arxiv.org/abs/2505.14357)][[project link](https://knightnemo.github.io/vid2world/)][`Tsinghua University + Chongqing University`; `Mingsheng Long`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **AutoBio(arxiv2025.05)** AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory [[arxiv link](https://arxiv.org/abs/2505.14030)][[code|official](https://github.com/autobio-bench/AutoBio)][`HKU + TeleAI + THU + SJTU + HKU + Shanghai Intelligent Computing Center`; `Xiaokang Yang + Xuelong Li + Ping Luo`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ReasonManip(arxiv2025.05)** Incentivizing Multimodal Reasoning in Large Models for Direct Robot Manipulation [[arxiv link](https://arxiv.org/abs/2505.12744)][`CUHK + RUC`]
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
