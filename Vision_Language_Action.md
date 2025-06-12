@@ -1030,23 +1030,23 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **ReasonManip(arxiv2025.05)** Incentivizing Multimodal Reasoning in Large Models for Direct Robot Manipulation [[arxiv link](https://arxiv.org/abs/2505.12744)][`CUHK + RUC`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **FLARE(arxiv2025.05)** FLARE: Robot Learning with Implicit World Modeling [[arxiv link](https://arxiv.org/abs/2505.15659)][[project link](https://research.nvidia.com/labs/gear/flare)][[code|official](http://github.com/nvidia/flare)][`NVIDIA`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **CDM(ICRA2025)(arxiv2025.05)** Cascaded Diffusion Models for Neural Motion Planning [[arxiv link](https://arxiv.org/abs/2505.15157)][`Carnegie Mellon University + University of Washington + Hello Robot`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **AdapTac-Dex(arxiv2025.05)** Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2505.13982)][[project link](https://adaptac-dex.github.io/)][[code|official](https://github.com/kingchou007/adaptac-dex.git)][`PKU + Ant Research`; `Hao Dong`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **GraspMolmo(arxiv2025.05)** GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation [[arxiv link](https://arxiv.org/abs/2505.13441)][[project link](https://abhaybd.github.io/GraspMolmo/)][[code|official](https://github.com/abhaybd/GraspMolmo)][`PRIOR @ Allen Institute for AI + Boston University + University of Washington + UT Austin`; `Yuke Zhu`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **MAPPO(arxiv2025.05)** Toward Real-World Cooperative and Competitive Soccer with Quadrupedal Robot Teams [[arxiv link](https://arxiv.org/abs/2505.13834)][`UC Berkeley + Tsinghua University + Zhejiang University + Shanghai Qi Zhi Institute`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Scoring-RL-DexGrasp(ICRA2025)(arxiv2025.05)** Composing Dextrous Grasping and In-hand Manipulation via Scoring with a Reinforcement Learning Critic [[arxiv link](https://arxiv.org/abs/2505.13253)][[project link](https://aidx-lab.org/manipulation/icra25)][`Technical University of Munich`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **SMS(arxiv2025.05)** Scan, Materialize, Simulate: A Generalizable Framework for Physically Grounded Robot Planning [[arxiv link](https://arxiv.org/abs/2505.14938)][`Stanford University + NVIDIA Research`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **RoboFAC(arxiv2025.05)** RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction [[arxiv link](https://arxiv.org/abs/2505.12224)][[project link](https://mint-sjtu.github.io/RoboFAC.io/)][[code|official](https://github.com/MINT-SJTU/RoboFAC)][`Shanghai Jiao Tong University + Xiamen University + Harbin Institute of Technology, Shenzhen`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **DribbleMaster(arxiv2025.05)** Dribble Master: Learning Agile Humanoid Dribbling Through Legged Locomotion [[arxiv link](https://arxiv.org/abs/2505.12679)][[project link](https://zhuoheng0910.github.io/dribble-master/)][`Tsinghua University + Stanford University`]
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
