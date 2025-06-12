@@ -996,7 +996,7 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **WaveletPolicy(arxiv2025.04)** Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms [[arxiv link](https://arxiv.org/abs/2504.04991)][`Zhejiang University + Tsinghua Universit`]
 
-* **FLOSS(arxiv2025.04)** FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation [[arxiv link](https://arxiv.org/abs/2504.10487)][[project link](https://yasserben.github.io/FLOSS/)][[code|official](https://github.com/yasserben/FLOSS)][`Inria + Valeo.ai`](https://img.shields.io/badge/Open_Vocabulary-Segmentation-blue)
+* **FLOSS(arxiv2025.04)** FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation [[arxiv link](https://arxiv.org/abs/2504.10487)][[project link](https://yasserben.github.io/FLOSS/)][[code|official](https://github.com/yasserben/FLOSS)][`Inria + Valeo.ai`] https://img.shields.io/badge/Open_Vocabulary-Segmentation-blue
 
 
 
