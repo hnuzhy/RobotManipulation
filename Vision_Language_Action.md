@@ -1000,6 +1000,152 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 
 
+* **3D-VLA(ICML2024)(arxiv2024.03)** 3D-VLA: A 3D Vision-Language-Action Generative World Model [[paper link](https://proceedings.mlr.press/v235/zhen24a.html)][[arxiv link](https://arxiv.org/abs/2403.09631)][[project link](https://vis-www.cs.umass.edu/3dvla)][`UMA + SJTU + SCUT + WHU + MIT + UCLA`]
+
+* **ManipLVM-R1(arxiv2025.05)** ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models [[arxiv link](https://arxiv.org/abs/2505.16517)][`MZUAI + ByteDance + CAS + ANU + RUA + WHU`]
+
+* **TacCompress(arxiv2025.05)** TacCompress: A Benchmark for Multi-Point Tactile Data Compression in Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2505.16289)][`PaXini Tech + SJTU`]
+
+* **3D-EVP(arxiv2025.05)** 3D Equivariant Visuomotor Policy Learning via Spherical Projection [[arxiv link](https://arxiv.org/abs/2505.16969)][[project link](https://3d-equi-sphere-pro.github.io/)][`Northeastern University`]
+
+* **OFA(arxiv2025.05)** Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2505.15098)][[project link](https://yihanghku.github.io/OFA/)][`JD Explore Academy, JD Company + Beijing Jiaotong University`]
+
+* **Robo2VLM(arxiv2025.05)** Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets [[arxiv link](https://arxiv.org/abs/2505.15517)][[code|official](https://huggingface.co/datasets/keplerccc/Robo2VLM-1)][`University of California, Berkeley`]
+
+* **ADCS(arxiv2025.05)** Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation [[arxiv link](https://arxiv.org/abs/2505.13667)][[project link](https://adaptive-diffusion-constrained-sampling.github.io/)][`TU Darmstadt + Hessian.AI + Robotics Institute Germany`]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+
+
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
