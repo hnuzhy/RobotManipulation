@@ -1068,37 +1068,37 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **H2R(arxiv2025.05)** H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos [[arxiv link](https://arxiv.org/abs/2505.11920)][`Peking University + University of Washington`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **DexGarmentLab(arxiv2025.05)** DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy [[arxiv link](https://arxiv.org/abs/2505.11032)][[project link](https://wayrise.github.io/DexGarmentLab/)][[code|official](https://github.com/wayrise/DexGarmentLab)][`Peking University + University of California, Berkeley`; `Pieter Abbeel + Hao Dong`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **LAPA(arxiv2024.10)** Latent Action Pretraining from Videos [[openreview link](https://openreview.net/forum?id=VYOe2eBQeh)][[arxiv link](https://arxiv.org/abs/2410.11758)][[project link](https://latentactionpretraining.github.io/)][[code|official](https://github.com/LatentActionPretraining/LAPA)][`KAIST + University of Washington + Microsoft Research + NVIDIA + Allen Institute for AI`; `Dieter Fox`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **FoundationPose++(year2025.03)** FoundationPose++: Simple Tricks Boost FoundationPose Performance in High-Dynamic Scenes [[code|official](https://github.com/teal024/FoundationPose-plus-plus)][`Real-Time 6D Pose Tracker in High-Dynamic Scenes`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **DynOPETs(arxiv2025.03)** DynOPETs: A Versatile Benchmark for Dynamic Object Pose Estimation and Tracking in Moving Camera Scenarios [[arxiv link](https://arxiv.org/abs/2503.19625)][[project link](https://stay332.github.io/DynOPETs/)][[code|official](https://github.com/Launch-on-Titania/DynOPETs)][`ShanghaiTech University, Mobile Perception Lab + Fudan University, Multi-Agent Robotic Systems Lab`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **3DFlowAction(arxiv2025.06)** 3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model [[arxiv link](https://arxiv.org/abs/2506.06199)][[code|official](https://github.com/Hoyyyaard/3DFlowAction/)][`South China University of Technology + Tencent Robotics X + Hong Kong University of Science and Technology + Pazhou Laboratory`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **BiAssemble(ICML2025)(arxiv2025.06)** BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly [[arxiv link](https://arxiv.org/abs/2506.06221)][[project link](https://sites.google.com/view/biassembly/)][[code|official](https://github.com/sxy7147/BiAssembly)][`Peking University + PKU-Agibot Lab`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **YOEO(ICRA2025)(arxiv2025.06)** You Only Estimate Once: Unified, One-stage, Real-Time Category-level Articulated Object 6D Pose Estimation for Robotic Grasping [[arxiv link](https://arxiv.org/abs/2506.05719)][[project link](https://shanehuanghz.github.io/YOEO/)][`Fudan University + Tencent Robotics X Lab`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **CAP-Net(CVPR2025 Highlight)(arxiv2025.04)** CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_CAP-Net_A_Unified_Network_for_6D_Pose_and_Size_Estimation_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/pdf/2504.11230)][[project link](https://shanehuanghz.github.io/CAPNet/)][[code|official](https://github.com/ShaneHuangHZ/CAPNet)][`Fudan University + Huawei, Noah’s Ark Lab`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **BimanualImitation(arxiv2024.08)** A Comparison of Imitation Learning Algorithms for Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2408.06536)][[project link](https://bimanual-imitation.github.io/)][[code|official](https://github.com/ir-lab/bimanual-imitation)][`Interactive Robotics Lab, Arizona State University + The Robotics Institute, Carnegie Mellon University + Intrinsic AI (An Alphabet Company) + Intelligent Autonomous Systems Lab, TU Darmstadt`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **BitVLA(arxiv2025.06)** BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation [[arxiv link](https://arxiv.org/abs/2506.07530)][[code|official](https://github.com/ustcwhy/BitVLA)][`Chinese Academy of Sciences + University of Chinese Academy of Sciences`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **RAPID-Hand(arxiv2025.06)** RAPID Hand: A Robust, Affordable, Perception-Integrated, Dexterous Manipulation Platform for Generalist Robot Autonomy [[arxiv link](https://arxiv.org/abs/2506.07490)][[project link](https://rapid-hand.github.io/)][`Sun Yat-sen University + University of California, Merced + Chinese Academy of Sciences, Institute of Automation`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **BridgeVLA(arxiv2025.06)** BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models [[arxiv link](https://arxiv.org/abs/2506.07961)][[project link](https://bridgevla.github.io/home_page.html)][[code|official](https://github.com/BridgeVLA/BridgeVLA)][`CASIA + Bytedance Seed + UCAS + FiveAges + NJU`; `Tieniu Tan`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **UA-Pose(CVPR2025)(arxiv2025.06)** UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Li_UA-Pose_Uncertainty-Aware_6D_Object_Pose_Estimation_and_Online_Object_Completion_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2506.07996)][[project link](https://minfenli.github.io/UA-Pose/)][[code|official](https://github.com/minfenli/UA-Pose)][`Carnegie Mellon University + Stony Brook University + National Tsing Hua University + Amazon`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ReLIC(arxiv2025.06)** Versatile Loco-Manipulation through Flexible Interlimb Coordination [[arxiv link](https://arxiv.org/abs/2506.07876)][[project link](https://relic-locoman.rai-inst.com/)][`RAI Institute + University of California, Berkeley + Cornell University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **RoboCerebra(arxiv2025.06)** RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation [[arxiv link](https://arxiv.org/abs/2506.06677)][[project link](https://robocerebra.github.io/)][[dataset link](https://huggingface.co/datasets/qiukingballball/RoboCerebra)][`Beihang University + National University of Singapore + Shanghai Jiao Tong University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **MSLMaps(IJRR2025)(arxiv2025.06)** Multimodal Spatial Language Maps for Robot Navigation and Manipulation [[arxiv link](https://arxiv.org/abs/2506.06862)][[project link](https://mslmaps.github.io/)][[code|official](https://github.com/vlmaps/VLMaps)][`University of Technology Nuremberg + UC Berkeley + Google Research`]
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
