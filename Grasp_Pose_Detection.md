@@ -180,5 +180,18 @@
 
 * **NeuGrasp(ICRA2025)(arxiv2025.03)** NeuGrasp: Generalizable Neural Surface Reconstruction with Background Priors for Material-Agnostic Object Grasp Detection [[arxiv link](https://arxiv.org/abs/2503.03511)][[project link](https://neugrasp.github.io/)][[code|official](https://github.com/Fanqyu/NeuGrasp)][`Chinese Academy of Sciences + University of Chinese Academy of Sciences + Qiyuan Lab`]
 
+* **GraspMolmo(arxiv2025.05)** GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation [[arxiv link](https://arxiv.org/abs/2505.13441)][[project link](https://abhaybd.github.io/GraspMolmo/)][[code|official](https://github.com/abhaybd/GraspMolmo)][`PRIOR @ Allen Institute for AI + Boston University + University of Washington + UT Austin`; `Yuke Zhu`]
+
+* **SR3D(arxiv2025.05)** SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping [[arxiv link](https://arxiv.org/abs/2505.24305)][[project link](https://sites.google.com/view/sr3dtech/)][`Beijing University of Posts and Telecommunications + Center on Frontiers of Computing Studies, Peking University + Institute of Computing Technology, Chinese Academy of Sciences`; `Hao Dong`]
+
+* **YOEO(ICRA2025)(arxiv2025.06)** You Only Estimate Once: Unified, One-stage, Real-Time Category-level Articulated Object 6D Pose Estimation for Robotic Grasping [[arxiv link](https://arxiv.org/abs/2506.05719)][[project link](https://shanehuanghz.github.io/YOEO/)][`Fudan University + Tencent Robotics X Lab`]
+
+* **MapleGrasp(arxiv2025.06)** MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping [[arxiv link](https://arxiv.org/abs/2506.06535)][`New York University`]
+
+* **TD-TOG(arxiv2025.06)** TD-TOG Dataset: Benchmarking Zero-Shot and One-Shot Task-Oriented Grasping for Object Generalization [[arxiv link](https://arxiv.org/abs/2506.05576)][`University of Aberdeen`]
+
+
+
+
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
