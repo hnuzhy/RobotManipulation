@@ -1173,65 +1173,65 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **UniFP(arxiv2025.05)** Learning Unified Force and Position Control for Legged Loco-Manipulation [[arxiv link](https://arxiv.org/abs/2505.20829)][[project link](https://unified-force.github.io/)][`BIGAI + UniTree Robotics + Beijing University of Posts and Telecommunications`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**HANDRetrieval(arxiv2025.05)** HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval [[paper link]()][[arxiv link](https://arxiv.org/abs/2505.20455)][[project link](https://liralab.usc.edu/handretrieval/)][[code|official](https://github.com/handretrieval/hand)][`University of Southern California`][We introduce HAND, a `simple and time-efficient` method for teaching robots manipulation tasks through `human hand demonstrations`.]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **CoordinatedBadminton(ScienceRobotics2025)(arxiv2025.05)** Learning coordinated badminton skills for legged manipulators [[paper link](https://www.science.org/doi/10.1126/scirobotics.adu3922)][[arxiv link](https://arxiv.org/abs/2505.22974)][`ETH Zurich`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **HTMNet(arxiv2025.05)** HTMNet: A Hybrid Network with Transformer-Mamba Bottleneck Multimodal Fusion for Transparent and Reflective Objects Depth Completion [[arxiv link](https://arxiv.org/abs/2505.20904)][`Harbin Institute of Technology`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **DexMachina(arxiv2025.05)** DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2505.24853)][[project link](https://project-dexmachina.github.io/)][[code|official](https://github.com/MandiZhao/dexmachina)][`Stanford University + NVIDIA`; `Shuran Song`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Co-DesignSoft(arxiv2025.05)** Co-Design of Soft Gripper with Neural Physics [[arxiv link](https://arxiv.org/abs/2505.20404)][[project link](https://yswhynot.github.io/codesign-soft/)][`UC San Diego`; `Xiaolong Wang`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **VLA-RL(arxiv2025.05)** VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[arxiv link](https://arxiv.org/abs/2505.18719)][[project link](https://congruous-farmhouse-8db.notion.site/VLA-RL-Towards-Masterful-and-General-Robotic-Manipulation-with-Scalable-Reinforcement-Learning-1953a2cd706280ecaad4e93a5bd2b8e3)][[code|official](https://github.com/GuanxingLu/vlarl)][`Tsinghua University + Nanyang Technological University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ADAP(arxiv2025.05)** Mastering Agile Tasks with Limited Trials [[arxiv link](https://arxiv.org/abs/2505.21916)][[project link](https://adap-robotics.github.io/)][`Tsinghua University + Shanghai AI Laboratory + Shanghai Qi Zhi Institute`; `Yang Gao`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **WorldEval(arxiv2025.05)** WorldEval: World Model as Real-World Robot Policies Evaluator [[arxiv link](https://arxiv.org/abs/2505.19017)][[project link](https://worldeval.github.io/)][[code|official](https://github.com/liyaxuanliyaxuan/Worldeval)][`Midea Group + East China Normal University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **EgoZero(arxiv2025.05)** EgoZero: Robot Learning from Smart Glasses [[arxiv link](https://arxiv.org/abs/2505.20290)][[project link](https://egozero-robot.github.io/)][[code|official](https://github.com/vliu15/egozero)][`New York University + UC Berkeley`; `Pieter Abbeel`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ExtremumFlowMatching(arxiv2025.05)** Extremum Flow Matching for Offline Goal Conditioned Reinforcement Learning [[arxiv link](https://arxiv.org/abs/2505.19717)][[project link](https://hucebot.github.io/extremum_flow_matching_website/)][[code|official]()][`Inria, CNRS, Université de Lorraine, France + he Chinese University of Hong Kong, Hong Kong`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ManiFeel(arxiv2025.05)** ManiFeel: Benchmarking and Understanding Visuotactile Manipulation Policy Learning [[arxiv link](https://arxiv.org/abs/2505.18472)][[project link](https://zhengtongxu.github.io/manifeel-website/)][`Purdue University, USA`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **CanonicalPolicy(arxiv2025.05)** Canonical Policy: Learning Canonical 3D Representation for Equivariant Policy [[arxiv link](https://arxiv.org/abs/2505.18474)][[project link](https://zhangzhiyuanzhang.github.io/cp-website/)][`Purdue University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **PDCP(arxiv2025.05)** Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt [[arxiv link](https://arxiv.org/abs/2505.20795)][`Tsinghua University + Shanghai Qi Zhi Institute + RobotEra`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ReinFlow(arxiv2025.05)** ReinFlow: Fine-tuning Flow Matching Policy with Online Reinforcement Learning [[arxiv link](https://arxiv.org/abs/2505.22094)][[project link](https://reinflow.github.io/)][[code|official](https://github.com/ReinFlow/ReinFlow)][`Tsinghua University + Beijing Zhongguancun Academy + National University of Singapore`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **A-Position-Paper(arxiv2025.05)** Is Single-View Mesh Reconstruction Ready for Robotics? [[paper link]()][[arxiv link](https://arxiv.org/abs/2505.17966)][`University of Oxford + Max Planck Institute for Intelligent Systems & ELLIS Institute Tübingen`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **CoDA(arxiv2025.05)** CoDA: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects [[arxiv link](https://arxiv.org/abs/2505.21437)][[project link](https://phj128.github.io/page/CoDA/index.html)][[code|official](https://github.com/phj128/CoDA)][`The University of Hong Kong + Zhejiang University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **HD-Space(arxiv2025.05)** Bootstrapping Imitation Learning for Long-horizon Manipulation via Hierarchical Data Collection Space [[arxiv link](https://arxiv.org/abs/2505.17389)][[project link](https://hd-space-robotics.github.io/)][`CVTE + Sun Yat-sen University + Southwest Jiaotong University + The University of Hong Kong`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **SimpleVLA-RL(year2025.05)** Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[code|official](https://github.com/PRIME-RL/SimpleVLA-RL)][`THU`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **PI_0.5 + KI(arxiv2025.05)** Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better [[arxiv link](https://arxiv.org/abs/2505.23705)][[project link](https://www.pi.website/research/knowledge_insulation)][`Physical Intelligence`; `Sergey Levine`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **SmolVLA(arxiv2025.06)** SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics [[arxiv link](https://arxiv.org/abs/2506.01844)][[huggingface link](https://huggingface.co/docs/lerobot)][[code|official](https://github.com/huggingface/lerobot)][`Hugging Face + Sorbonne University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Grasp2Grasp(arxiv2025.06)** Grasp2Grasp: Vision-Based Dexterous Grasp Translation via Schrödinger Bridges [[arxiv link](https://arxiv.org/abs/2506.02489)][`Princeton University + San Jose State University + Lockheed Martin Corporation`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **LiPo(arxiv2025.06)** LiPo: A Lightweight Post-optimization Framework for Smoothing Action Chunks Generated by Learned Policies [[arxiv link](https://arxiv.org/abs/2506.05165)][[project link](https://sites.google.com/view/action-lipo)][[code|official](https://github.com/lab-dream/lipo)][`Kwangwoon University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**RTC(arxiv2025.06)** Real-Time Execution of Action Chunking Flow Policies [[arxiv link](https://www.arxiv.org/abs/2506.07339)][[project link](https://www.pi.website/research/real_time_chunking)][`Physical Intelligence`; `Sergey Levine`][`real-time chunking (RTC)`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**PIN-WM(RSS2025)(arxiv2025.04)** PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation [[paper link](https://roboticsconference.org/program/papers/153/)][[arxiv link](https://arxiv.org/abs/2504.16693)][[project link](https://pinwm.github.io/)][[code|official](https://github.com/XuAdventurer/PIN-WM)][`National University of Defense Technology + Wuhan University + Shenzhen University + Guangdong Laboratory of Artificial Intelligence and Digital Economy`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **CORN(ICLR2024)(arxiv2024.03)** CORN: Contact-based Object Representation for Nonprehensile Manipulation of General Unseen Objects [[openreview link](https://openreview.net/forum?id=KTtEICH4TO)][[arxiv link](https://arxiv.org/abs/2403.10760)][[project link](https://sites.google.com/view/contact-non-prehensile)][[code|official](https://github.com/iMSquared/corn)][`Korea Advanced Institute of Science and Technology (KAIST) + Kim Jaechul Graduate school of AI`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **HyDo(RAL2025)(arxiv2024.11)** Enhancing Exploration with Diffusion Policies in Hybrid Off-Policy RL: Application to Non-Prehensile Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/10978025)][[arxiv link](https://arxiv.org/abs/2411.14913)][[project link](https://leh2rng.github.io/hydo/)][`Bosch Center for Artificial Intelligence(BCAI) + Karlsruhe Institute of Technology`][Hybrid Diffusion Policy algorithm (HyDo)]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **HRP(RSS2024)(arxiv2024.07)** HRP: Human Affordances for Robotic Pre-Training [[paper link](https://roboticsproceedings.org/rss20/p068.pdf)][[arxiv link](https://arxiv.org/abs/2407.18911)][[project link](https://hrp-robot.github.io/)][[code|official](https://github.com/SudeepDasari/data4robotics/tree/hrp_release)][`Carnegie Mellon University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **DyWA(arxiv2025.03)** DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation [[arxiv link](https://arxiv.org/abs/2503.16806)][[project link](https://pku-epic.github.io/DyWA/)][[code|official](https://pku-epic.github.io/DyWA/)][`Peking University + Galbot`; `He Wang`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ProbabilisticPrehensilePushing(RAL2025)(arxiv2025.03)** Pushing Everything Everywhere All At Once: Probabilistic Prehensile Pushing [[paper link](https://ieeexplore.ieee.org/abstract/document/10930575)][[arxiv link](https://arxiv.org/abs/2503.14268)][[project link](https://probabilistic-prehensile-pushing.github.io/)][[code|official](https://github.com/PatrizioPerugini/Probabilistic_prehensile_pushing)][`Division of Robotics, Perception and Learning (RPL), KTH`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **LearnVEC(CoRL2024)(arxiv2024.12)** Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions [[openreview link](https://openreview.net/forum?id=oSU7M7MK6B)][[arxiv link](https://arxiv.org/abs/2412.13157)][[video link](https://youtu.be/hW-C8i_HWgs)][`The University of Edinburgh + The Alan Turing Institute`]
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
