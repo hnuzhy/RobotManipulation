@@ -237,15 +237,41 @@
 
 * **OOAL(CVPR2024)(arxiv2023.11)** One-Shot Open Affordance Learning with Foundation Models [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Li_One-Shot_Open_Affordance_Learning_with_Foundation_Models_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2311.17776)][[project link](https://reagan1311.github.io/ooal/)][[code|official](https://github.com/Reagan1311/OOAL)][`University of Edinburgh + Google Research + Stability AI`]
 
+* **Robo-ABC(ECCV2024)(arxiv2024.01)** Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2401.07487)][[project link](https://tea-lab.github.io/Robo-ABC)][[code|official](https://github.com/TEA-Lab/Robo-ABC)][`Shanghai Qi Zhi Institute + THU + SJTU`]
+
+* **GeneralFlow(arxiv2024.01)** General Flow as Foundation Affordance for Scalable Robot Learning [[arxiv link](https://arxiv.org/abs/2401.11439)][[project link](https://general-flow.github.io/)][[code|official](https://github.com/michaelyuancb/general_flow)][`Tsinghua University + Shanghai Artificial Intelligence Laboratory + Shanghai Qi Zhi Institute`; `Yang Gao`]
+
+* **PreAfford(IROS2024)(arxiv2024.04)** PreAfford: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments [[arxiv link](https://arxiv.org/abs/2404.03634)][[project link](https://air-discover.github.io/PreAfford/)][[code|official](https://github.com/Robot-K/PreAfford)][`THU + PKU`]
+
+* 👍**RoboPoint(CoRL2024)(arxiv2024.06)** RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics [[openreview link](https://openreview.net/forum?id=GVX6jpZOhU)][[arxiv link](https://arxiv.org/abs/2406.10721)][[project link](https://robo-point.github.io/)][[code|official](https://github.com/wentaoyuan/RoboPoint)][`University of Washington + NVIDIA`; `Dieter Fox`][ROBOPOINT is a `VLM` that predicts `image keypoint affordances` given `language instruction`s.]
+
+* 👍**RAM(CoRL2024, Oral)(arxiv2024.07)** RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation [[openreview link](https://openreview.net/forum?id=8LPXeGhhbH)][[arxiv link](https://arxiv.org/abs/2407.04689)][[project link](https://yxkryptonite.github.io/RAM/)][[code|official](https://github.com/yxKryptonite/RAM_code)][`University of Southern California + Peking University + Stanford University`; `He Wang`]
+
 * **HRP(RSS2024)(arxiv2024.07)** HRP: Human Affordances for Robotic Pre-Training [[paper link](https://roboticsproceedings.org/rss20/p068.pdf)][[arxiv link](https://arxiv.org/abs/2407.18911)][[project link](https://hrp-robot.github.io/)][[code|official](https://github.com/SudeepDasari/data4robotics/tree/hrp_release)][`Carnegie Mellon University`]
 
 * **MIFAG(arxiv2024.08)** Learning 2D Invariant Affordance Knowledge for 3D Affordance Grounding [[arxiv link](https://arxiv.org/abs/2408.13024)][[project link](https://goxq.github.io/mifag/)][[code|official](https://github.com/goxq/MIFAG-code)][`University of Science and Technology of China + Shanghai AI Laboratory + Northwestern Polytechnical University + TeleAI, China Telecom Corp Ltd`][`Multi-Image Guided Invariant-Feature-Aware 3D Affordance Grounding (MIFAG)`]
+
+* **FlowMatchingPolicy(arxiv2024.09)** Affordance-based Robot Manipulation with Flow Matching [[arxiv link](https://arxiv.org/abs/2409.01083)][[project link](https://hri-eu.github.io/flow-matching-policy/)][`Honda Research Institute EU`]
+
+* **UniAff(arxiv2024.09)** UniAff: A Unified Representation of Affordances for Tool Usage and Articulation with Vision-Language Models [[arxiv link](https://arxiv.org/abs/2409.20551)][[project link](https://sites.google.com/view/uni-aff/home)][`SJTU + HKUST + NUS + Rutgers University`; `Cewu Lu`]
+
+* **SBAMs(Humanoids 2024)(arxiv2024.10)** Learning Spatial Bimanual Action Models Based on Affordance Regions and Human Demonstrations [[arxiv link](https://arxiv.org/abs/2410.08848)][`Karlsruhe Institute of Technology`][`Spatial Bimanual Action Models`]
+
+* **affordance-policy(arxiv2024.10)** Affordance-Centric Policy Learning: Sample Efficient and Generalisable Robot Policy Learning using Affordance-Centric Task Frames [[arxiv link](https://arxiv.org/abs/2410.12124)][[project link](https://affordance-policy-policy.github.io/)][`QUT Centre for Robotics + University of Adelaide`]
+
+* **RT-Affordance(arxiv2024.11)** RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2411.02704)][[project link](https://snasiriany.me/rt-affordance)][`Google DeepMind + The University of Austin at Texas`; `Yuke Zhu`]
+
+* **CoA-VLA(arxiv2024.12)** Improving Vision-Language-Action Models via Chain-of-Affordance [[arxiv link](https://arxiv.org/abs/2412.20451)][[project link](https://chain-of-affordance.github.io/)][`Midea Group + Shanghai University + East China Normal University`]
+
+* **AffordDP(arxiv2024.12)** AffordDP: Generalizable Diffusion Policy with Transferable Affordance [[arxiv link](https://arxiv.org/abs/2412.03142)][[project link](https://afforddp.github.io/)][`ShanghaiTech University`]
 
 * **MoMa-Kitchen(arxiv2025.03)** MoMa-Kitchen: A 100K+ Benchmark for Affordance-Grounded Last-Mile Navigation in Mobile Manipulation [[arxiv link](https://arxiv.org/abs/2503.11081)][[project link](https://momakitchen.github.io/)][[code|official](https://github.com/MoMaKitchen/MoMaKitchen)][`Fudan University + Shanghai AI Laboratory + University of Science and Technology of China + Northwestern Polytechnical University + TeleAI, China Telecom Corp Ltd`; `Xuelong Li`]
 
 * **AffordDexGrasp(arxiv2025.03)** AffordDexGrasp: Open-set Language-guided Dexterous Grasp with Generalizable-Instructive Affordance [[arxiv link](https://arxiv.org/abs/2503.07360)][[project link](https://isee-laboratory.github.io/AffordDexGrasp/)][`Sun Yat-sen University`]
 
 * **2HandedAfforder(arxiv2025.03)** 2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos [[arxiv link](https://arxiv.org/abs/2503.09320)][[project link](https://sites.google.com/view/2handedafforder)][[code|official](https://github.com/pearl-robot-lab)][`PEARL Lab, TU Darmstadt, Germany`]
+
+* **GarmentPile(CVPR2025)(arxiv2025.03)** GarmentPile: Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation [[arxiv link](https://arxiv.org/abs/2503.09243)][[project link](https://garmentpile.github.io/)][[code|official](https://github.com/AlwaySleepy/Garment-Pile)][`PKU`; `Hao Dong`]
 
 * **GLOVER++(arxiv2025.05)** GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2505.11865)][[project link](https://teleema.github.io/projects/GLOVER++/)][[code|official](https://github.com/TeleeMa/GLOVER)][`HKUST (GZ) + HKUST`]
 
@@ -547,8 +573,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **DITTO(IROS2024)(arxiv2024.03)** DITTO: Demonstration Imitation by Trajectory Transformation [[arxiv link](https://arxiv.org/abs/2403.15203)][[project link](http://ditto.cs.uni-freiburg.de/)][`University of Freiburg, Germany`][`Learning from action labels free human videos`]
 
-* **PreAfford(IROS2024)(arxiv2024.04)** PreAfford: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments [[arxiv link](https://arxiv.org/abs/2404.03634)][[project link](https://air-discover.github.io/PreAfford/)][[code|official](https://github.com/Robot-K/PreAfford)][`THU + PKU`]
-
 * **ManipLLM(CVPR2024)(arxiv2023.12)** ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Li_ManipLLM_Embodied_Multimodal_Large_Language_Model_for_Object-Centric_Robotic_Manipulation_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2312.16217)][[project link](https://sites.google.com/view/manipllm)][[code|official](https://github.com/clorislili/ManipLLM)][`Peking University`]
 
 * **SkillDiffuser(CVPR2024)(arxiv2023.12)** SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_SkillDiffuser_Interpretable_Hierarchical_Planning_via_Skill_Abstractions_in_Diffusion-Based_Task_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2312.11598)][[project link](https://skilldiffuser.github.io/)][[code|official](https://github.com/Liang-ZX/skilldiffuser)][`The University of Hong Kong + UC Berkeley + Shanghai AI Laboratory`; `Ping Luo`]
@@ -595,8 +619,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **Octo(RSS2024)(arxiv2024.05)** Octo: An Open-Source Generalist Robot Policy [[paper link](https://www.roboticsproceedings.org/rss20/p090.pdf)][[arxiv link](https://arxiv.org/abs/2405.12213)][[project link](https://octo-models.github.io/)][[code|official](https://github.com/octo-models/octo)][`UC Berkeley + Stanford + CMU + Google DeepMind`][based on `RT-1-X` and `RT-2-X`; the low-level action policy is based on `Diffusion Policy`]
 
-* **Robo-ABC(ECCV2024)(arxiv2024.01)** Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2401.07487)][[project link](https://tea-lab.github.io/Robo-ABC)][[code|official](https://github.com/TEA-Lab/Robo-ABC)][`Shanghai Qi Zhi Institute + THU + SJTU`]
-
 * **ManiGaussian(ECCV2024)(arxiv2024.03)** ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2403.08321)][[project link](https://guanxinglu.github.io/ManiGaussian/)][[code|official](https://github.com/GuanxingLu/ManiGaussian)][[weixin blogs](https://mp.weixin.qq.com/s/HFaEoJFSkiECwsqLcJVbwg)][`PKU-SZ + CMU + PKU`][largely based on `PerAct`, `GNFactor`, and many `3DGS` projects]
 
 * **Track2Act(ECCV2024)(arxiv2024.05)** Track2Act: Predicting Point Tracks from Internet Videos Enables Diverse Zero-shot Manipulation [[arxiv link](https://arxiv.org/abs/2405.01527)][[project link](https://homangab.github.io/track2act/)][[code|official](https://github.com/homangab/Track-2-Act/)][`Carnegie Mellon University + University of Washington + Meta`][The first author is [`Homanga Bharadhwaj`](https://homangab.github.io/) who has given a position paper in `ICML2024` named [Position: Scaling Simulation is Neither Necessary Nor Sufficient for In-the-Wild Robot Manipulation](https://proceedings.mlr.press/v235/bharadhwaj24a.html)]
@@ -618,10 +640,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **LLARVA(CoRL2024)(arxiv2024.06)** LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning [[openreview link](https://openreview.net/forum?id=Q2lGXMZCv8)][[arxiv link](https://arxiv.org/abs/2406.11815)][[project link](https://llarva24.github.io/)][[code|official](https://github.com/Dantong88/LLARVA)][`Berkeley AI Research, UC Berkeley`]
 
 * **VKT(CoRL2024)(arxiv2024.06)** Scaling Manipulation Learning with Visual Kinematic Chain Prediction [[openreview link](https://openreview.net/forum?id=Yw5QGNBkEN)][[arxiv link](https://arxiv.org/abs/2406.07837)][[project link](https://mlzxy.github.io/visual-kinetic-chain/)][[code|official](https://github.com/mlzxy/visual-kinetic-chain)][`Rutgers University`][The proposed `Visual Kinematics Transformer (VKT)` is a `convolution-free` architecture that supports an `arbitrary number of camera viewpoints`, and that is trained with a single objective of `forecasting kinematic structures` through optimal `point-set matching`.]
-
-* 👍**RoboPoint(CoRL2024)(arxiv2024.06)** RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics [[openreview link](https://openreview.net/forum?id=GVX6jpZOhU)][[arxiv link](https://arxiv.org/abs/2406.10721)][[project link](https://robo-point.github.io/)][[code|official](https://github.com/wentaoyuan/RoboPoint)][`University of Washington + NVIDIA`; `Dieter Fox`][ROBOPOINT is a `VLM` that predicts `image keypoint affordances` given `language instruction`s.]
-
-* 👍**RAM(CoRL2024, Oral)(arxiv2024.07)** RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation [[openreview link](https://openreview.net/forum?id=8LPXeGhhbH)][[arxiv link](https://arxiv.org/abs/2407.04689)][[project link](https://yxkryptonite.github.io/RAM/)][[code|official](https://github.com/yxKryptonite/RAM_code)][`University of Southern California + Peking University + Stanford University`; `He Wang`]
 
 * 👍**Im2Flow2Act(CoRL2024)(arxiv2024.07)** Flow as the Cross-domain Manipulation Interface [[openreview link](https://openreview.net/forum?id=cNI0ZkK1y)][[arxiv link](https://arxiv.org/abs/2407.15208)][[project link](https://im-flow-act.github.io/)][`Stanford University + Columbia University + JP Morgan AI Research + Carnegie Mellon University`; `Shuran Song`]
 
@@ -684,8 +702,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **Any2Policy(NIPS2024)** Any2Policy: Learning Visuomotor Policy with Any-Modality [[openreview link](https://openreview.net/forum?id=8lcW9ltJx9)][[paper link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f13159aecc416659a3c6cef0aecd0d94-Abstract-Conference.html)][`Midea Group`]
 
 
-
-* **GeneralFlow(arxiv2024.01)** General Flow as Foundation Affordance for Scalable Robot Learning [[arxiv link](https://arxiv.org/abs/2401.11439)][[project link](https://general-flow.github.io/)][[code|official](https://github.com/michaelyuancb/general_flow)][`Tsinghua University + Shanghai Artificial Intelligence Laboratory + Shanghai Qi Zhi Institute`; `Yang Gao`]
 
 * **RT-H(arxiv2024.03)** RT-H: Action Hierarchies using Language [[arxiv link](https://arxiv.org/abs/2403.01823)][[project link](https://rt-hierarchy.github.io/)][[blog|weixin](https://mp.weixin.qq.com/s/4eXibz3dOSec1jtaJzP3Mw )][by `Google DeepMind` and `Stanford University`][Its insight is to teach the robot the `language of actions`]
 
@@ -761,15 +777,9 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **VLM-Floorplan(arxiv2024.09)** Vision Language Models Can Parse Floor Plan Maps [[arxiv link](https://arxiv.org/abs/2409.12842)][[project link](https://sites.google.com/view/vlm-floorplan/home)][[code|official](https://github.com/bu-air-lab/floor_plan_VLM)][`Binghamton University`]
 
-* **FlowMatchingPolicy(arxiv2024.09)** Affordance-based Robot Manipulation with Flow Matching [[arxiv link](https://arxiv.org/abs/2409.01083)][[project link](https://hri-eu.github.io/flow-matching-policy/)][`Honda Research Institute EU`]
-
 * **MatchPolicy(arxiv2024.09)** Match Policy: A Simple Pipeline from Point Cloud Registration to Manipulation Policies [[arxiv link](https://arxiv.org/abs/2409.15517)][[project link](https://haojhuang.github.io/match_page/)][`Northeastern Univeristy + Worcester Polytechnic Institute`]
 
 * 👍**RACER(arxiv2024.09)** RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning [[arxiv link](https://arxiv.org/abs/2409.14674)][[project link](https://rich-language-failure-recovery.github.io/)][[code|official](https://github.com/sled-group/RACER)][`University of Michigan`]
-
-* **UniAff(arxiv2024.09)** UniAff: A Unified Representation of Affordances for Tool Usage and Articulation with Vision-Language Models [[arxiv link](https://arxiv.org/abs/2409.20551)][[project link](https://sites.google.com/view/uni-aff/home)][`SJTU + HKUST + NUS + Rutgers University`; `Cewu Lu`]
-
-* **flow-matching-policy(arxiv2024.09)** Affordance-based Robot Manipulation with Flow Matching [[arxiv link](https://arxiv.org/abs/2409.01083)][[project link](https://hri-eu.github.io/flow-matching-policy/)][[code|official](https://github.com/HRI-EU/flow-matching-policy)][`Honda Research Institute EU`]
 
 * **Scalable-DP(arxiv2024.09)** Scalable Diffusion Policy: Scale Up Diffusion Policy via Transformers for Visuomotor Learning [[arxiv link](https://arxiv.org/abs/2409.14411)][[project link](https://scaling-diffusion-policy.github.io/)][[code|official]()][`Midea Group + East China Normal University + Standford University, + Shanghai University`]
 
@@ -792,15 +802,11 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **BUMBLE(arxiv2024.10)** BUMBLE: Unifying Reasoning and Acting with Vision-Language Models for Building-wide Mobile Manipulation [[arxiv link](https://arxiv.org/abs/2410.06237)][[project link](https://robin-lab.cs.utexas.edu/BUMBLE/)][[code|official](https://github.com/UT-Austin-RobIn/BUMBLE)][`The University of Texas at Austin`; `Yuke Zhu`]
 
-* **SBAMs(Humanoids 2024)(arxiv2024.10)** Learning Spatial Bimanual Action Models Based on Affordance Regions and Human Demonstrations [[arxiv link](https://arxiv.org/abs/2410.08848)][`Karlsruhe Institute of Technology`][`Spatial Bimanual Action Models`]
-
 * 👍**iDP3(arxiv2024.10)** Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[arxiv link](https://arxiv.org/abs/2410.10803)][[project link](https://humanoid-manipulation.github.io/)][[code|official](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)][`Stanford University + Simon Fraser University + UPenn + UIUC + CMU`; `Jiajun Wu`]
 
 * **RDT-1B(arxiv2024.10)** RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2410.07864)][[project link](https://rdt-robotics.github.io/rdt-robotics/)][[code|official](https://github.com/thu-ml/RoboticsDiffusionTransformer)][`Tsinghua University`; `Jun Zhu`]
 
 * **Shortcut-models(arxiv2024.10)** One Step Diffusion via Shortcut Models [[arxiv link](https://arxiv.org/abs/2410.12557)][[project link](https://kvfrans.com/shortcut-models/)][[code|official](https://github.com/kvfrans/shortcut-models)][`UC Berkeley`; `Sergey Levine + Pieter Abeel`]
-
-* **affordance-policy(arxiv2024.10)** Affordance-Centric Policy Learning: Sample Efficient and Generalisable Robot Policy Learning using Affordance-Centric Task Frames [[arxiv link](https://arxiv.org/abs/2410.12124)][[project link](https://affordance-policy-policy.github.io/)][`QUT Centre for Robotics + University of Adelaide`]
 
 * 👍**DiT-Block-Policy(arxiv2024.10)** The Ingredients for Robotic Diffusion Transformers [[arxiv link](https://arxiv.org/pdf/2410.10088)][[project link](https://dit-policy.github.io/)][[code|official](https://github.com/sudeepdasari/dit-policy)][`Carnegie Mellon University + UC Berkeley`; `Sergey Levine`]
 
@@ -827,8 +833,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 
 * **DexH2R(arxiv2024.11)** DexH2R: Task-oriented Dexterous Manipulation from Human to Robots [[arxiv link](https://arxiv.org/abs/2411.04428)][` University of California, Berkeley`]
-
-* **RT-Affordance(arxiv2024.11)** RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2411.02704)][[project link](https://snasiriany.me/rt-affordance)][`Google DeepMind + The University of Austin at Texas`; `Yuke Zhu`]
 
 * **CogACT(arxiv2024.11)** CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2411.19650)][[project link](https://cogact.github.io/)][[code|official](https://github.com/microsoft/CogACT)][`Microsoft Research Asia + Tsinghua University + USTC + Institute of Microelectronics, CAS`]
 
@@ -863,15 +867,11 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **RoboMatrix(arxiv2024.12)** RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[arxiv link](https://arxiv.org/abs/2412.00171)][[project link](https://robo-matrix.github.io/)][[code|official](https://github.com/WayneMao/RoboMatrix/)][[weixin blog](https://mp.weixin.qq.com/s/kW9K4Kwj8BGbe1Mu__PXrg)][`Waseda University + Beijing Institute of Technology + Megvii Technology + The Chinese University of Hong Kong`]
 
-* **CoA-VLA(arxiv2024.12)** Improving Vision-Language-Action Models via Chain-of-Affordance [[arxiv link](https://arxiv.org/abs/2412.20451)][[project link](https://chain-of-affordance.github.io/)][`Midea Group + Shanghai University + East China Normal University`]
-
 * **GAPS(arxiv2024.12)** Generalizable Articulated Object Perception with Superpoints [[arxiv link](https://arxiv.org/abs/2412.16656)][`Shanghai Jiao Tong University + National University of Singapore + University of Science and Technology of China + Hefei University of Technology + National Institute of Technology`; `Cewu Lu`]
 
 * **RFMP(arxiv2024.12)** Fast and Robust Visuomotor Riemannian Flow Matching Policy [[arxiv link](https://arxiv.org/abs/2412.10855)][[project link](https://sites.google.com/view/rfmp)][`Bosch Center for Artificial Intelligence + KTH`]
 
 * **MPD(arxiv2024.12)** Motion Planning Diffusion: Learning and Adapting Robot Motion Planning with Diffusion Models [[arxiv link](https://arxiv.org/abs/2412.19948)][[project link](https://sites.google.com/view/motionplanningdiffusion)][`Technical University of Darmstadt, Germany + Poznan University of Technology, Poland + IDEAS NCBR, Warsaw, Poland + `][SUBMITTED TO IEEE TRANSACTIONS ON ROBOTICS]
-
-* **AffordDP(arxiv2024.12)** AffordDP: Generalizable Diffusion Policy with Transferable Affordance [[arxiv link](https://arxiv.org/abs/2412.03142)][[project link](https://afforddp.github.io/)][`ShanghaiTech University`]
 
 * **Mimicking-Bench(arxiv2024.12)** Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking [[arxiv link](https://arxiv.org/abs/2412.17730)][[project link](https://mimicking-bench.github.io/)][`Tsinghua University + Galbot + Shanghai Qi Zhi Institute + Shanghai Artificial Intelligence Laboratory + Peking University`; `He Wang`]
 
@@ -938,8 +938,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **Magma(CVPR2025)(arxiv2025.02)** Magma: A Foundation Model for Multimodal AI Agents [[arxiv link](https://www.arxiv.org/abs/2502.13130)][[project link](https://microsoft.github.io/Magma/)][[code|official](https://github.com/microsoft/Magma)][`Microsoft Research + University of Maryland + University of Wisconsin-Madison + KAIST + University of Washington`]
 
 * **RoboBrain(CVPR2025)(arxiv2025.02)** RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete [[arxiv link](https://arxiv.org/abs/2502.21257)][[project link](https://superrobobrain.github.io/)][[code|official](https://github.com/Embodied-Vision-Language-Model/RoboBrain)][`Peking University + Beijing Academy of Artificial Intelligence + Chinese Academy of Sciences + The University of Hong Kong + University of Chinese Academy of Sciences`]
-
-* **GarmentPile(CVPR2025)(arxiv2025.03)** GarmentPile: Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation [[arxiv link](https://arxiv.org/abs/2503.09243)][[project link](https://garmentpile.github.io/)][[code|official](https://github.com/AlwaySleepy/Garment-Pile)][`PKU`; `Hao Dong`]
 
 * **SlotMIM(CVPR2025)(arxiv2025.03)** A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning [[arxiv link](https://arxiv.org/abs/2503.06960)][[code|official](https://github.com/CVMI-Lab/SlotMIM)][`The University of Hong Kong + University of Edinburgh + Shanghai AI Laboratory`; `Jiangmiao Pang + Xiaojuan Qi`]
 
