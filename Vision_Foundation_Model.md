@@ -95,11 +95,20 @@
 ***
 
 ## ⭐Foundation Pose Series
-*for the `6D Pose Estimation` task*
+*for the popular `6D Object Pose Estimation` task*
 
 * **FoundationPose(CVPR2024 Highlight)(arxiv2023.12)** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Wen_FoundationPose_Unified_6D_Pose_Estimation_and_Tracking_of_Novel_Objects_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2312.08344)][[project link](https://nvlabs.github.io/FoundationPose/)][[code|official](https://github.com/NVlabs/FoundationPose)][`NVIDIA`]
 
 * **OrientAnything(arxiv2024.12)** Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models [[arxiv link](https://arxiv.org/abs/2412.18605)][[project link](https://orient-anything.github.io/)][[code|official](https://github.com/SpatialVision/Orient-Anything)][`Zhejiang University + Sea AI Lab + The University of Hong Kong`]
+
+* **FoundationPose++(year2025.03)** FoundationPose++: Simple Tricks Boost FoundationPose Performance in High-Dynamic Scenes [[code|official](https://github.com/teal024/FoundationPose-plus-plus)][`Real-Time 6D Pose Tracker in High-Dynamic Scenes`]
+
+* **DynOPETs(arxiv2025.03)** DynOPETs: A Versatile Benchmark for Dynamic Object Pose Estimation and Tracking in Moving Camera Scenarios [[arxiv link](https://arxiv.org/abs/2503.19625)][[project link](https://stay332.github.io/DynOPETs/)][[code|official](https://github.com/Launch-on-Titania/DynOPETs)][`ShanghaiTech University, Mobile Perception Lab + Fudan University, Multi-Agent Robotic Systems Lab`]
+
+* **CAP-Net(CVPR2025 Highlight)(arxiv2025.04)** CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_CAP-Net_A_Unified_Network_for_6D_Pose_and_Size_Estimation_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/pdf/2504.11230)][[project link](https://shanehuanghz.github.io/CAPNet/)][[code|official](https://github.com/ShaneHuangHZ/CAPNet)][`Fudan University + Huawei, Noah’s Ark Lab`]
+
+* **UA-Pose(CVPR2025)(arxiv2025.06)** UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Li_UA-Pose_Uncertainty-Aware_6D_Object_Pose_Estimation_and_Online_Object_Completion_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2506.07996)][[project link](https://minfenli.github.io/UA-Pose/)][[code|official](https://github.com/minfenli/UA-Pose)][`Carnegie Mellon University + Stony Brook University + National Tsing Hua University + Amazon`]
+
 
 
 ***
