@@ -1233,67 +1233,50 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **LearnVEC(CoRL2024)(arxiv2024.12)** Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions [[openreview link](https://openreview.net/forum?id=oSU7M7MK6B)][[arxiv link](https://arxiv.org/abs/2412.13157)][[video link](https://youtu.be/hW-C8i_HWgs)][`The University of Edinburgh + The Alan Turing Institute`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Skill-RRT(arxiv2025.02)** SPIN: distilling Skill-RRT for long-horizon prehensile and non-prehensile manipulation [[arxiv link](https://arxiv.org/abs/2502.18015)][[project link](https://sites.google.com/view/skill-rrt)][`Korea Advanced Institute of Science and Technology (KAIST)`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **OK-Robot(RSS2024 Demonstrating)(arxiv2024.01)** OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics [[paper link](https://roboticsconference.org/2024/program/papers/91/)][[arxiv link](https://arxiv.org/abs/2401.12202)][[project link](https://ok-robot.github.io/)][[code|official](https://github.com/ok-robot/ok-robot)][`New York University + AI at Meta`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **HiDex(RAL2024)(arxiv2023.07)** Enhancing Dexterity in Robotic Manipulation via Hierarchical Contact Exploration [[paper link](https://ieeexplore.ieee.org/abstract/document/10319720)][[arxiv link](https://arxiv.org/abs/2307.00383)][[project link](https://xianyicheng.github.io/HiDex-Website/)][[code|official](https://github.com/XianyiCheng/HiDex)][`Carnegie Mellon University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ED-PMP(ICRA2024)(arxiv2023.10)** Learning Extrinsic Dexterity with Parameterized Manipulation Primitives [[paper link](https://ieeexplore.ieee.org/document/10611431)][[arxiv link](https://arxiv.org/abs/2310.17785)][[project link](https://shihminyang.github.io/ED-PMP/)][`Örebro University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **MRLM(RAL2024)(arxiv2023.07)** Multi-Stage Reinforcement Learning for Non-Prehensile Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/10553281)][[arxiv link](https://arxiv.org/abs/2307.12074)][[project link](https://sites.google.com/view/mrlm)][`School of Control Science and Engineering, Shandong University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **PPI(RSS2025)(arxiv2025.04)** Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation [[paper link](https://roboticsconference.org/program/papers/160/)][[arxiv link](https://arxiv.org/abs/2504.17784)][[project link](https://yuyinyang3y.github.io/PPI/)][[code|official](https://github.com/OpenRobotLab/PPI)][`Shanghai AI Lab + Fudan University + Zhejiang University + Peking University`; `Jiangmiao Pang`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **SLeRP(arxiv2025.04)** Slot-Level Robotic Placement via Visual Imitation from Single Human Video [[arxiv link](https://arxiv.org/abs/2504.01959)][[project link](https://ddshan.github.io/slerp/)][`NVIDIA + Univ. of Michigan + Univ. of Washington + New York University`; `Dieter Fox`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Action-Prior-Alignment(arxiv2025.03)** Efficient Alignment of Unconditioned Action Prior for Language-conditioned Pick and Place in Clutter [[arxiv link](https://arxiv.org/abs/2503.09423)][[project link](https://xukechun.github.io/papers/A2/)][[code|official](https://github.com/xukechun/Action-Prior-Alignment)][`Zhejiang University + Alibaba Cloud`; `Rong Xiong`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **3D-Scene-Analogies(arxiv2025.03)** Learning 3D Scene Analogies with Neural Contextual Scene Maps [[arxiv link](https://arxiv.org/abs/2503.15897)][`Seoul National University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **RoboRefer(arxiv2025.06)** RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics [[arxiv link](https://arxiv.org/abs/2506.04308)][[project link](https://zhoues.github.io/RoboRefer/)][[code|official](https://github.com/Zhoues/RoboRefer)][`Beihang University + Peking University + Beijing Academy of Artificial Intelligence`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**Code-as-Monitor(CVPR2025)(arxiv2024.12)** Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Code-as-Monitor_Constraint-aware_Visual_Programming_for_Reactive_and_Proactive_Robotic_Failure_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2412.04455)][[project link](https://zhoues.github.io/Code-as-Monitor/)][`Beihang University + Peking University + Beijing Academy of Artificial Intelligence + GalBot`; `He Wang`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**GigaHands(CVPR2025)(arxiv2024.12)** GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Fu_GigaHands_A_Massive_Annotated_Dataset_of_Bimanual_Hand_Activities_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2412.04244)][[project link](https://ivl.cs.brown.edu/research/gigahands.html)][[code|official](https://github.com/Kristen-Z/GigaHands)][`Brown University + ETH Zurich`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **DyTact(arxiv2025.06)** DyTact: Capturing Dynamic Contacts in Hand-Object Manipulation [[arxiv link](https://arxiv.org/abs/2506.03103)][[project link](https://oliver-cong02.github.io/DyTact.github.io/)][[code|official](https://github.com/Oliver-Cong02/DyTact)][`Brown University + IIT Delhi`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **OpenHOI(arxiv2025.05)** OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model [[arxiv link](https://arxiv.org/abs/2505.18947)][[project link](https://openhoi.github.io/)][`ShanghaiTech University + Zhejiang University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **LEGION(Nature-Machine-Intelligence-2025)** Preserving and combining knowledge in robotic lifelong reinforcement learning [[paper link](https://www.nature.com/articles/s42256-025-00983-2)][[project link](https://ghiara.github.io/LEGION/)][[code|official](https://github.com/Ghiara/LEGION)][`Technical University of Munich + Nanjing University + Sun Yat-sen University + Tsinghua University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ReorientBot(ICRA2022)(arxiv2022.02)** ReorientBot: Learning Object Reorientation for Specific-Posed Placement [[paper link](https://ieeexplore.ieee.org/abstract/document/9811881)][[arxiv link](https://arxiv.org/abs/2202.11092)][`Dyson Robotics Laboratory, Imperial College London`; `Stephen Jame`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ReorientDiff(ICRA2024)(arxiv2023.03)** ReorientDiff: Diffusion Model based Reorientation for Object Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/10610749)][[arxiv link](https://arxiv.org/abs/2303.12700)][[project link](https://umishra.me/ReorientDiff/)][`Georgia Institute of Technology`][`Diffusion Models` for `language-conditioned multi-step` object manipulation for precise object placement.]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Synthetica(arxiv2024.10)** Synthetica: Large Scale Synthetic Data for Robot Perception [[arxiv link](https://arxiv.org/abs/2410.21153)][[project link](https://sites.google.com/view/synthetica-vision)][`NVIDIA + University of Toronto`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Dream2Real(ICRA2024)(arxiv2023.12)** Dream2Real: Zero-Shot 3D Object Rearrangement with Vision-Language Models [[paper link](https://ieeexplore.ieee.org/abstract/document/10611220)][[arxiv link](https://arxiv.org/abs/2312.04533)][[project link](https://www.robot-learning.uk/dream2real)][[code|official](https://github.com/FlyCole/Dream2Real)][`The Robot Learning Lab at Imperial College London + The Dyson Robotics Lab at Imperial College London`; `Edward Johns`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Selective-Obj-Rearrangement(CoRL2023)** Selective Object Rearrangement in Clutter [[openreview link](https://openreview.net/forum?id=2cEjfernc5P)][[paper link](https://proceedings.mlr.press/v205/tang23a.html)][[project link](https://sites.google.com/view/selective-rearrangement)][`University of Southern California`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Tac2Pose(IJRR2023)(arxiv2022.04)** Tac2Pose: Tactile Object Pose Estimation from the First Touch [[paper link](https://journals.sagepub.com/doi/full/10.1177/02783649231196925)][[arxiv link](https://arxiv.org/abs/2204.11701)][[project link](https://mcube.mit.edu/research/tactile_loc_first_touch.html)][`MIT`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **PartPacker(arxiv2025.06)** Efficient Part-level 3D Object Generation via Dual Volume Packing [[arxiv link](https://arxiv.org/abs/2506.09980)][[project link](https://research.nvidia.com/labs/dir/partpacker/)][[code|official](https://github.com/NVlabs/PartPacker)][`NVIDIA, Peking University, Stanford University`; `Shuran Song`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
 
 
