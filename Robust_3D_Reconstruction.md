@@ -21,6 +21,12 @@
 
 ***
 
+### ▶3D Generation
+
+* 👍**PartPacker(arxiv2025.06)** Efficient Part-level 3D Object Generation via Dual Volume Packing [[arxiv link](https://arxiv.org/abs/2506.09980)][[project link](https://research.nvidia.com/labs/dir/partpacker/)][[code|official](https://github.com/NVlabs/PartPacker)][`NVIDIA, Peking University, Stanford University`; `Shuran Song`]
+
+***
+
 ### ▶Sparse-Views Fast Reconstruction
 
 * **SpaRP(ECCV2024)(arxiv2024.08)** SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views [[arxiv link](https://arxiv.org/abs/2408.10195)][[project link](https://chaoxu.xyz/sparp/)][[huggingface link](https://huggingface.co/spaces/sudo-ai/SpaRP)][`UCLA + Hillbot Inc. + Stanford University + Zhejiang University + UC San Diego`]
@@ -29,6 +35,9 @@
 
 * **MegaSaM(arxiv2024.12)** MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos [[arxiv link](https://arxiv.org/abs/2412.04463)][[project link](https://mega-sam.github.io/)][[code|official](https://github.com/mega-sam/mega-sam)][`Google DeepMind + UC Berkeley + University of Michigan`]
 
+* 👍👍**PhysTwin(arxiv2025.03)** PhysTwin: Physics-Informed Reconstruction and Simulation of Deformable Objects from Videos [[arxiv link](https://arxiv.org/abs/2503.17973)][[project link](https://jianghanxiao.github.io/phystwin-web/)][[code|official](https://github.com/Jianghanxiao/PhysTwin)][`Columbia University + University of Illinois Urbana-Champaign`]
+
+* **A-Position-Paper(arxiv2025.05)** Is Single-View Mesh Reconstruction Ready for Robotics? [[arxiv link](https://arxiv.org/abs/2505.17966)][`University of Oxford + Max Planck Institute for Intelligent Systems & ELLIS Institute Tübingen`]
 
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
