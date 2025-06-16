@@ -306,6 +306,8 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **CordViP(RSS2025)(arxiv2025.02)** CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World [[paper link](https://roboticsconference.org/program/papers/110/)][[arxiv link](https://arxiv.org/abs/2502.08449)][[project link](https://aureleopku.github.io/CordViP/)][`Peking University + Wuhan University + Tianjin University + Beijing Institute of Technology + The University of Hong Kong + Beijing Academy of Artificial Intelligence (BAAI)`; `Hao Dong`]
 
+* 👍**TASTE-Rob(CVPR2025)(arxiv2025.03)** TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2503.11423)][[project link](https://taste-rob.github.io/)][`SSE, CUHKSZ + FNii, CUHKSZ`; `Xiaoguang Han`]
+
 * 👍**VF-IHM-IL(ICRA2025)(arxiv2025.03)** Variable-Friction In-Hand Manipulation for Arbitrary Objects via Diffusion-Based Imitation Learning [[arxiv link](https://arxiv.org/abs/2503.02738)][[project link](https://sites.google.com/view/vf-ihm-il/home)][`MTL, Imperial College London	+ Princeton University`]
 
 * **IBORL(arxiv2025.03)** Dexterous Hand Manipulation via Efficient Imitation-Bootstrapped Online Reinforcement Learning [[arxiv link](https://arxiv.org/abs/2503.04014)][[project link](https://hggforget.github.io/iborl.github.io/)][`JD Explore Academy`][Imitation-Bootstrapped Online Reinforcement Learning (IBORL); It used the `Inspire RH56BFX` Dexterous Hand.]
