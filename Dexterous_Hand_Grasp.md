@@ -183,6 +183,11 @@
 
 * **HOGSA(AAAI2025)(arxiv2025.01)** HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation [[arxiv link](https://arxiv.org/abs/2501.02845)][[project link](https://iscas3dv.github.io/HOGSA/)][`Institute of Software, Chinese Academy of Sciences + University of Chinese Academy of Sciences + Institute of Automation, Chinese Academy of Sciences + Google`]
 
+* **DyTact(arxiv2025.06)** DyTact: Capturing Dynamic Contacts in Hand-Object Manipulation [[arxiv link](https://arxiv.org/abs/2506.03103)][[project link](https://oliver-cong02.github.io/DyTact.github.io/)][[code|official](https://github.com/Oliver-Cong02/DyTact)][`Brown University + IIT Delhi`]
+
+* **OpenHOI(arxiv2025.05)** OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model [[arxiv link](https://arxiv.org/abs/2505.18947)][[project link](https://openhoi.github.io/)][`ShanghaiTech University + Zhejiang University`]
+
+
 
 ***
 
@@ -283,6 +288,8 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 ***
 
+* 👍👍**GigaHands(CVPR2025)(arxiv2024.12)** GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Fu_GigaHands_A_Massive_Annotated_Dataset_of_Bimanual_Hand_Activities_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2412.04244)][[project link](https://ivl.cs.brown.edu/research/gigahands.html)][[code|official](https://github.com/Kristen-Z/GigaHands)][`Brown University + ETH Zurich`]
+
 * **DexHier(arxiv2025.01)** From Simple to Complex Skills: The Case of In-Hand Object Reorientation [[arxiv link](https://arxiv.org/abs/2501.05439)][[project link](https://dexhier.github.io/)][`UC Berkeley + Meta AI + TU Dresden + The Centre for Tactile Internet with Human-in-the-Loop (CeTI)`]
 
 * **DexTrack(ICLR2025)(arxiv2025.02)** DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References [[openreview link](https://openreview.net/pdf?id=ajSmXqgS24)][[arxiv link](https://arxiv.org/abs/2502.09614)][[project link](https://meowuu7.github.io/DexTrack/)][[code|official](https://github.com/Meowuu7/DexTrack)][`Tsinghua University + Shanghai Qi Zhi Institute + Shanghai AI Laboratory + UC San Diego`]
@@ -293,6 +300,12 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **MKA(arxiv2025.02)** Multi-Keypoint Affordance Representation for Functional Dexterous Grasping [[arxiv link](https://arxiv.org/abs/2502.20018)][[code|official](https://github.com/PopeyePxx/MKA)][`Hunan University`]
 
+* **DexGraspVLA(arxiv2025.02)** DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping [[arxiv link](https://arxiv.org/abs/2502.20900)][[project link](https://dexgraspvla.github.io/)][[code|official](https://github.com/Psi-Robot/DexGraspVLA)][`Institute for AI, Peking University + PKU-PsiBot Joint Lab + HKUST (Guangzhou)`]
+
+* **AnyDexGrasp(arxiv2025.02)** AnyDexGrasp: General Dexterous Grasping for Different Hands with Human-level Learning Efficiency [[arxiv link](https://arxiv.org/abs/2502.16420)][[project link](https://graspnet.net/anydexgrasp/)][[code|official](https://github.com/graspnet/AnyDexGrasp)][`Shanghai Jiao Tong University` + `Cewu Lu`]
+
+* **CordViP(RSS2025)(arxiv2025.02)** CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World [[paper link](https://roboticsconference.org/program/papers/110/)][[arxiv link](https://arxiv.org/abs/2502.08449)][[project link](https://aureleopku.github.io/CordViP/)][`Peking University + Wuhan University + Tianjin University + Beijing Institute of Technology + The University of Hong Kong + Beijing Academy of Artificial Intelligence (BAAI)`; `Hao Dong`]
+
 * 👍**VF-IHM-IL(ICRA2025)(arxiv2025.03)** Variable-Friction In-Hand Manipulation for Arbitrary Objects via Diffusion-Based Imitation Learning [[arxiv link](https://arxiv.org/abs/2503.02738)][[project link](https://sites.google.com/view/vf-ihm-il/home)][`MTL, Imperial College London	+ Princeton University`]
 
 * **IBORL(arxiv2025.03)** Dexterous Hand Manipulation via Efficient Imitation-Bootstrapped Online Reinforcement Learning [[arxiv link](https://arxiv.org/abs/2503.04014)][[project link](https://hggforget.github.io/iborl.github.io/)][`JD Explore Academy`][Imitation-Bootstrapped Online Reinforcement Learning (IBORL); It used the `Inspire RH56BFX` Dexterous Hand.]
@@ -300,6 +313,23 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 * **DexGrasp-Anything(CVPR2025)(arxiv2025.03)** DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness [[arxiv link](https://arxiv.org/abs/2503.08257)][[project link](https://dexgraspanything.github.io/)][[code|official](https://github.com/4DVLab/DexGrasp-Anything)][`ShanghaiTech University`][It used the `ShadowHand` for real experiments]
 
 * **SeqMultiGrasp(arxiv2025.03)** Sequential Multi-Object Grasping with One Dexterous Hand [[arxiv link](https://arxiv.org/abs/2503.09078)][[project link](https://hesic73.github.io/SeqMultiGrasp/)][`University of Southern California + Fudan University + INSAIT`]
+
+* **OFA(arxiv2025.05)** Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2505.15098)][[project link](https://yihanghku.github.io/OFA/)][`JD Explore Academy, JD Company + Beijing Jiaotong University`]
+
+* **DORA(arxiv2025.05)** DORA: Object Affordance-Guided Reinforcement Learning for Dexterous Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2505.14819)][[project link](https://sites.google.com/view/dora-manip)][`University of Hamburg + Agile Robots SE + Technical University of Munich`]
+
+* **Scoring-RL-DexGrasp(ICRA2025)(arxiv2025.05)** Composing Dextrous Grasping and In-hand Manipulation via Scoring with a Reinforcement Learning Critic [[arxiv link](https://arxiv.org/abs/2505.13253)][[project link](https://aidx-lab.org/manipulation/icra25)][`Technical University of Munich`]
+
+* **PartDexTOG(arxiv2025.05)** PartDexTOG: Generating Dexterous Task-Oriented Grasping via Language-driven Part Analysis [[arxiv link](https://arxiv.org/abs/2505.12294)][`National University of Defense Technology`]
+
+* **DexGarmentLab(arxiv2025.05)** DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy [[arxiv link](https://arxiv.org/abs/2505.11032)][[project link](https://wayrise.github.io/DexGarmentLab/)][[code|official](https://github.com/wayrise/DexGarmentLab)][`Peking University + University of California, Berkeley`; `Pieter Abbeel + Hao Dong`]
+
+* **DexMachina(arxiv2025.05)** DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2505.24853)][[project link](https://project-dexmachina.github.io/)][[code|official](https://github.com/MandiZhao/dexmachina)][`Stanford University + NVIDIA`; `Shuran Song`]
+
+* **RAPID-Hand(arxiv2025.06)** RAPID Hand: A Robust, Affordable, Perception-Integrated, Dexterous Manipulation Platform for Generalist Robot Autonomy [[arxiv link](https://arxiv.org/abs/2506.07490)][[project link](https://rapid-hand.github.io/)][`Sun Yat-sen University + University of California, Merced + Chinese Academy of Sciences, Institute of Automation`]
+
+* **Grasp2Grasp(arxiv2025.06)** Grasp2Grasp: Vision-Based Dexterous Grasp Translation via Schrödinger Bridges [[arxiv link](https://arxiv.org/abs/2506.02489)][`Princeton University + San Jose State University + Lockheed Martin Corporation`]
+
 
 
 
