@@ -30,6 +30,11 @@
 
 * 👍**SegTTO(arxiv2025.01)** Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation [[arxiv link](https://arxiv.org/abs/2501.04696)][[code|official](https://github.com/UlinduP/SegTTO)][`University of Moratuwa + Stony Brook University + Khalifa University`]
 
+* 👍👍**YOLOE(arxiv2025.03)** YOLOE: Real-Time Seeing Anything [[arxiv link](https://arxiv.org/abs/2503.07465)][[ultralytics link](https://docs.ultralytics.com/zh/models/yoloe/#introduction)][[code|official](https://github.com/THU-MIG/yoloe)][`Tsinghua University`]
+
+* **FLOSS(arxiv2025.04)** FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation [[arxiv link](https://arxiv.org/abs/2504.10487)][[project link](https://yasserben.github.io/FLOSS/)][[code|official](https://github.com/yasserben/FLOSS)][`Inria + Valeo.ai`] ![Static Badge](https://img.shields.io/badge/Open_Vocabulary-Segmentation-blue)
+
+
 ### 3) Zero-Shot Scene Flow Estimation
 
 * **ZeroMSF(arxiv2025.01)** Zero-Shot Monocular Scene Flow Estimation in the Wild [[arxiv link](https://arxiv.org/abs/2501.10357)][[project link](https://research.nvidia.com/labs/lpr/zero_msf//)][`NVIDIA Research + Brown University`]
