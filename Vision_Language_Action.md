@@ -98,6 +98,7 @@
 
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
+***
 
 ### ※ 2) Robot Pose Estimation / Hand-eye Calibration
 *This line of research may open the possibility of on-line hand-eye calibration, which is more robust and scalable then classic hand-eye calibration systems*
@@ -118,7 +119,7 @@
 
 * **Bi-JCR(arxiv2025.05)** Bi-Manual Joint Camera Calibration and Scene Representation [[arxiv link](https://arxiv.org/abs/2505.24819)][[project link](https://tomtang502.github.io/bijcr_web/)][`Carnegie Mellon University + Vanderbilt University`]
 
-
+***
 
 ### ※ 3) Tactile/Haptic/Force Signals Sensing/Simulation
 
@@ -174,6 +175,7 @@
 
 * **ManiFeel(arxiv2025.05)** ManiFeel: Benchmarking and Understanding Visuotactile Manipulation Policy Learning [[arxiv link](https://arxiv.org/abs/2505.18472)][[project link](https://zhengtongxu.github.io/manifeel-website/)][`Purdue University, USA`]
 
+***
 
 ### ※ 4) Assembly/Rearrangement Related Generation/Manipulation
 
@@ -227,7 +229,7 @@
 
 * **Fabrica(arxiv2025.06)** Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning [[arxiv link](https://arxiv.org/abs/2506.05168)][[project link](https://fabrica.csail.mit.edu/)][`MIT CSAIL + ETH Zurich + Autodesk Research + Texas A&M University`]
 
-
+***
 
 ### ※ 5) Vision-based Affordance/Gesture/Gaze Detection/Understanding
 
@@ -277,8 +279,7 @@
 
 * **SmolVLA(arxiv2025.06)** SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics [[arxiv link](https://arxiv.org/abs/2506.01844)][[huggingface link](https://huggingface.co/docs/lerobot)][[code|official](https://github.com/huggingface/lerobot)][`Hugging Face + Sorbonne University`]
 
-
-
+***
 
 ### ※ 6) Teleoperation for Robot Manipulation
 
@@ -326,7 +327,7 @@
 
 * **TeleOpBench(arxiv2025.05)** TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation [[arxiv link](https://arxiv.org/abs/2505.12748)][[project link](https://gorgeous2002.github.io/TeleOpBench/)][`Shanghai Artificial Intelligence Laboratory + Zhejiang University + The Chinese University of Hong Kong + The Hong Kong University of Science and Technology (Guangzhou) + The University of Hong Kong + Feeling AI`; `Jiangmiao Pang`]
 
-
+***
 
 ### ※ 7) Simulation/Synthesis/Generation for Embodied AI or World Model
 
@@ -414,7 +415,7 @@
 
 * **FlowDreamer(arxiv2025.05)** FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2505.10075)][[project link](https://sharinka0715.github.io/FlowDreamer/)][[code|official](https://github.com/sharinka0715/FlowDreamer/)][`BIGAI + THU + BNU + HUST`]
 
-
+***
 
 ### ※ 8) Other Robot Manipulation Conferences
 
