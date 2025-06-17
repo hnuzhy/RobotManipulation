@@ -170,6 +170,9 @@
 
 * **RT-Grasp(arxiv2024.11)** RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model [[arxiv link](https://arxiv.org/abs/2411.05212)][[project link](https://sites.google.com/view/rt-grasp)][`Baidu RAL + Rutgers University`]
 
+* **ManiBox(arxiv2024.11)** ManiBox: Enhancing Spatial Grasping Generalization via Scalable Simulation Data Generation [[arxiv link](https://arxiv.org/abs/2411.01850)][[project link](https://thkkk.github.io/manibox)][[code|official](https://github.com/thkkk/manibox)][`Tsinghua University + National University of Singapore`]
+
+
 ***
 
 * **DMEG(RAL2025)(arxiv2024.10)** Diffusion for Multi-Embodiment Grasping [[paper link](https://ieeexplore.ieee.org/abstract/document/10854684)][[arxiv link](https://arxiv.org/abs/2410.18835)][`Bosch Corporate Research + Karlsruhe Institute of Technology`]
