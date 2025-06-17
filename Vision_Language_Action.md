@@ -500,7 +500,7 @@
 
 * **GR-2(arxiv2024.10)** GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2410.06158)][[project link](https://gr2-manipulation.github.io/)][`Robotics Research Team, ByteDance Research`]
 
-* 👍**π0(arxiv2024.10)** π0: A Vision-Language-Action Flow Model for General Robot Control [[pdf link](https://www.physicalintelligence.company/download/pi0.pdf)][[arxiv link](https://arxiv.org/abs/2410.24164)][[project link](https://www.physicalintelligence.company/blog/pi0)][[`Physical Intelligence (π)`](https://www.physicalintelligence.company/); `Chelsea Finn` + `Sergey Levine`]
+* 👍**π0(RSS2025)(arxiv2024.10)** π0: A Vision-Language-Action Flow Model for General Robot Control [[paper link](https://roboticsconference.org/program/papers/10/)][[pdf link](https://www.physicalintelligence.company/download/pi0.pdf)][[arxiv link](https://arxiv.org/abs/2410.24164)][[project link](https://www.physicalintelligence.company/blog/pi0)][[`Physical Intelligence (π)`](https://www.physicalintelligence.company/); `Chelsea Finn` + `Sergey Levine`]
 
 * **VLA-Diffu-Switch(arxiv2024.10)** Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand [[arxiv link](https://arxiv.org/abs/2410.14022)][[project link](https://vla-diffu-switch.github.io/)][`EPFL`]
 
@@ -512,7 +512,7 @@
 
 * **SpatialVLA(arxiv2025.01)** SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model [[arxiv link](https://arxiv.org/abs/2501.15830)][[project link](https://spatialvla.github.io/)][[code|official](https://github.com/SpatialVLA/SpatialVLA)][`Shanghai AI Laboratory + ShanghaiTech + TeleAI`]
 
-* 👍**FAST(arxiv2025.01)** FAST: Efficient Action Tokenization for Vision-Language-Action Models [[arxiv link](https://arxiv.org/abs/2501.09747)][[project link](https://www.physicalintelligence.company/research/fast)][[code|official](https://github.com/Physical-Intelligence/openpi)][`Physical Intelligence + UC Berkeley + Stanford` + `Chelsea Finn + Sergey Levine`]
+* 👍**FAST(RSS2025)(arxiv2025.01)** FAST: Efficient Action Tokenization for Vision-Language-Action Models [[paper link](https://roboticsconference.org/program/papers/12/)][[arxiv link](https://arxiv.org/abs/2501.09747)][[project link](https://www.physicalintelligence.company/research/fast)][[code|official](https://github.com/Physical-Intelligence/openpi)][`Physical Intelligence + UC Berkeley + Stanford` + `Chelsea Finn + Sergey Levine`]
 
 * **DexVLA(arxiv2025.02)** DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control [[arxiv link](https://arxiv.org/abs/2502.05855)][[project link](https://dex-vla.github.io/)][[code|official](https://github.com/juruobenruo/DexVLA)][`Midea Group + East China Normal University + Shanghai University`]
 
@@ -521,6 +521,8 @@
 * 👍**OpenVLA-OFT(RSS2025)(arxiv2025.02)** Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success [[paper link](https://roboticsconference.org/program/papers/17/)][[arxiv link](https://arxiv.org/abs/2502.19645)][[project link](https://openvla-oft.github.io/)][[code|official](https://github.com/moojink/openvla-oft)][`Stanford University`; `Chelsea Finn`]
 
 * **HybridVLA(arxiv2025.03)** HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model [[arxiv link](https://arxiv.org/abs/2503.10631)][[project link](https://hybrid-vla.github.io/)][[code|official](https://github.com/PKU-HMI-Lab/Hybrid-VLA)][`Peking University + Beijing Academy of Artificial Intelligence (BAAI) + CUHK`]
+
+* 👍**π0.5(year2025.04)** π0.5: a Vision-Language-Action Model with Open-World Generalization [[arxiv link](https://arxiv.org/abs/2504.16054)][[project link](https://pi.website/blog/pi05)][`Physical Intelligence`; `Sergey Levine`]
 
 * **AGNOSTOS(arxiv2025.05)** Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization [[arxiv link](https://arxiv.org/abs/2505.15660)][[project link](https://jiaming-zhou.github.io/AGNOSTOS/)][[code|official](https://github.com/jiaming-zhou/X-ICM)][`HKUST(GZ) + HKU + SYSU + HKUST`]
 
