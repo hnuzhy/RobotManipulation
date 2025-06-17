@@ -600,13 +600,15 @@
 
 ***
 
-### ※ 12) Robot Manipulation with Mobility / Locomotion / Navigation / Whole-Body-Control
+### ※ 12) Robot Manipulation with Mobility / Locomotion / Navigation / Aircraft / Whole-Body-Control
 
 * 👍**MobileALOHA(arxiv2024.01)** Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[arxiv link](https://arxiv.org/abs/2401.02117)][[project link](https://mobile-aloha.github.io/)][[code|official](https://github.com/MarkFzp/mobile-aloha)][`Stanford University`; `Chelsea Finn`]
 
 * **BRMData(arxiv2024.05)** Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks [[arxiv link](https://arxiv.org/abs/2405.18860)][[project link](https://embodiedrobot.github.io/)][[dataset link](http://box.jd.com/sharedInfo/1147DC284DDAEE91DC759E209F58DD60)][`JD Explore Academy`][It proposed `BRMData`, a `Bimanual-mobile Robot Manipulation Dataset` specifically designed for `household applications`.]
 
 * **BiGym(CoRL2024)(arxiv2024.07)** BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark [[openreview link](https://openreview.net/forum?id=EM0wndCeoD)][[arxiv link](https://arxiv.org/abs/2407.07788)][[project link](https://chernyadev.github.io/bigym/)][[code|official](https://github.com/chernyadev/bigym)][`Dyson Robot Learning Lab` + `Stephen James`][`Mujoco` + `UniTree H1`][BiGym is a new benchmark and learning environment for mobile bi-manual demo-driven robotic manipulation.]
+
+* 👍**FlyingHand(RSS2025)(arxiv2024.07)** Flying Hand: End-Effector-Centric Framework for Versatile Aerial Manipulation Teleoperation and Policy Learning [[arxiv link](https://arxiv.org/abs/2407.05587)][[project link](https://lecar-lab.github.io/flying_hand/)][`Carnegie Mellon University + Pennsylvania State University`]
 
 * **DIAL-MPC(ICRA2025, Best Paper Finalist)(arxiv2024.09)** Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing [[arxiv link](https://arxiv.org/abs/2409.15610)][[project link](https://lecar-lab.github.io/dial-mpc/)][[code|official](https://github.com/LeCAR-Lab/dial-mpc)][`Carnegie Mellon University`][`DIAL-MPC: Diffusion-Inspired Annealing For Legged MPC`]
 
@@ -1117,7 +1119,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 
 
-* **FlyingHand(RSS2025)(arxiv2024.07)** Flying Hand: End-Effector-Centric Framework for Versatile Aerial Manipulation Teleoperation and Policy Learning [[arxiv link](https://arxiv.org/abs/2407.05587)][[project link](https://lecar-lab.github.io/flying_hand/)][`Carnegie Mellon University + Pennsylvania State University`]
 
 * 👍**DemoGen(RSS2025)(arxiv2025.02)** DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [[arxiv link](https://arxiv.org/abs/2502.16932)][[project link](https://demo-generation.github.io/)][[code|official](https://github.com/TEA-Lab/DemoGen)][`Tsinghua University + Shanghai Qi Zhi Institute + Shanghai AI Lab`; `Huazhe Xu`]
 
