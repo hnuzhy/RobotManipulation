@@ -548,11 +548,14 @@
 
 ### ※ 9) Detection/Correction/Recovery of Robot Manipulation Failures/Errors
 
+
 * **TRANSIC(CoRL2024)(arxiv2024.05)** TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction [[openreview link](https://openreview.net/forum?id=lpjPft4RQT)][[arxiv link](https://arxiv.org/abs/2405.10315)][[project link](https://transic-robot.github.io/)][[code|official](https://github.com/transic-robot/transic)][`Stanford University`; `Jiajun Wu + Li Fei-Fei`]
 
-* **AHA(arxiv2024.09)** AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation [[pdf link](https://robofail-vlm.github.io/Aha_paper.pdf)][[project link](https://robofail-vlm.github.io/)][`NVIDIA + University of Washington + Universidad Católica San Pablo + MIT + Nanyang Technological University + Allen Institute for Artificial Intelligence`; `Dieter Fox`]
+* **Manipulate-Anything(CoRL2024)(arxiv2024.06)** Manipulate-Anything: Automating Real-World Robots using Vision-Language Models [[openreview link](https://openreview.net/forum?id=2SYFDG4WRA)][[arxiv link](https://arxiv.org/abs/2406.18915)][[project link](https://robot-ma.github.io/)][`University of Washington + NVIDIA + Allen Institute for Artifical Intelligence + Universidad Católica San Pablo`; `Dieter Fox`][It has an `Error Recovery` module]
 
 * 👍**RACER(arxiv2024.09)** RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning [[arxiv link](https://arxiv.org/abs/2409.14674)][[project link](https://rich-language-failure-recovery.github.io/)][[code|official](https://github.com/sled-group/RACER)][`University of Michigan`]
+
+* **AHA(ICLR2025)(arxiv2024.10)** AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation [[openreview link](https://openreview.net/forum?id=JVkdSi7Ekg)][[arxiv link](https://arxiv.org/abs/2410.00371)][[project link](https://robofail-vlm.github.io/)][[code|official](https://github.com/NVlabs/AHA)][`NVIDIA + University of Washington + Universidad Católica San Pablo + MIT + Nanyang Technological University + Allen Institute for Artificial Intelligence`; `Dieter Fox`]
 
 * 👍**Code-as-Monitor(CVPR2025)(arxiv2024.12)** Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Code-as-Monitor_Constraint-aware_Visual_Programming_for_Reactive_and_Proactive_Robotic_Failure_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2412.04455)][[project link](https://zhoues.github.io/Code-as-Monitor/)][`Beihang University + Peking University + Beijing Academy of Artificial Intelligence + GalBot`; `He Wang`]
 
@@ -953,8 +956,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **SGRv2(CoRL2024)(arxiv2024.06)** Leveraging Locality to Boost Sample Efficiency in Robotic Manipulation [[openreview link](https://openreview.net/forum?id=Qpjo8l8AFW&noteId=Qpjo8l8AFW)][[arxiv link](https://arxiv.org/abs/2406.10615)][[project link](https://sgrv2-robot.github.io/)][[code|official](https://github.com/TongZhangTHU/sgr)][`THU + Shanghai Qi Zhi + Shanghai AI Lab`]
 
 * **GraspSplats(CoRL2024)(arxiv2024.06)** GraspSplats: Efficient Manipulation with 3D Feature Splatting [[openreview link](https://openreview.net/forum?id=pPhTsonbXq)] [[arxiv link](https://arxiv.org/abs/2409.02084)][[project link](https://graspsplats.github.io/)][[code|official](https://github.com/jimazeyu/GraspSplats)][`UC San Diego`; `Xiaolong Wang`]
-
-* **Manipulate-Anything(CoRL2024)(arxiv2024.06)** Manipulate-Anything: Automating Real-World Robots using Vision-Language Models [[openreview link](https://openreview.net/forum?id=2SYFDG4WRA)][[arxiv link](https://arxiv.org/abs/2406.18915)][[project link](https://robot-ma.github.io/)][`University of Washington + NVIDIA + Allen Institute for Artifical Intelligence + Universidad Católica San Pablo`; `Dieter Fox`]
 
 * **LLARVA(CoRL2024)(arxiv2024.06)** LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning [[openreview link](https://openreview.net/forum?id=Q2lGXMZCv8)][[arxiv link](https://arxiv.org/abs/2406.11815)][[project link](https://llarva24.github.io/)][[code|official](https://github.com/Dantong88/LLARVA)][`Berkeley AI Research, UC Berkeley`]
 
