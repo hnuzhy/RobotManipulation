@@ -1261,6 +1261,47 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 
 
+* **SAFE(arxiv2025.06)** SAFE: Multitask Failure Detection for Vision-Language-Action Models [[arxiv link](https://arxiv.org/abs/2506.09937)][[project link](https://vla-safe.github.io/)][[code|official]()][`University of Toronto (UofT) + UofT Robotics Institute + Vector Institute + Toyota Research Institute (TRI)`][It introduces the `multitask failure detection problem` for VLA models, and propose `SAFE`, a `failure detector` that can `detect failures for unseen tasks zero-shot` and achieve state-of-the-art performance.]
+
+* **CheckManual(CVPR2025, Highlight)(arxiv2025.06)** CheckManual: A New Challenge and Benchmark for Manual-based Appliance Manipulation [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Long_CheckManual_A_New_Challenge_and_Benchmark_for_Manual-based_Appliance_Manipulation_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2506.09343)][[project link](https://sites.google.com/view/checkmanual)][[code|official](https://github.com/LYX0501/CheckManual)][`Peking University + PKU-Agibot Lab`; `Hao Dong`]
+
+* **TGRPO(arxiv2025.06)** TGRPO :Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization [[arxiv link](https://arxiv.org/abs/2506.08440)][[code|official](https://github.com/hahans/TGRPO)][`Jilin University`]
+
+* **RationalVLA(arxiv2025.06)** RationalVLA: A Rational Vision-Language-Action Model with Dual System [[arxiv link](https://arxiv.org/abs/2506.10826)][[project link](https://irpn-eai.github.io/rationalvla)][`The Hong Kong University of Science and Technology (Guangzhou) + Shanghai Jiao Tong University`]
+
+* **eFlesh(arxiv2025.06)** eFlesh: Highly customizable Magnetic Touch Sensing using Cut-Cell Microstructures [[arxiv link](https://arxiv.org/abs/2506.09994)][[project link](https://e-flesh.com/)][`New York University`]
+
+* **SkillBlender(arxiv2025.06)** SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending [[arxiv link](https://arxiv.org/abs/2506.09366)][[project link](https://usc-gvl.github.io/SkillBlender-web/)][`University of Southern California + Stanford University + Peking University + University of California, Berkeley`; `Pieter Abbeel`][SkillBlender performs versatile autonomous humanoid loco-manipulation tasks within different embodiments and environments, given only one or two intuitive reward terms.]
+
+* **(arxiv2025.06)** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **(arxiv2025.06)** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **(arxiv2025.06)** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **(arxiv2025.06)** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **(arxiv2025.06)** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **(arxiv2025.06)** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **(arxiv2025.06)** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **(arxiv2025.06)** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **(arxiv2025.06)** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **(arxiv2025.06)** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **(arxiv2025.06)** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **(arxiv2025.06)** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **(arxiv2025.06)** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **(arxiv2025.06)** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
