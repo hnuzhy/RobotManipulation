@@ -133,6 +133,7 @@
 
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
+
 ***
 
 ### ※ 2) Robot Pose Estimation / Hand-eye Calibration
@@ -543,7 +544,7 @@
 
 ***
 
-### ※ 9) Detection/Correction/Recovery/Spatial-Understanding of Robot Manipulation Failures/Errors
+### ※ 9) Correction/Recovery/Spatial-Understanding of Robot Manipulation Failures/Errors/Ambiguity
 
 * **TRANSIC(CoRL2024)(arxiv2024.05)** TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction [[openreview link](https://openreview.net/forum?id=lpjPft4RQT)][[arxiv link](https://arxiv.org/abs/2405.10315)][[project link](https://transic-robot.github.io/)][[code|official](https://github.com/transic-robot/transic)][`Stanford University`; `Jiajun Wu + Li Fei-Fei`]
 
@@ -560,6 +561,12 @@
 * **RoboSpatial(CVPR2025, Oral)(arxiv2024.11)** RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Song_RoboSpatial_Teaching_Spatial_Understanding_to_2D_and_3D_Vision-Language_Models_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2411.16537)][`The Ohio State University + NVIDIA`]
 
 * 👍**Code-as-Monitor(CVPR2025)(arxiv2024.12)** Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Code-as-Monitor_Constraint-aware_Visual_Programming_for_Reactive_and_Proactive_Robotic_Failure_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2412.04455)][[project link](https://zhoues.github.io/Code-as-Monitor/)][`Beihang University + Peking University + Beijing Academy of Artificial Intelligence + GalBot`; `He Wang`]
+
+* **RoboMD(arxiv2024.12)** From Mystery to Mastery: Failure Diagnosis for Improving Manipulation Policies [[arxiv link](https://arxiv.org/abs/2412.02818)][[project link](https://somsagar07.github.io/RoboMD/)][[code|official](https://github.com/somsagar07/RoboMD)][`Arizona State University + University of Washington + NVIDIA`; `Dieter Fox`]
+
+* 👍**FOREWARN(arxiv2025.02)** From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment [[arxiv link](https://arxiv.org/abs/2502.01828)][[project link](https://yilin-wu98.github.io/forewarn/)][`Carnegie Mellon University + UC Berkeley`]
+
+* **AmbResVLM(arxiv2025.04)** Robotic Task Ambiguity Resolution via Natural Language Interaction [[arxiv link](https://arxiv.org/abs/2504.17748)][[project link](https://ambres.cs.uni-freiburg.de/)][[code|official](https://github.com/robot-learning-freiburg/)][`University of Freiburg + Toyota Motor Europe`]
 
 * **RoboFAC(arxiv2025.05)** RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction [[arxiv link](https://arxiv.org/abs/2505.12224)][[project link](https://mint-sjtu.github.io/RoboFAC.io/)][[code|official](https://github.com/MINT-SJTU/RoboFAC)][`Shanghai Jiao Tong University + Xiamen University + Harbin Institute of Technology, Shenzhen`]
 
