@@ -16,12 +16,12 @@
   * **[※ 5) Visual Affordance/Keypoint/Gesture/Gaze for Robot Manipulation](#-5-Visual-AffordanceKeypointGestureGaze-for-Robot-Manipulation)**
   * **[※ 6) Teleoperation/Retargeting/Exoskeletons for Robot Manipulation](#-6-TeleoperationRetargetingExoskeletons-for-Robot-Manipulation)**
   * **[※ 7) Optimization/Expansion/Application of Diffusion Policy/Transformer](#-7-OptimizationExpansionApplication-of-Diffusion-PolicyTransformer)**
-  * **[※ 8) 8) The End-to-End Trained Vision-Language-Action(VLA) Models](#-8-The-End-to-End-Trained-Vision-Language-ActionVLAModels)**
-  * **[※ 9) Correction/Recovery/Spatial-Understanding of Robot Manipulation Failures/Errors/Ambiguity](#-9-CorrectionRecoverySpatial-Understanding-of-Robot-ManipulationFailuresErrorsAmbiguity)**
+  * **[※ 8) The End-to-End Trained Vision-Language-Action(VLA) Models](#-8-The-End-to-End-Trained-Vision-Language-ActionVLA-Models)**
+  * **[※ 9) Correction/Recovery/Spatial-Understanding of Robot Manipulation Failures/Errors/Ambiguity](#-9-CorrectionRecoverySpatial-Understanding-of-Robot-Manipulation-FailuresErrorsAmbiguity)**
   * **[※ 10) Probabilistic-Prehensile / Non-Prehensile Robot Manipulation](#-10-Probabilistic-Prehensile--Non-Prehensile-Robot-Manipulation)**
   * **[※ 11) Articulated Objects Related Robot Manipulation](#-11-Articulated-Objects-Related-Robot-Manipulation)**
   * **[※ 12) Robot Manipulation with Mobility/Locomotion/Navigation/Aircraft/Whole-Body-Control](#-12-Robot-Manipulation-with-MobilityLocomotionNavigationAircraftWhole-Body-Control)**
-  * **[※ 13) Prediction/Optimization/Control of Embodied Agent(s)](#-13-PredictionOptimizationControl-of-EmbodiedAgents)**
+  * **[※ 13) Prediction/Optimization/Control of Embodied Agent(s)](#-13-PredictionOptimizationControl-of-Embodied-Agents)**
   * **[※ 14) Simulation/Synthesis/Generation/World-Model for Embodied AI](#-14-SimulationSynthesisGenerationWorld-Model-for-Embodied-AI)**
   * **[※ 15) Other Robot Manipulation Conferences](#-15-Other-Robot-Manipulation-Conferences)**
 
