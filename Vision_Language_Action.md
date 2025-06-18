@@ -4,14 +4,14 @@
 
 # Contents
 * **[▶ Materials](#Materials)**
-  * **[※ 1) Useful Collections](#-Useful-Collections)**
-  * **[※ 2) Representative Blogs](#-Representative-Blogs)**
-  * **[※ 3) Simulator Toolkits](#-Simulator-Toolkits)**
+  * **[※ 1) Useful Collections](#-1-Useful-Collections)**
+  * **[※ 2) Representative Blogs](#-2-Representative-Blogs)**
+  * **[※ 3) Simulator Toolkits](#-3-Simulator-Toolkits)**
 * **[▶ Datasets and Benchmarks](#Datasets-and-Benchmarks)**
 * **[▶ Papers](#Papers)**
   * **[※ 1) Related Survey](#-1-Related-Survey)**
   * **[※ 2) Robot Pose Estimation / Hand-eye Calibration](#-2-Robot-Pose-Estimation--Hand-eye-Calibration)**
-  * **[※ 3) Tactile/Haptic/Force Signals Sensing/Simulation](#-3-Tactile-Haptic-Force-Signals--Sensing-Simulation)**
+  * **[※ 3) Tactile/Haptic/Force Signals Sensing/Simulation](#-3-TactileHapticForce-Signals-SensingSimulation)**
 
 
 ## ▶Materials
