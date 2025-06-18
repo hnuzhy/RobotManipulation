@@ -20,7 +20,7 @@
   * **[※ 9) Correction/Recovery/Understand of Manipulation Failures/Ambiguity/Spatial](#-9-CorrectionRecoveryUnderstand-of-Manipulation-FailuresAmbiguitySpatial)**
   * **[※ 10) Probabilistic-Prehensile / Non-Prehensile Robot Manipulation](#-10-Probabilistic-Prehensile--Non-Prehensile-Robot-Manipulation)**
   * **[※ 11) Articulated Objects Related Robot Manipulation](#-11-Articulated-Objects-Related-Robot-Manipulation)**
-  * **[※ 12) Robot Manipulation with Mobility/Locomotion/Navigation/Aircraft/Whole-Body-Control](#-12-Robot-Manipulation-with-MobilityLocomotionNavigationAircraftWhole-Body-Control)**
+  * **[※ 12) Manipulation with Mobility/Locomotion/Navigation/Aircraft/Whole-Body](#-12-Manipulation-with-MobilityLocomotionNavigationAircraftWhole-Body)**
   * **[※ 13) Prediction/Optimization/Control of Embodied Agent(s)](#-13-PredictionOptimizationControl-of-Embodied-Agents)**
   * **[※ 14) Simulation/Synthesis/Generation/World-Model for Embodied AI](#-14-SimulationSynthesisGenerationWorld-Model-for-Embodied-AI)**
   * **[※ 15) Other Robot Manipulation Conferences](#-15-Other-Robot-Manipulation-Conferences)**
@@ -677,7 +677,7 @@
 
 ***
 
-### ※ 12) Robot Manipulation with Mobility/Locomotion/Navigation/Aircraft/Whole-Body-Control
+### ※ 12) Manipulation with Mobility/Locomotion/Navigation/Aircraft/Whole-Body
 
 * 👍**MobileALOHA(arxiv2024.01)** Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[arxiv link](https://arxiv.org/abs/2401.02117)][[project link](https://mobile-aloha.github.io/)][[code|official](https://github.com/MarkFzp/mobile-aloha)][`Stanford University`; `Chelsea Finn`]
 
