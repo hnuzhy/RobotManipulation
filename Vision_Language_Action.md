@@ -629,7 +629,7 @@
 
 * 👍**COMBO-Grasp(arxiv2025.02)** COMBO-Grasp: Learning Constraint-Based Manipulation for Bimanual Occluded Grasping [[arxiv link](https://arxiv.org/abs/2502.08054)][[project link](https://combo-grasp.github.io/)][`Applied AI Lab, University of Oxford`]
 
-* 👍**HAMNET(RSS2025)(arxiv2025.02)** Hierarchical and Modular Network on Non-prehensile Manipulation in General Environments [[arxiv link](https://arxiv.org/abs/2502.20843)][[project link](https://unicorn-hamnet.github.io/)][`KAIST`]
+* 👍**HAMNET(RSS2025)(arxiv2025.02)** Hierarchical and Modular Network on Non-prehensile Manipulation in General Environments [[paper link](https://roboticsconference.org/program/papers/154/)][[arxiv link](https://arxiv.org/abs/2502.20843)][[project link](https://unicorn-hamnet.github.io/)][`KAIST`]
 
 * **Skill-RRT(arxiv2025.02)** SPIN: distilling Skill-RRT for long-horizon prehensile and non-prehensile manipulation [[arxiv link](https://arxiv.org/abs/2502.18015)][[project link](https://sites.google.com/view/skill-rrt)][`Korea Advanced Institute of Science and Technology (KAIST)`]
 
