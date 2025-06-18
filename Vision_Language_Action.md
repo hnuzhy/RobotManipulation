@@ -3,20 +3,20 @@
 
 
 # Contents
-* **[▶ Materials](#1-Materials)**
-  * **[※ Useful Collections](#-Useful-Collections)**
-  * **[※ Representative Blogs](#-Representative-Blogs)**
-  * **[※ Simulator Toolkits](#-Simulator-Toolkits)**
-* **[▶ Datasets and Benchmarks](#-Datasets-and-Benchmarks)**
-* **[▶ Papers](#-Papers)**
+* **[▶ Materials](#Materials)**
+  * **[※ 1) Useful Collections](#-Useful-Collections)**
+  * **[※ 2) Representative Blogs](#-Representative-Blogs)**
+  * **[※ 3) Simulator Toolkits](#-Simulator-Toolkits)**
+* **[▶ Datasets and Benchmarks](#Datasets-and-Benchmarks)**
+* **[▶ Papers](#Papers)**
   * **[※ 1) Related Survey](#-1-Related-Survey)**
-  * **[※ 2) Robot Pose Estimation / Hand-eye Calibration](#-2-Robot-Pose-Estimation-Hand-eye-Calibration)**
-  * **[※ 3) Tactile/Haptic/Force Signals Sensing/Simulation](#-3-Tactile-Haptic-Force-Signals-Sensing-Simulation)**
+  * **[※ 2) Robot Pose Estimation / Hand-eye Calibration](#-2-Robot-Pose-Estimation--Hand-eye-Calibration)**
+  * **[※ 3) Tactile/Haptic/Force Signals Sensing/Simulation](#-3-Tactile-Haptic-Force-Signals--Sensing-Simulation)**
 
 
 ## ▶Materials
 
-### ※ Useful Collections
+### ※ 1) Useful Collections
 * **Github** [Recent LLM-based CV and related works.](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 * **Github** [Must-read Papers on Large Language Model(LLM) Agents.](https://github.com/zjunlp/LLMAgentPapers)
 * **Github** [Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) [[the survey paper](https://arxiv.org/abs/2312.07843)]
@@ -30,13 +30,13 @@
 * **Github** [my_arXiv_daily - Robotics](https://github.com/BaiShuanghao/my_arXiv_daily?tab=readme-ov-file#robotics)
 
 
-### ※ Representative Blogs
+### ※ 2) Representative Blogs
 * **website (CCF)** [具身智能 | CCF专家谈术语 (Cewu Lu)](https://www.ccf.org.cn/Media_list/gzwyh/jsjsysdwyh/2023-07-22/794317.shtml)
 * **website (GraspNet)** [GraspNet通用物体抓取(GraspNet-1Billion + AnyGrasp + SuctionNet-1Billion + TransCG)](https://graspnet.net/index.html)
 * **website (AgiBot-World)** [智元机器人联合上海人工智能实验室、国家地方共建人形机器人创新中心以及上海库帕思，开源的百万真机数据集](https://opendatalab.com/OpenDataLab/AgiBot-World)
 
 
-### ※ Simulator Toolkits
+### ※ 3) Simulator Toolkits
 * **Gensim** [Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora.](https://radimrehurek.com/gensim/) [[github](https://github.com/piskvorky/gensim)]
 * **Gym** [Gym is a standard API for reinforcement learning, and a diverse collection of reference environments](https://www.gymlibrary.dev/) [[github](https://github.com/openai/gym)]
 * 👍👍**Gymnasium** [Gymnasium is an API standard for reinforcement learning with a diverse collection of reference environments](https://gymnasium.farama.org/) [[github](https://github.com/Farama-Foundation/Gymnasium)]
