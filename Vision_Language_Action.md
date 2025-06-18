@@ -1,6 +1,19 @@
 # ⭐Vision Language Action
 *this is the most popular paradigm for achieving `robot manipulation`, also similar to `image-to-action policy models,` and `state-to-action mappings`*
 
+
+# Contents
+* **[▶ Materials](#1-Materials)**
+  * **[※ Useful Collections](#-Useful-Collections)**
+  * **[※ Representative Blogs](#-Representative-Blogs)**
+  * **[※ Simulator Toolkits](#-Simulator-Toolkits)**
+* **[▶ Datasets and Benchmarks](#-Datasets-and-Benchmarks)**
+* **[▶ Papers](#-Papers)**
+  * **[※ 1) Related Survey](#-1-Related-Survey)**
+  * **[※ 2) Robot Pose Estimation / Hand-eye Calibration](#-2-Robot-Pose-Estimation-Hand-eye-Calibration)**
+  * **[※ 3) Tactile/Haptic/Force Signals Sensing/Simulation](#-3-Tactile-Haptic-Force-Signals-Sensing-Simulation)**
+
+
 ## ▶Materials
 
 ### ※ Useful Collections
@@ -120,7 +133,7 @@
 
 ## ▶Papers
 
-### ※ 1) Survey
+### ※ 1) Related Survey
 
 * **Survey(IJCAI2024)(arxiv2024.02)** A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents [[arxiv link](https://arxiv.org/abs/2402.04580)][[code|official](https://github.com/t6-thu/awesome-cross-domain-policy-transfer-for-embodied-agents)][`THU`]
 
