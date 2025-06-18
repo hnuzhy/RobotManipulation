@@ -17,7 +17,7 @@
   * **[※ 6) Teleoperation/Retargeting/Exoskeletons for Robot Manipulation](#-6-TeleoperationRetargetingExoskeletons-for-Robot-Manipulation)**
   * **[※ 7) Optimization/Expansion/Application of Diffusion Policy/Transformer](#-7-OptimizationExpansionApplication-of-Diffusion-PolicyTransformer)**
   * **[※ 8) The End-to-End Trained Vision-Language-Action(VLA) Models](#-8-The-End-to-End-Trained-Vision-Language-ActionVLA-Models)**
-  * **[※ 9) Correction/Recovery/Understand of Robot Manipulation Failures/Errors/Ambiguity/Spatial](#-9-CorrectionRecoveryUnderstand-of-Robot-Manipulation-FailuresErrorsAmbiguitySpatial)**
+  * **[※ 9) Correction/Recovery/Understand of Manipulation Failures/Ambiguity/Spatial](#-9-CorrectionRecoveryUnderstand-of-Manipulation-FailuresAmbiguitySpatial)**
   * **[※ 10) Probabilistic-Prehensile / Non-Prehensile Robot Manipulation](#-10-Probabilistic-Prehensile--Non-Prehensile-Robot-Manipulation)**
   * **[※ 11) Articulated Objects Related Robot Manipulation](#-11-Articulated-Objects-Related-Robot-Manipulation)**
   * **[※ 12) Robot Manipulation with Mobility/Locomotion/Navigation/Aircraft/Whole-Body-Control](#-12-Robot-Manipulation-with-MobilityLocomotionNavigationAircraftWhole-Body-Control)**
@@ -578,7 +578,7 @@
 
 ***
 
-### ※ 9) Correction/Recovery/Understand of Robot Manipulation Failures/Errors/Ambiguity/Spatial
+### ※ 9) Correction/Recovery/Understand of Manipulation Failures/Ambiguity/Spatial
 
 * **TRANSIC(CoRL2024)(arxiv2024.05)** TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction [[openreview link](https://openreview.net/forum?id=lpjPft4RQT)][[arxiv link](https://arxiv.org/abs/2405.10315)][[project link](https://transic-robot.github.io/)][[code|official](https://github.com/transic-robot/transic)][`Stanford University`; `Jiajun Wu + Li Fei-Fei`]
 
