@@ -615,7 +615,7 @@
 
 ### ※ 10) Probabilistic-Prehensile / Non-Prehensile Robot Manipulation
 
-* 👍**HACMan(CoRL2023 Oral)(arxiv2023.05)** HACMan: Learning Hybrid Actor-Critic Maps for 6D Non-Prehensile Manipulation [[arxiv link](https://arxiv.org/abs/2305.03942)][[project link](https://hacman-2023.github.io/)][[code|official](https://github.com/HACMan-2023/HACMan)][`CMU + Meta`]
+* 👍**HACMan(CoRL2023 Oral)(arxiv2023.05)** HACMan: Learning Hybrid Actor-Critic Maps for 6D Non-Prehensile Manipulation [[paper link](https://proceedings.mlr.press/v229/zhou23a.html)][[openreview link](https://openreview.net/forum?id=fa7FzDjhzs9)][[arxiv link](https://arxiv.org/abs/2305.03942)][[project link](https://hacman-2023.github.io/)][[code|official](https://github.com/HACMan-2023/HACMan)][`CMU + Meta`]
 
 * **MRLM(RAL2024)(arxiv2023.07)** Multi-Stage Reinforcement Learning for Non-Prehensile Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/10553281)][[arxiv link](https://arxiv.org/abs/2307.12074)][[project link](https://sites.google.com/view/mrlm)][`School of Control Science and Engineering, Shandong University`]
 
