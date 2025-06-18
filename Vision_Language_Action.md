@@ -33,8 +33,6 @@
 ### ※ 1) Useful Collections
 * **Github** [Recent LLM-based CV and related works.](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 * **Github** [Must-read Papers on Large Language Model(LLM) Agents.](https://github.com/zjunlp/LLMAgentPapers)
-* **Github** [Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) [[the survey paper](https://arxiv.org/abs/2312.07843)]
-* **Github** [Survey Paper of foundation models for robotics](https://github.com/JeffreyYH/robotics-fm-surve) [[the survey paper](https://arxiv.org/abs/2312.08782)]
 * **Github** [Robotic Grasping Papers and Codes - Grasp Detection](https://github.com/rhett-chen/Robotic-grasping-papers?tab=readme-ov-file#3-grasp-detection)
 * **Github** [CV & Geometry-based 6DOF Robotic Grasping - 6D Grasp Pose Detection](https://github.com/kidpaul94/My-Robotic-Grasping?tab=readme-ov-file#6d-grasp-pose-detection)
 * **Github** [Diffusion-Literature-for-Robotics - Summary of key papers and blogs](https://github.com/mbreuss/diffusion-literature-for-robotics)
@@ -148,6 +146,10 @@
 ## ▶Papers
 
 ### ※ 1) Related Survey
+
+* 👍**Survey(arxiv2023.12)** Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis [[arxiv link](https://arxiv.org/abs/2312.08782)][[code|official](https://github.com/JeffreyYH/robotics-fm-survey)][`Survey Paper of foundation models for robotics`]
+
+* 👍**Survey(IJRR2024)(arxiv2023.12)** Foundation Models in Robotics: Applications, Challenges, and the Future [[paper link](https://journals.sagepub.com/doi/abs/10.1177/02783649241281508)][[arxiv link](https://arxiv.org/abs/2312.07843)][[code|official](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)][`Awesome-Robotics-Foundation-Models`]
 
 * **Survey(IJCAI2024)(arxiv2024.02)** A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents [[arxiv link](https://arxiv.org/abs/2402.04580)][[code|official](https://github.com/t6-thu/awesome-cross-domain-policy-transfer-for-embodied-agents)][`THU`]
 
