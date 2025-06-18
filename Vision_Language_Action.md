@@ -12,7 +12,21 @@
   * **[※ 1) Related Survey](#-1-Related-Survey)**
   * **[※ 2) Robot Pose Estimation / Hand-eye Calibration](#-2-Robot-Pose-Estimation--Hand-eye-Calibration)**
   * **[※ 3) Tactile/Haptic/Force Signals Sensing/Simulation](#-3-TactileHapticForce-Signals-SensingSimulation)**
+  * **[※ 4) Assembly/Rearrangement Related Generation/Manipulation](#-4-AssemblyRearrangement-Related-GenerationManipulation)**
+  * **[※ 5) Visual Affordance/Keypoint/Gesture/Gaze for Robot Manipulation](#-5-Visual-AffordanceKeypointGestureGaze-for-Robot-Manipulation)**
+  * **[※ 6) Teleoperation/Retargeting/Exoskeletons for Robot Manipulation](#-6-TeleoperationRetargetingExoskeletons-for-Robot-Manipulation)**
+  * **[※ 7) Optimization/Expansion/Application of Diffusion Policy/Transformer](#-7-OptimizationExpansionApplication-of-Diffusion-PolicyTransformer)**
+  * **[※ 8) 8) The End-to-End Trained Vision-Language-Action(VLA) Models](#-8-The-End-to-End-Trained-Vision-Language-ActionVLAModels)**
+  * **[※ 9) Correction/Recovery/Spatial-Understanding of Robot Manipulation Failures/Errors/Ambiguity](#-9-CorrectionRecoverySpatial-Understanding-of-Robot-ManipulationFailuresErrorsAmbiguity)**
+  * **[※ 10) Probabilistic-Prehensile / Non-Prehensile Robot Manipulation](#-10-Probabilistic-Prehensile--Non-Prehensile-Robot-Manipulation)**
+  * **[※ 11) Articulated Objects Related Robot Manipulation](#-11-Articulated-Objects-Related-Robot-Manipulation)**
+  * **[※ 12) Robot Manipulation with Mobility/Locomotion/Navigation/Aircraft/Whole-Body-Control](#-12-Robot-Manipulation-with-MobilityLocomotionNavigationAircraftWhole-Body-Control)**
+  * **[※ 13) Prediction/Optimization/Control of Embodied Agent(s)](#-13-PredictionOptimizationControl-of-EmbodiedAgents)**
+  * **[※ 14) Simulation/Synthesis/Generation/World-Model for Embodied AI](#-14-SimulationSynthesisGenerationWorld-Model-for-Embodied-AI)**
+  * **[※ 15) Other Robot Manipulation Conferences](#-15-Other-Robot-Manipulation-Conferences)**
 
+***
+***
 
 ## ▶Materials
 
@@ -352,7 +366,7 @@
 
 ***
 
-### ※ 6) Teleoperation for Robot Manipulation
+### ※ 6) Teleoperation/Retargeting/Exoskeletons for Robot Manipulation
 
 * **DexPilot(ICRA2020)(arxiv2019.10)** DexPilot: Vision Based Teleoperation of Dexterous Robotic Hand-Arm System [[paper link](https://ieeexplore.ieee.org/abstract/document/9197124)][[arxiv link](http://arxiv.org/abs/1910.03135)][[project link](https://sites.google.com/view/dex-pilot)][`NVIDIA + CMU`; `Dieter Fox`]
 
