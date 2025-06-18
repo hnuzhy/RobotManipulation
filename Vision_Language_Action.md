@@ -606,6 +606,8 @@
 
 * **DyWA(arxiv2025.03)** DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation [[arxiv link](https://arxiv.org/abs/2503.16806)][[project link](https://pku-epic.github.io/DyWA/)][[code|official](https://pku-epic.github.io/DyWA/)][`Peking University + Galbot`; `He Wang`]
 
+* **ExDex(arxiv2025.03)** Dexterous Non-Prehensile Manipulation for Ungraspable Object via Extrinsic Dexterity [[arxiv link](https://arxiv.org/abs/2503.23120)][[project link](https://tangty11.github.io/ExDex/)][`PKU-PsiBot Joint Lab + Peking University`]
+
 * **ProbabilisticPrehensilePushing(RAL2025)(arxiv2025.03)** Pushing Everything Everywhere All At Once: Probabilistic Prehensile Pushing [[paper link](https://ieeexplore.ieee.org/abstract/document/10930575)][[arxiv link](https://arxiv.org/abs/2503.14268)][[project link](https://probabilistic-prehensile-pushing.github.io/)][[code|official](https://github.com/PatrizioPerugini/Probabilistic_prehensile_pushing)][`Division of Robotics, Perception and Learning (RPL), KTH`]
 
 * 👍**PIN-WM(RSS2025)(arxiv2025.04)** PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation [[paper link](https://roboticsconference.org/program/papers/153/)][[arxiv link](https://arxiv.org/abs/2504.16693)][[project link](https://pinwm.github.io/)][[code|official](https://github.com/XuAdventurer/PIN-WM)][`National University of Defense Technology + Wuhan University + Shenzhen University + Guangdong Laboratory of Artificial Intelligence and Digital Economy`]
