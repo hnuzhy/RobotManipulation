@@ -554,7 +554,7 @@
 
 * **HybridVLA(arxiv2025.03)** HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model [[arxiv link](https://arxiv.org/abs/2503.10631)][[project link](https://hybrid-vla.github.io/)][[code|official](https://github.com/PKU-HMI-Lab/Hybrid-VLA)][`Peking University + Beijing Academy of Artificial Intelligence (BAAI) + CUHK`]
 
-* 👍**π0.5(year2025.04)** π0.5: a Vision-Language-Action Model with Open-World Generalization [[arxiv link](https://arxiv.org/abs/2504.16054)][[project link](https://pi.website/blog/pi05)][`Physical Intelligence`; `Sergey Levine`]
+* 👍**π0.5(arxiv2025.04)** π0.5: a Vision-Language-Action Model with Open-World Generalization [[arxiv link](https://arxiv.org/abs/2504.16054)][[project link](https://pi.website/blog/pi05)][`Physical Intelligence`; `Sergey Levine`]
 
 * **AGNOSTOS(arxiv2025.05)** Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization [[arxiv link](https://arxiv.org/abs/2505.15660)][[project link](https://jiaming-zhou.github.io/AGNOSTOS/)][[code|official](https://github.com/jiaming-zhou/X-ICM)][`HKUST(GZ) + HKU + SYSU + HKUST`]
 
