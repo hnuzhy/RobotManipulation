@@ -18,7 +18,7 @@
   * **[※ 7) Optimization/Expansion/Application of Diffusion Policy/Transformer](#-7-OptimizationExpansionApplication-of-Diffusion-PolicyTransformer)**
   * **[※ 8) The End-to-End Trained Vision-Language-Action(VLA) Models](#-8-The-End-to-End-Trained-Vision-Language-ActionVLA-Models)**
   * **[※ 9) Correction/Recovery/Understand of Manipulation Failures/Ambiguity/Spatial](#-9-CorrectionRecoveryUnderstand-of-Manipulation-FailuresAmbiguitySpatial)**
-  * **[※ 10) Probabilistic-Prehensile / Non-Prehensile Robot Manipulation](#-10-Probabilistic-Prehensile--Non-Prehensile-Robot-Manipulation)**
+  * **[※ 10) Non-Prehensile/Extrinsic-based/Ungraspable Robot Manipulation](#-10-Non-Prehensile-Extrinsic-based-Ungraspable-Robot-Manipulation)**
   * **[※ 11) Articulated Objects Related Robot Manipulation](#-11-Articulated-Objects-Related-Robot-Manipulation)**
   * **[※ 12) Manipulation with Mobility/Locomotion/Navigation/Aircraft/Whole-Body](#-12-Manipulation-with-MobilityLocomotionNavigationAircraftWhole-Body)**
   * **[※ 13) Prediction/Optimization/Control of Embodied Agent(s)](#-13-PredictionOptimizationControl-of-Embodied-Agents)**
@@ -613,13 +613,15 @@
 
 ***
 
-### ※ 10) Probabilistic-Prehensile / Non-Prehensile Robot Manipulation
+### ※ 10) Non-Prehensile/Extrinsic-based/Ungraspable Robot Manipulation
 
 * 👍**HACMan(CoRL2023 Oral)(arxiv2023.05)** HACMan: Learning Hybrid Actor-Critic Maps for 6D Non-Prehensile Manipulation [[paper link](https://proceedings.mlr.press/v229/zhou23a.html)][[openreview link](https://openreview.net/forum?id=fa7FzDjhzs9)][[arxiv link](https://arxiv.org/abs/2305.03942)][[project link](https://hacman-2023.github.io/)][[code|official](https://github.com/HACMan-2023/HACMan)][`CMU + Meta`]
 
 * **MRLM(RAL2024)(arxiv2023.07)** Multi-Stage Reinforcement Learning for Non-Prehensile Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/10553281)][[arxiv link](https://arxiv.org/abs/2307.12074)][[project link](https://sites.google.com/view/mrlm)][`School of Control Science and Engineering, Shandong University`]
 
 * 👍**CORN(ICLR2024)(arxiv2024.03)** CORN: Contact-based Object Representation for Nonprehensile Manipulation of General Unseen Objects [[openreview link](https://openreview.net/forum?id=KTtEICH4TO)][[arxiv link](https://arxiv.org/abs/2403.10760)][[project link](https://sites.google.com/view/contact-non-prehensile)][[code|official](https://github.com/iMSquared/corn)][`Korea Advanced Institute of Science and Technology (KAIST) + Kim Jaechul Graduate school of AI`]
+
+* **ExtrinsicManipulation(IROS2024)(arxiv2024.04)** One-Shot Transfer of Long-Horizon Extrinsic Manipulation Through Contact Retargeting [[paper link](https://ieeexplore.ieee.org/abstract/document/10801356)][[arxiv link](https://arxiv.org/abs/2404.07468)][[project link](https://stanford-tml.github.io/extrinsic-manipulation/)][[code|official](https://github.com/Stanford-TML/extrinsic_manipulation)][`Stanford University + NVIDIA`]
 
 * **Bimanual-Nonprehensile-Mani(arxiv2024.09)** In the Wild Ungraspable Object Picking with Bimanual Nonprehensile Manipulation [[arxiv link](https://arxiv.org/abs/2409.15465)][`Stanford University + Toyota Research Institute (TRI)`]
 
@@ -1063,8 +1065,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **RiEMann(arxiv2024.03)** RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation [[arxiv link](https://arxiv.org/abs/2403.19460)][[project link](https://riemann-web.github.io/)][[code|official](https://github.com/HeegerGao/RiEMann)][`NUS + THU + Shanghai AI Lab + Shanghai Qizhi Institute`; `Huazhe Xu`]
 
 * **BimanualTwist(arxiv2024.03)** Twisting Lids Off with Two Hands [[arxiv link](https://arxiv.org/abs/2403.02338)][[project link](https://toruowo.github.io/bimanual-twist/)][`UC Berkeley`; ` Pieter Abbeel`]
-
-* **ExtrinsicManipulation(arxiv2024.04)** One-Shot Transfer of Long-Horizon Extrinsic Manipulation Through Contact Retargeting [[arxiv link](https://arxiv.org/abs/2404.07468)][[project link](https://stanford-tml.github.io/extrinsic-manipulation/)][[code|official](https://github.com/Stanford-TML/extrinsic_manipulation)][`Stanford University + NVIDIA`]
 
 * **LCB(arxiv2024.05)** From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control [[arxiv link](https://arxiv.org/abs/2405.04798)][[project link](https://fredshentu.github.io/LCB_site/)][`University of California Berkeley`][It is tested on benchmarks `LangTable` and `CALVIN`]
 
