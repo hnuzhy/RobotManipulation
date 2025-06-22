@@ -460,8 +460,6 @@
 
 * **GenDP(CoRL2024, Oral)(arxiv2024.10)** GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy [[openreview link](https://openreview.net/forum?id=7wMlwhCvjS)][[arxiv link](https://arxiv.org/abs/2410.17488)][[project link](https://robopil.github.io/GenDP/)][[code|official](https://github.com/WangYixuan12/gendp)][`Columbia University + University of Illinois Urbana-Champaign + Boston Dynamics AI Institute`][This work is based on `Diffusion Policy`, `robomimic` and `D3Fields`]
 
-* **RDT-1B(arxiv2024.10)** RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2410.07864)][[project link](https://rdt-robotics.github.io/rdt-robotics/)][[code|official](https://github.com/thu-ml/RoboticsDiffusionTransformer)][`Tsinghua University`; `Jun Zhu`]
-
 * **Shortcut-models(arxiv2024.10)** One Step Diffusion via Shortcut Models [[arxiv link](https://arxiv.org/abs/2410.12557)][[project link](https://kvfrans.com/shortcut-models/)][[code|official](https://github.com/kvfrans/shortcut-models)][`UC Berkeley`; `Sergey Levine + Pieter Abeel`]
 
 * 👍**DiT-Block-Policy(arxiv2024.10)** The Ingredients for Robotic Diffusion Transformers [[arxiv link](https://arxiv.org/pdf/2410.10088)][[project link](https://dit-policy.github.io/)][[code|official](https://github.com/sudeepdasari/dit-policy)][`Carnegie Mellon University + UC Berkeley`; `Sergey Levine`]
@@ -535,6 +533,10 @@
 * 👍**π0(RSS2025)(arxiv2024.10)** π0: A Vision-Language-Action Flow Model for General Robot Control [[paper link](https://roboticsconference.org/program/papers/10/)][[pdf link](https://www.physicalintelligence.company/download/pi0.pdf)][[arxiv link](https://arxiv.org/abs/2410.24164)][[project link](https://www.physicalintelligence.company/blog/pi0)][[`Physical Intelligence (π)`](https://www.physicalintelligence.company/); `Chelsea Finn` + `Sergey Levine`]
 
 * **VLA-Diffu-Switch(arxiv2024.10)** Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand [[arxiv link](https://arxiv.org/abs/2410.14022)][[project link](https://vla-diffu-switch.github.io/)][`EPFL`]
+
+* 👍**LAPA(ICLR2025)(arxiv2024.10)** Latent Action Pretraining from Videos [[openreview link](https://openreview.net/forum?id=VYOe2eBQeh)][[arxiv link](https://arxiv.org/abs/2410.11758)][[project link](https://latentactionpretraining.github.io/)][[code|official](https://github.com/LatentActionPretraining/LAPA)][`KAIST + University of Washington + Microsoft Research + NVIDIA + Allen Institute for AI`; `Dieter Fox`]
+
+* 👍**RDT-1B(ICLR2025)(arxiv2024.10)** RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[openreview link](https://openreview.net/forum?id=yAzN4tz7oI)][[arxiv link](https://arxiv.org/abs/2410.07864)][[project link](https://rdt-robotics.github.io/rdt-robotics/)][[code|official](https://github.com/thu-ml/RoboticsDiffusionTransformer)][`Tsinghua University`; `Jun Zhu`]
 
 * 👍**CogACT(arxiv2024.11)** CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2411.19650)][[project link](https://cogact.github.io/)][[code|official](https://github.com/microsoft/CogACT)][`Microsoft Research Asia + Tsinghua University + USTC + Institute of Microelectronics, CAS`]
 
@@ -1170,8 +1172,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **InstantPolicy(ICLR2025 oral)(arxiv2024.11)** Instant Policy: In-Context Imitation Learning via Graph Diffusion [[openreview link](https://openreview.net/forum?id=je3GZissZc)][[arxiv link](https://arxiv.org/abs/2411.12633)][[project link](https://www.robot-learning.uk/instant-policy)][[code|official](https://github.com/vv19/instant_policy)][`The Robot Learning Lab at Imperial College London` + `Edward Johns`]
 
 * **GVL(Generative Value Learning)(ICLR2025 Spotlight)(arxiv2024.11)** Vision Language Models are In-Context Value Learners [[openreview link](https://openreview.net/forum?id=friHAl5ofG)][[arxiv link](https://www.arxiv.org/abs/2411.04549)][[project link](https://generative-value-learning.github.io/)][[online-demo|official](https://generative-value-learning.github.io/#online-demo)][`Google DeepMind + University of Pennsylvania + Stanford University`]
-
-* **LAPA(ICLR2025)(arxiv2024.10)** Latent Action Pretraining from Videos [[openreview link](https://openreview.net/forum?id=VYOe2eBQeh)][[arxiv link](https://arxiv.org/abs/2410.11758)][[project link](https://latentactionpretraining.github.io/)][[code|official](https://github.com/LatentActionPretraining/LAPA)][`KAIST + University of Washington + Microsoft Research + NVIDIA + Allen Institute for AI`; `Dieter Fox`]
 
 
 
