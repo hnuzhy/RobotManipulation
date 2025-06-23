@@ -602,7 +602,7 @@
 
 * **RoboMD(arxiv2024.12)** From Mystery to Mastery: Failure Diagnosis for Improving Manipulation Policies [[arxiv link](https://arxiv.org/abs/2412.02818)][[project link](https://somsagar07.github.io/RoboMD/)][[code|official](https://github.com/somsagar07/RoboMD)][`Arizona State University + University of Washington + NVIDIA`; `Dieter Fox`]
 
-* 👍**FOREWARN(arxiv2025.02)** From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment [[arxiv link](https://arxiv.org/abs/2502.01828)][[project link](https://yilin-wu98.github.io/forewarn/)][`Carnegie Mellon University + UC Berkeley`]
+* 👍**FOREWARN(RSS2025)(arxiv2025.02)** From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment [[paper link](https://roboticsconference.org/program/papers/76/)][[arxiv link](https://arxiv.org/abs/2502.01828)][[project link](https://yilin-wu98.github.io/forewarn/)][`Carnegie Mellon University + UC Berkeley`]
 
 * **AmbResVLM(arxiv2025.04)** Robotic Task Ambiguity Resolution via Natural Language Interaction [[arxiv link](https://arxiv.org/abs/2504.17748)][[project link](https://ambres.cs.uni-freiburg.de/)][[code|official](https://github.com/robot-learning-freiburg/)][`University of Freiburg + Toyota Motor Europe`]
 
