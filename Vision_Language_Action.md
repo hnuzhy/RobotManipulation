@@ -1201,13 +1201,16 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **DOGlove(RSS2025)(arxiv2025.02)** DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove [[arxiv link](https://arxiv.org/abs/2502.07730)][[project link](https://do-glove.github.io/)][`Tsinghua University + Shanghai Qi Zhi Institute +  Shanghai AI Lab`; `Huazhe Xu`]
 
-* **UWM(RSS2025)(arxiv2025.04)** Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets [[arxiv link](https://arxiv.org/abs/2504.02792)][[project link](https://weirdlabuw.github.io/uwm/)][[code|official](https://github.com/WEIRDLabUW/unified-world-model)][`University of Washington + Toyota Research Institute`]
+* **PhysicsGen(RSS2025)(arxiv2025.02)** Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization [[paper link](https://roboticsconference.org/program/papers/53/)][[arxiv link](https://arxiv.org/abs/2502.20382)][[project link](https://lujieyang.github.io/physicsgen/)][`MIT + Robotics and AI Institute`]
 
-* **Mid-Level-MoE(RSS2025)(arxiv2025.06)** Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization [[paper link](https://roboticsconference.org/program/papers/155/)][[arxiv link](https://arxiv.org/abs/2506.06196)][[project link](https://mid-level-moe.github.io/)][`Stanford University + Google DeepMind`]
+* **UWM(RSS2025)(arxiv2025.04)** Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets [[arxiv link](https://arxiv.org/abs/2504.02792)][[project link](https://weirdlabuw.github.io/uwm/)][[code|official](https://github.com/WEIRDLabUW/unified-world-model)][`University of Washington + Toyota Research Institute`]
 
 * **PartInstruct(RSS2025)(arxiv2025.05)** PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation [[paper link](https://roboticsconference.org/program/papers/148/)][[arxiv link](https://arxiv.org/abs/2505.21652)][[project link](https://partinstruct.github.io/)][[code|official](https://github.com/SCAI-JHU/PartInstruct)][`Johns Hopkins University + ShanghaiTech University`]
 
 * 👍**PPI(RSS2025)(arxiv2025.04)** Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation [[paper link](https://roboticsconference.org/program/papers/160/)][[arxiv link](https://arxiv.org/abs/2504.17784)][[project link](https://yuyinyang3y.github.io/PPI/)][[code|official](https://github.com/OpenRobotLab/PPI)][`Shanghai AI Lab + Fudan University + Zhejiang University + Peking University`; `Jiangmiao Pang`]
+
+* **Mid-Level-MoE(RSS2025)(arxiv2025.06)** Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization [[paper link](https://roboticsconference.org/program/papers/155/)][[arxiv link](https://arxiv.org/abs/2506.06196)][[project link](https://mid-level-moe.github.io/)][`Stanford University + Google DeepMind`]
+
 
 
 * **SAM2Act(ICML2025)(arxiv2025.01)** SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2501.18564)][[project link](https://sam2act.github.io/)][[code|official](https://github.com/sam2act/sam2act)][`University of Washington + Universidad Católica San Pablo + NVIDIA + Allen Institute for Artifical Intelligence`]
@@ -1235,8 +1238,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * 👍**Reflect-VLM(arxiv2025.02)** Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2502.16707)][[project link](https://reflect-vlm.github.io/)][[code|official](https://github.com/yunhaif/reflect-vlm)][`Cornell University + CUHK + Yale University + UC Berkeley`; `Sergey Levine`]
 
 * **Human2Robot(arxiv2025.02)** Human2Robot: Learning Robot Actions from Paired Human-Robot Videos [[arxiv link](https://arxiv.org/abs/2502.16587)][`Fudan University`]
-
-* **PhysicsGen(arxiv2025.02)** Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization [[arxiv link](https://arxiv.org/abs/2502.20382)][[project link](https://lujieyang.github.io/physicsgen/)][`MIT + Robotics and AI Institute`]
 
 * **REDS(arxiv2025.02)** Subtask-Aware Visual Reward Learning from Segmented Demonstrations [[arxiv link](https://arxiv.org/abs/2502.20630)][[project link](https://changyeon.site/reds/)][[code|official](https://csmile-1006.github.io/REDS/)][`KAIST + University of Michigan + LG AI Research`]
 
