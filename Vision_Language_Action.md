@@ -361,7 +361,7 @@
 
 * **GazeTD(arxiv2025.01)** Gaze-based Task Decomposition for Robot Manipulation in Imitation Learning [[arxiv link](https://arxiv.org/abs/2501.15071)][`The University of Tokyo`]
 
-* 👍**SKIL(arxiv2025.01)** SKIL: Semantic Keypoint Imitation Learning for Generalizable Data-efficient Manipulation [[arxiv link](https://arxiv.org/abs/2501.14400)][[project link](https://skil-robotics.github.io/SKIL-robotics/)][`Tsinghua University + Shanghai AI Laboratory + Shanghai Qi Zhi Institute` + `Yang Gao`]
+* 👍**SKIL(RSS2025)(arxiv2025.01)** SKIL: Semantic Keypoint Imitation Learning for Generalizable Data-efficient Manipulation [[paper link](https://roboticsconference.org/program/papers/161/)][[arxiv link](https://arxiv.org/abs/2501.14400)][[project link](https://skil-robotics.github.io/SKIL-robotics/)][`Tsinghua University + Shanghai AI Laboratory + Shanghai Qi Zhi Institute` + `Yang Gao`]
 
 * **Point-Policy(arxiv2025.02)** Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2502.20391)][[project link](https://point-policy.github.io/)][[code|official](https://github.com/siddhanthaldar/Point-Policy)][`New York University`]
 
