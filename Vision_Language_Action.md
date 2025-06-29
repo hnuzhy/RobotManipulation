@@ -55,7 +55,7 @@
 * **Gymnasium-Robotics** [Gymnasium-Robotics is a collection of robotics simulation environments for Reinforcement Learning](https://robotics.farama.org/) [[github](https://github.com/Farama-Foundation/Gymnasium-Robotics)]
 * 👍**ManiSkill** [SAPIEN Manipulation Skill Framework, a GPU parallelized robotics simulator and benchmark](https://github.com/haosulab/ManiSkill) [[ManiSkill readthedocs](https://maniskill.readthedocs.io/en/latest/index.html)]
 * 👍**PyRep** [PyRep is a toolkit for robot learning research, built on top of CoppeliaSim (previously called V-REP).](https://github.com/stepjam/PyRep)
-* **CoppeliaSim** [It supports testing and validating complex robotics systems via algorithms prototyping, kinematic design and digital twin creation.](https://www.coppeliarobotics.com/)
+* **CoppeliaSim** [It supports testing complex robotics systems via algorithms prototyping, kinematic design and digital twin creation.](https://www.coppeliarobotics.com/)
 * **Deoxys** [A modular, real-time controller library for Franka Emika Panda robots, aiming to facilitate a wide range of robot learning research.](https://github.com/UT-Austin-RPL/deoxys_control)
 * **ManiSkill Research** [ManiSkill helps propel groundbreaking research in generalizable robotic manipulation.](https://www.maniskill.ai/research)
 * **Hillbot** [Scaling Robot Foundation Models via Simulation](https://www.hillbot.ai/home)
