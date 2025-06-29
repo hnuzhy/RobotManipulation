@@ -9,7 +9,7 @@
   * **[※ 3) Simulator Toolkits](#-3-Simulator-Toolkits)**
 * **[▶ Datasets and Benchmarks](#Datasets-and-Benchmarks)**
 * **[▶ Papers](#Papers)**
-  * **[※ 1) Related Survey](#-1-Related-Survey)**
+  * **[※ 1) Related Survey and CNS Journals](#-1-Related-Survey-and-CNS-Journals)**
   * **[※ 2) Robot Pose Estimation / Hand-eye Calibration](#-2-Robot-Pose-Estimation--Hand-eye-Calibration)**
   * **[※ 3) Tactile/Haptic/Force Signals Sensing/Simulation](#-3-TactileHapticForce-Signals-SensingSimulation)**
   * **[※ 4) Assembly/Rearrangement Related Generation/Manipulation](#-4-AssemblyRearrangement-Related-GenerationManipulation)**
@@ -147,7 +147,7 @@
 
 ## ▶Papers
 
-### ※ 1) Related Survey
+### ※ 1) Related Survey and CNS Journals
 
 * 👍**Survey(arxiv2023.12)** Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis [[arxiv link](https://arxiv.org/abs/2312.08782)][[code|official](https://github.com/JeffreyYH/robotics-fm-survey)][`Survey Paper of foundation models for robotics`]
 
@@ -162,6 +162,17 @@
 * 👍**Survey(arxiv2024.04)** What Foundation Models can Bring for Robot Learning in Manipulation: A Survey [[arxiv link](https://arxiv.org/abs/2404.18201)][`Samsung + Beijing University of Posts and Telecommunications + Tsinghua University + Universit  ̈at Hamburg, Germany`]
 
 * 👍**Survey(DiffusionPolicy-Robotics)(arxiv2025.04)** A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions [[arxiv link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174378343.39356214)][[code|official](https://github.com/HITSZ-Robotics/DiffusionPolicy-Robotics)]
+
+
+* ❤👍**ViTaM(Nature-Communications-2024)** Capturing forceful interaction with deformable objects using a deep learning-powered stretchable tactile array [[paper link](https://www.nature.com/articles/s41467-024-53654-y)][[code|official](https://github.com/jeffsonyu/ViTaM)][[weixin blog](https://mp.weixin.qq.com/s/bWFFd3ZUNnGTU0Ule57CmQ)][`Cewu Lu`][`Visual-Tactile recording and tracking system for Manipulation`]
+
+* 👍❤**CoordinatedBadminton(Science-Robotics-2025)(arxiv2025.05)** Learning coordinated badminton skills for legged manipulators [[paper link](https://www.science.org/doi/10.1126/scirobotics.adu3922)][[arxiv link](https://arxiv.org/abs/2505.22974)][`ETH Zurich`]
+
+* ❤👍**LEGION(Nature-Machine-Intelligence-2025)** Preserving and combining knowledge in robotic lifelong reinforcement learning [[paper link](https://www.nature.com/articles/s42256-025-00983-2)][[project link](https://ghiara.github.io/LEGION/)][[code|official](https://github.com/Ghiara/LEGION)][`Technical University of Munich + Nanjing University + Sun Yat-sen University + Tsinghua University`]
+
+* ❤👍**NeuralJacobianFields(Nature-2025)(arxiv2024.07)** Controlling diverse robots by inferring Jacobian fields with deep networks [[paper link](https://www.nature.com/articles/s41586-025-09170-0)][[arxiv link](https://arxiv.org/abs/2407.08722v1)][[project link](https://sizhe-li.github.io/publication/neural_jacobian_field/)][[code|official](https://github.com/sizhe-li/neural-jacobian-field)][`CSAIL, MIT`][The initial arxiv title of this work is `Unifying 3D Representation and Control of Diverse Robots with a Single Camera`]
+
+
 
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
@@ -200,8 +211,6 @@
 * **See-to-Touch(ICRA2024)(arxiv2023.09)** See to Touch: Learning Tactile Dexterity through Visual Incentives [[paper link](See to Touch: Learning Tactile Dexterity through Visual Incentives)][[arxiv link](https://arxiv.org/abs/2309.12300)][[project link](https://see-to-touch.github.io/)][[code|official](https://github.com/irmakguzey/see-to-touch)][`New York University + Meta`]
 
 * **RobotSynesthesia(ICRA2024)(arxiv2023.12)** Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing [[paper link](https://ieeexplore.ieee.org/abstract/document/10610532)][[arxiv link](https://arxiv.org/abs/2312.01853)][[project link](https://github.com/YingYuan0414/in-hand-rotation)][[code|official](https://github.com/YingYuan0414/in-hand-rotation)][`UC San Diego + Tsinghua University + University of Illinois Urbana-Champaign + UC Berkeley + Dongguk University`; `Xiaolong Wang`]
-
-* 👍👍**ViTaM(Nature-Communications-2024)** Capturing forceful interaction with deformable objects using a deep learning-powered stretchable tactile array [[paper link](https://www.nature.com/articles/s41467-024-53654-y)][[code|official](https://github.com/jeffsonyu/ViTaM)][[weixin blog](https://mp.weixin.qq.com/s/bWFFd3ZUNnGTU0Ule57CmQ)][`Cewu Lu`][`Visual-Tactile recording and tracking system for Manipulation`]
 
 * **TactGen(TRO2024)** TactGen: Tactile Sensory Data Generation via Zero-Shot Sim-to-Real Transfer [[paper link](https://ieeexplore.ieee.org/abstract/document/10815063)][`Oxford University`]
 
@@ -810,8 +819,6 @@
 
 * **EgoZero(arxiv2025.05)** EgoZero: Robot Learning from Smart Glasses [[arxiv link](https://arxiv.org/abs/2505.20290)][[project link](https://egozero-robot.github.io/)][[code|official](https://github.com/vliu15/egozero)][`New York University + UC Berkeley`; `Pieter Abbeel`]
 
-* 👍❤**CoordinatedBadminton(Science-Robotics-2025)(arxiv2025.05)** Learning coordinated badminton skills for legged manipulators [[paper link](https://www.science.org/doi/10.1126/scirobotics.adu3922)][[arxiv link](https://arxiv.org/abs/2505.22974)][`ETH Zurich`]
-
 * 👍❤**MSLMaps(IJRR2025)(arxiv2025.06)** Multimodal Spatial Language Maps for Robot Navigation and Manipulation [[arxiv link](https://arxiv.org/abs/2506.06862)][[project link](https://mslmaps.github.io/)][[code|official](https://github.com/vlmaps/VLMaps)][`University of Technology Nuremberg + UC Berkeley + Google Research`]
 
 * **SLAC(arxiv2025.06)** SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL [[arxiv link](https://arxiv.org/abs/2506.04147)][[project link](https://robo-rl.github.io/)][`The University of Texas at Austin + Sony AI + Amazon`]
@@ -1169,10 +1176,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
  **[Year 2025]**
 
 * **LEGATO(RAL2025)(arxiv2024.11)** LEGATO: Cross-Embodiment Imitation Using a Grasping Tool [[paper link](https://ieeexplore.ieee.org/abstract/document/10855557)][[arxiv link](http://arxiv.org/abs/2411.03682)][[project link](https://ut-hcrl.github.io/LEGATO/)][[code|official](https://github.com/UT-HCRL/LEGATO)][`1The University of Texas at Austin + The AI Institute`; `Yuke Zhu`]
-
-* ❤**LEGION(Nature-Machine-Intelligence-2025)** Preserving and combining knowledge in robotic lifelong reinforcement learning [[paper link](https://www.nature.com/articles/s42256-025-00983-2)][[project link](https://ghiara.github.io/LEGION/)][[code|official](https://github.com/Ghiara/LEGION)][`Technical University of Munich + Nanjing University + Sun Yat-sen University + Tsinghua University`]
-
-* ❤**NeuralJacobianFields(Nature-2025)(arxiv2024.07)** Controlling diverse robots by inferring Jacobian fields with deep networks [[paper link](https://www.nature.com/articles/s41586-025-09170-0)][[arxiv link](https://arxiv.org/abs/2407.08722v1)][[project link](https://sizhe-li.github.io/publication/neural_jacobian_field/)][[code|official](https://github.com/sizhe-li/neural-jacobian-field)][`CSAIL, MIT`][The initial arxiv title of this work is `Unifying 3D Representation and Control of Diverse Robots with a Single Camera`]
 
 
 
