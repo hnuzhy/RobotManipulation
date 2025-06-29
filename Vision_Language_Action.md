@@ -166,15 +166,20 @@
 
 * ❤👍👍**ViTaM(Nature-Communications-2024)** Capturing forceful interaction with deformable objects using a deep learning-powered stretchable tactile array [[paper link](https://www.nature.com/articles/s41467-024-53654-y)][[code|official](https://github.com/jeffsonyu/ViTaM)][[weixin blog](https://mp.weixin.qq.com/s/bWFFd3ZUNnGTU0Ule57CmQ)][`Cewu Lu`][`Visual-Tactile recording and tracking system for Manipulation`]
 
-* ❤👍👍**CoordinatedBadminton(Science-Robotics-2025)(arxiv2025.05)** Learning coordinated badminton skills for legged manipulators [[paper link](https://www.science.org/doi/10.1126/scirobotics.adu3922)][[arxiv link](https://arxiv.org/abs/2505.22974)][`ETH Zurich`]
+* ❤👍**CoordinatedBadminton(Science-Robotics-2025)(arxiv2025.05)** Learning coordinated badminton skills for legged manipulators [[paper link](https://www.science.org/doi/10.1126/scirobotics.adu3922)][[arxiv link](https://arxiv.org/abs/2505.22974)][`ETH Zurich`]
 
 * ❤👍👍**LEGION(Nature-Machine-Intelligence-2025)** Preserving and combining knowledge in robotic lifelong reinforcement learning [[paper link](https://www.nature.com/articles/s42256-025-00983-2)][[project link](https://ghiara.github.io/LEGION/)][[code|official](https://github.com/Ghiara/LEGION)][`Technical University of Munich + Nanjing University + Sun Yat-sen University + Tsinghua University`]
 
 * ❤👍👍**NeuralJacobianFields(Nature-2025)(arxiv2024.07)** Controlling diverse robots by inferring Jacobian fields with deep networks [[paper link](https://www.nature.com/articles/s41586-025-09170-0)][[arxiv link](https://arxiv.org/abs/2407.08722v1)][[project link](https://sizhe-li.github.io/publication/neural_jacobian_field/)][[code|official](https://github.com/sizhe-li/neural-jacobian-field)][`CSAIL, MIT`][The initial arxiv title of this work is `Unifying 3D Representation and Control of Diverse Robots with a Single Camera`]
 
+* ❤👍**PHOENIX(Nature-Communications-2025)** A physics-informed and data-driven framework for robotic welding in manufacturing [[paper link](https://www.nature.com/articles/s41467-025-60164-y)][[code|official](https://github.com/iVPPA/PHOENIX)][`Beijing University of Technology + Osaka University + Qilu University of Technology (Shandong Academy of Sciences)`][`Physics-informed Hybrid Optimization framework for Efficient Neural Intelligence (PHOENIX)`]
+
+* ❤👍**F-TAC-Hand(Nature-Machine-Intelligence-2025)(arxiv2024.12)** Embedding high-resolution touch across robotic hands enables adaptive human-like grasping [[paper link](https://www.nature.com/articles/s42256-025-01053-3)][[arxiv link](https://arxiv.org/abs/2412.14482)][`Peking University + Beijing Institute for General Artificial Intelligence + PKU-Wuhan Institute for Artificial Intelligenc + Queen Mary University of London`; `Song-Chun Zhu`]
+
 
 
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
 
 
 ***
