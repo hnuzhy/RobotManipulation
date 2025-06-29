@@ -20,7 +20,7 @@
   * **[※ 9) Correction/Recovery/Understand of Manipulation Failures/Ambiguity/Spatial](#-9-CorrectionRecoveryUnderstand-of-Manipulation-FailuresAmbiguitySpatial)**
   * **[※ 10) Non-Prehensile/Extrinsic-based/Ungraspable Robot Manipulation](#-10-Non-PrehensileExtrinsic-basedUngraspable-Robot-Manipulation)**
   * **[※ 11) Articulated Objects Related Robot Manipulation](#-11-Articulated-Objects-Related-Robot-Manipulation)**
-  * **[※ 12) Manipulation with Mobility/Locomotion/Navigation/Aircraft/Whole-Body](#-12-Manipulation-with-MobilityLocomotionNavigationAircraftWhole-Body)**
+  * **[※ 12) Manipulation with Mobility/Locomotion/Aircraft/ActiveCam/Whole-Body](#-12-Manipulation-with-MobilityLocomotionAircraftActiveCamWhole-Body)**
   * **[※ 13) Prediction/Optimization/Control of Embodied Agent(s)](#-13-PredictionOptimizationControl-of-Embodied-Agents)**
   * **[※ 14) Simulation/Synthesis/Generation/World-Model for Embodied AI](#-14-SimulationSynthesisGenerationWorld-Model-for-Embodied-AI)**
   * **[※ 15) Other Robot Manipulation Conferences](#-15-Other-Robot-Manipulation-Conferences)**
@@ -392,8 +392,6 @@
 
 * **ACE/ACETeleop(CoRL2024)(arxiv2024.08)** ACE: A Cross-platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation [[openreview link](https://openreview.net/forum?id=7ddT4eklmQ)][[arxiv link](https://arxiv.org/abs/2408.11805)][[project link](https://ace-teleop.github.io/)][[code|official](https://github.com/ACETeleop/ACETeleop)][`UC San Diego`; `Xiaolong Wang`][Cross-Platform Teleoperation + Autonomous Skills]
 
-* **AV-ALOHA(arxiv2024.09)** Active Vision Might Be All You Need: Exploring Active Vision in Bimanual Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2409.17435)][[project link](https://soltanilara.github.io/av-aloha/)][[code|official](https://github.com/soltanilara/av-aloha)][`University of California, Berkeley + University of California, Davis`]
-
 * **Haptic-ACT(arxiv2024.09)** Haptic-ACT: Bridging Human Intuition with Compliant Robotic Manipulation via Immersive VR [[arxiv link](https://arxiv.org/abs/2409.11925)][[project link](https://sites.google.com/view/hapticact)][`Robot Intelligence Lab, Imperial College London + Extend Robotics`]
 
 * **ARCap(arxiv2024.10)** ARCap: Collecting High-quality Human Demonstrations for Robot Learning with Augmented Reality Feedback [[arxiv link](https://arxiv.org/abs/2410.08464)][[project link](https://stanford-tml.github.io/ARCap/)][[code|official](https://github.com/Ericcsr/ARCap)][`Stanford University`; `Li Fei-Fei`][This is a portable data collection system that provides visual feedback through `augmented reality (AR)` and `haptic warnings` to guide users in collecting high-quality demonstrations.]
@@ -604,18 +602,36 @@
 
 * 👍**FOREWARN(RSS2025)(arxiv2025.02)** From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment [[paper link](https://roboticsconference.org/program/papers/76/)][[arxiv link](https://arxiv.org/abs/2502.01828)][[project link](https://yilin-wu98.github.io/forewarn/)][`Carnegie Mellon University + UC Berkeley`]
 
+* 👍**FAIL-Detect(RSS2025)(arxiv2025.03)** Can We Detect Failures Without Failure Data? Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies [[paper link](https://roboticsconference.org/program/papers/73/)][[arxiv link](https://arxiv.org/abs/2503.08558)][[project link](https://cxu-tri.github.io/FAIL-Detect-Website/)][[code|official](https://github.com/CXU-TRI/FAIL-Detect)][`Toyota Research Institute (TRI) + Woven by Toyota (WbyT)`]
+
 * **AmbResVLM(arxiv2025.04)** Robotic Task Ambiguity Resolution via Natural Language Interaction [[arxiv link](https://arxiv.org/abs/2504.17748)][[project link](https://ambres.cs.uni-freiburg.de/)][[code|official](https://github.com/robot-learning-freiburg/)][`University of Freiburg + Toyota Motor Europe`]
 
 * **RoboFAC(arxiv2025.05)** RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction [[arxiv link](https://arxiv.org/abs/2505.12224)][[project link](https://mint-sjtu.github.io/RoboFAC.io/)][[code|official](https://github.com/MINT-SJTU/RoboFAC)][`Shanghai Jiao Tong University + Xiamen University + Harbin Institute of Technology, Shenzhen`]
+
+* **UNISafe(arxiv2025.05)** Uncertainty-aware Latent Safety Filters for Avoiding Out-of-Distribution Failures [[arxiv link](https://arxiv.org/abs/2505.00779)][[project link](https://cmu-intentlab.github.io/UNISafe/)][[code|official](https://github.com/CMU-IntentLab/UNISafe)][`Carnegie Mellon University`]
 
 * **SAFE(arxiv2025.06)** SAFE: Multitask Failure Detection for Vision-Language-Action Models [[arxiv link](https://arxiv.org/abs/2506.09937)][[project link](https://vla-safe.github.io/)][[code|official]()][`University of Toronto (UofT) + UofT Robotics Institute + Vector Institute + Toyota Research Institute (TRI)`][It introduces the `multitask failure detection problem` for VLA models, and propose `SAFE`, a `failure detector` that can `detect failures for unseen tasks zero-shot` and achieve state-of-the-art performance.]
 
 * **RoboRefer(arxiv2025.06)** RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics [[arxiv link](https://arxiv.org/abs/2506.04308)][[project link](https://zhoues.github.io/RoboRefer/)][[code|official](https://github.com/Zhoues/RoboRefer)][`Beihang University + Peking University + Beijing Academy of Artificial Intelligence`]
 
 
+
+
 ***
 
 ### ※ 10) Non-Prehensile/Extrinsic-based/Ungraspable Robot Manipulation
+
+* **Dyna-Nonprehensile(IJRR1999)** Dynamic Nonprehensile Manipulation: Controllability, Planning, and Experiments [[paper link](https://journals.sagepub.com/doi/abs/10.1177/027836499901800105)]
+
+* **Progress-Nonprehensile(IJRR1999)** Progress in Nonprehensile Manipulation [[paper link](https://journals.sagepub.com/doi/abs/10.1177/02783649922067762)]
+
+* **Pushing-Skill(IJRR2019)** Pushing revisited: Differential flatness, trajectory planning, and stabilization [[paper link](https://journals.sagepub.com/doi/full/10.1177/0278364919872532)]
+
+* **Pregrasp-Manipulation(ICRA2020)(arxiv2020.02)** Learning Pregrasp Manipulation of Objects from Ungraspable Poses [[paper link](https://ieeexplore.ieee.org/abstract/document/9196982)][[arxiv link](https://arxiv.org/abs/2002.06344)][`Tsinghua University +  University of Edinburg`]
+
+* 👍**Occluded-Grasping(CoRL2022 Oral)(arxiv2022.11)** Learning to Grasp the Ungraspable with Emergent Extrinsic Dexterity [[openreview link](https://openreview.net/forum?id=xK-UtqDpD7L)][[paper link](https://proceedings.mlr.press/v205/zhou23a.html)][[arxiv link](https://arxiv.org/abs/2211.01500)][[project link](https://sites.google.com/view/grasp-ungraspable/)][[code|official](https://github.com/Wenxuan-Zhou/ungraspable)][`Robotics Institute, Carnegie Mellon University`]
+
+* **Pivoting(ICRA2023)(arxiv2023.05)** Learning Generalizable Pivoting Skills [[paper link](https://ieeexplore.ieee.org/abstract/document/10161271)][[arxiv link](https://arxiv.org/abs/2305.02554)][`UC Berkeley + Mitsubishi Electric Research Laboratories (MERL) + Rutgers University`]
 
 * 👍**HACMan(CoRL2023 Oral)(arxiv2023.05)** HACMan: Learning Hybrid Actor-Critic Maps for 6D Non-Prehensile Manipulation [[paper link](https://proceedings.mlr.press/v229/zhou23a.html)][[openreview link](https://openreview.net/forum?id=fa7FzDjhzs9)][[arxiv link](https://arxiv.org/abs/2305.03942)][[project link](https://hacman-2023.github.io/)][[code|official](https://github.com/HACMan-2023/HACMan)][`CMU + Meta`]
 
@@ -625,11 +641,17 @@
 
 * **ExtrinsicManipulation(IROS2024)(arxiv2024.04)** One-Shot Transfer of Long-Horizon Extrinsic Manipulation Through Contact Retargeting [[paper link](https://ieeexplore.ieee.org/abstract/document/10801356)][[arxiv link](https://arxiv.org/abs/2404.07468)][[project link](https://stanford-tml.github.io/extrinsic-manipulation/)][[code|official](https://github.com/Stanford-TML/extrinsic_manipulation)][`Stanford University + NVIDIA`]
 
+* **Tactile-Non-Prehensile(RSS2024)(arxiv2024.05)** Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control [[paper link](https://www.roboticsproceedings.org/rss20/p135.pdf)][[arxiv link](https://arxiv.org/abs/2405.18214)][[project link](https://www.mmintlab.com/research/tactile-nonprehensile/)][`University of Michigan`]
+
+* **HACMan++(RSS2024)(arxiv2024.07)** HACMan++: Spatially-Grounded Motion Primitives for Manipulation [[paper link](https://www.roboticsproceedings.org/rss20/p129.pdf)][[arxiv link](https://arxiv.org/abs/2407.08585)][[project link](https://sgmp-rss2024.github.io/)][[code|official](https://github.com/JiangBowen0008/HACManPP)][`Carnegie Mellon University + Meta AI`]
+
 * **Bimanual-Nonprehensile-Mani(arxiv2024.09)** In the Wild Ungraspable Object Picking with Bimanual Nonprehensile Manipulation [[arxiv link](https://arxiv.org/abs/2409.15465)][`Stanford University + Toyota Research Institute (TRI)`]
 
 * **HyDo(RAL2025)(arxiv2024.11)** Enhancing Exploration with Diffusion Policies in Hybrid Off-Policy RL: Application to Non-Prehensile Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/10978025)][[arxiv link](https://arxiv.org/abs/2411.14913)][[project link](https://leh2rng.github.io/hydo/)][`Bosch Center for Artificial Intelligence(BCAI) + Karlsruhe Institute of Technology`][Hybrid Diffusion Policy algorithm (HyDo)]
 
 * **LearnVEC(CoRL2024)(arxiv2024.12)** Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions [[openreview link](https://openreview.net/forum?id=oSU7M7MK6B)][[arxiv link](https://arxiv.org/abs/2412.13157)][[video link](https://youtu.be/hW-C8i_HWgs)][`The University of Edinburgh + The Alan Turing Institute`]
+
+* **PBPF(TRO2025)** Tracking and Control of Multiple Objects During Nonprehensile Manipulation in Clutter [[paper link](https://ieeexplore.ieee.org/abstract/document/11027446)][[pdf link](https://eprints.whiterose.ac.uk/id/eprint/227494/1/xu2025tracking.pdf)][[code|official](https://github.com/ZisongXu/PBPF)][`University of Leeds + American University of Beirut - Mediterraneo`]
 
 * 👍**COMBO-Grasp(arxiv2025.02)** COMBO-Grasp: Learning Constraint-Based Manipulation for Bimanual Occluded Grasping [[arxiv link](https://arxiv.org/abs/2502.08054)][[project link](https://combo-grasp.github.io/)][`Applied AI Lab, University of Oxford`]
 
@@ -644,6 +666,8 @@
 * **ProbabilisticPrehensilePushing(RAL2025)(arxiv2025.03)** Pushing Everything Everywhere All At Once: Probabilistic Prehensile Pushing [[paper link](https://ieeexplore.ieee.org/abstract/document/10930575)][[arxiv link](https://arxiv.org/abs/2503.14268)][[project link](https://probabilistic-prehensile-pushing.github.io/)][[code|official](https://github.com/PatrizioPerugini/Probabilistic_prehensile_pushing)][`Division of Robotics, Perception and Learning (RPL), KTH`]
 
 * 👍**PIN-WM(RSS2025)(arxiv2025.04)** PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation [[paper link](https://roboticsconference.org/program/papers/153/)][[arxiv link](https://arxiv.org/abs/2504.16693)][[project link](https://pinwm.github.io/)][[code|official](https://github.com/XuAdventurer/PIN-WM)][`National University of Defense Technology + Wuhan University + Shenzhen University + Guangdong Laboratory of Artificial Intelligence and Digital Economy`]
+
+* **ActivePusher(arxiv2025.06)** ActivePusher: Active Learning and Planning with Residual Physics for Nonprehensile Manipulation [[arxiv link](https://arxiv.org/abs/2506.04646)][`Worcester Polytechnic Institute`]
 
 
 
@@ -683,7 +707,7 @@
 
 ***
 
-### ※ 12) Manipulation with Mobility/Locomotion/Navigation/Aircraft/Whole-Body
+### ※ 12) Manipulation with Mobility/Locomotion/Aircraft/ActiveCam/Whole-Body
 
 * 👍**MobileALOHA(CoRL2024)(arxiv2024.01)** Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[openreview link](https://openreview.net/forum?id=FO6tePGRZj)][[paper link](https://proceedings.mlr.press/v270/fu25b.html)][[arxiv link](https://arxiv.org/abs/2401.02117)][[project link](https://mobile-aloha.github.io/)][[code|official](https://github.com/MarkFzp/mobile-aloha)][`Stanford University`; `Chelsea Finn`]
 
@@ -696,6 +720,8 @@
 * **DIAL-MPC(ICRA2025, Best Paper Finalist)(arxiv2024.09)** Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing [[arxiv link](https://arxiv.org/abs/2409.15610)][[project link](https://lecar-lab.github.io/dial-mpc/)][[code|official](https://github.com/LeCAR-Lab/dial-mpc)][`Carnegie Mellon University`][`DIAL-MPC: Diffusion-Inspired Annealing For Legged MPC`]
 
 * **Catch_It(ICRA2025)(arxiv2024.09)** Catch It! Learning to Catch in Flight with Mobile Dexterous Hands [[arxiv link](https://arxiv.org/abs/2409.10319)][[project link](https://mobile-dex-catch.github.io/)][[code|official](https://github.com/hang0610/Catch_It)][`Shanghai Qi Zhi Institute + Tsinghua University + Shanghai AI Lab + Georgia Institute of Technology + Stanford University`]
+
+* **AV-ALOHA(arxiv2024.09)** Active Vision Might Be All You Need: Exploring Active Vision in Bimanual Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2409.17435)][[project link](https://soltanilara.github.io/av-aloha/)][[code|official](https://github.com/soltanilara/av-aloha)][`University of California, Berkeley + University of California, Davis`]
 
 * **BUMBLE(ICRA2025)(arxiv2024.10)** BUMBLE: Unifying Reasoning and Acting with Vision-Language Models for Building-wide Mobile Manipulation [[arxiv link](https://arxiv.org/abs/2410.06237)][[project link](https://robin-lab.cs.utexas.edu/BUMBLE/)][[code|official](https://github.com/UT-Austin-RobIn/BUMBLE)][`The University of Texas at Austin`; `Yuke Zhu`]
 
@@ -748,6 +774,8 @@
 * **ReLIC(arxiv2025.06)** Versatile Loco-Manipulation through Flexible Interlimb Coordination [[arxiv link](https://arxiv.org/abs/2506.07876)][[project link](https://relic-locoman.rai-inst.com/)][`RAI Institute + University of California, Berkeley + Cornell University`]
 
 * **SkillBlender(arxiv2025.06)** SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending [[arxiv link](https://arxiv.org/abs/2506.09366)][[project link](https://usc-gvl.github.io/SkillBlender-web/)][`University of Southern California + Stanford University + Peking University + University of California, Berkeley`; `Pieter Abbeel`][SkillBlender performs versatile autonomous humanoid loco-manipulation tasks within different embodiments and environments, given only one or two intuitive reward terms.]
+
+* 👍**ViA(arxiv2025.06)** Vision in Action: Learning Active Perception from Human Demonstrations [[arxiv link](https://arxiv.org/abs/2506.15666)][[project link](https://vision-in-action.github.io/)][[code|official](https://github.com/haoyu-x/vision-in-action)][`Stanford`; `Shuran Song`]
 
 
 
@@ -872,7 +900,9 @@
 
 * ❤**C2FARM(CVPR2022 Oral)(arxiv2021.06)** Coarse-To-Fine Q-Attention: Efficient Learning for Visual Robotic Manipulation via Discretisation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/James_Coarse-To-Fine_Q-Attention_Efficient_Learning_for_Visual_Robotic_Manipulation_via_Discretisation_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2106.12534)][[project link](https://sites.google.com/view/c2f-q-attention)][[code|official](https://github.com/stepjam/ARM)][`Dyson Robotics Lab, Imperial College London`][It maybe the `fisrt` work to conduct `next-best keyframe detection` by the first author [`Stephen James`](https://stepjam.github.io/), who also used this “predict the next (best) keyframe action” idea in his other works [`(RAL2022) Q-attention: Enabling Efficient Learning for Vision-based Robotic Manipulation`](https://arxiv.org/abs/2105.14829) and [`(TMLR2022) Auto-Lambda: Disentangling Dynamic Task Relationships`](https://openreview.net/forum?id=KKeCMim5VN). And the `key-frames` idea fisrtly proposed in work [`(ICRA2021) Coarse-to-Fine Imitation Learning: Robot Manipulation from a Single Demonstration`](https://ieeexplore.ieee.org/abstract/document/9560942) by [`Edward Johns`](https://www.robot-learning.uk/) who leading the `Robot Learning Lab` at `Imperial College London`.]
 
-* **DextAIRity(RSS2022, Best Systems Paper Award Finalist)(arxiv2022.03)** DextAIRity: Deformable Manipulation Can be a Breeze [[paper link](https://www.roboticsproceedings.org/rss18/p017.pdf)][[arxiv link](https://arxiv.org/abs/2203.01197)][[project link](https://dextairity.cs.columbia.edu/)][[code|official](https://github.com/real-stanford/dextairity)][`Columbia University + Toyota Research Institute`; `Shuran Song`]
+* 👍**CatBC(RSS2022)(arxiv2022.01)** You Only Demonstrate Once: Category-Level Manipulation from Single Visual Demonstration [[paper link](https://www.roboticsproceedings.org/rss18/p044.pdf)][[arxiv link](https://arxiv.org/abs/2201.12716)][[video link](https://www.youtube.com/watch?v=WAr8ZY3mYyw)][`Intrinsic Innovation LLC, CA, USA + Rutgers University`]
+
+* 👍**DextAIRity(RSS2022, Best Systems Paper Award Finalist)(arxiv2022.03)** DextAIRity: Deformable Manipulation Can be a Breeze [[paper link](https://www.roboticsproceedings.org/rss18/p017.pdf)][[arxiv link](https://arxiv.org/abs/2203.01197)][[project link](https://dextairity.cs.columbia.edu/)][[code|official](https://github.com/real-stanford/dextairity)][`Columbia University + Toyota Research Institute`; `Shuran Song`]
 
 * ❤**R3M(CoRL2022)(arxiv2022.03)** R3M: A Universal Visual Representation for Robot Manipulation [[openreview link](https://openreview.net/forum?id=tGbpgz6yOrI)][[paper link](https://proceedings.mlr.press/v205/nair23a.html)][[arxiv link](https://arxiv.org/abs/2203.12601)][[project link](https://sites.google.com/view/robot-r3m/)][[code|official](https://github.com/facebookresearch/r3m)][`Stanford University + Meta AI`; a pre-training method][We study if `visual representations pre-trained` on `diverse human videos` can enable efficient robotic manipulation. We `pre-train a single representation`, R3M, utilizing an objective that combines `time contrastive learning`, `video-language alignment`, and `a sparsity penalty`.]
 
@@ -1338,6 +1368,7 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **Chain-of-Action(arxiv2025.06)** Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation [[arxiv link](http://arxiv.org/abs/2506.09990)][`ByteDance Seed + The University of Adelaide + NUS + CAS + CSIRO`]
 
 * 👍**EyeRobot(arxiv2025.06)** Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop [[arxiv link](https://arxiv.org/abs/2506.10968)][[project link](https://www.eyerobot.net/)][[code|official](https://github.com/kerrj/eyerobot)][`UC Berkeley`]
+
 
 
 
