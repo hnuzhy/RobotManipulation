@@ -45,7 +45,7 @@
 ### ※ 2) Representative Blogs
 * **website (CCF)** [具身智能 | CCF专家谈术语 (Cewu Lu)](https://www.ccf.org.cn/Media_list/gzwyh/jsjsysdwyh/2023-07-22/794317.shtml)
 * **website (GraspNet)** [GraspNet通用物体抓取(GraspNet-1Billion + AnyGrasp + SuctionNet-1Billion + TransCG)](https://graspnet.net/index.html)
-* **website (AgiBot-World)** [智元机器人联合上海人工智能实验室、国家地方共建人形机器人创新中心以及上海库帕思，开源的百万真机数据集](https://opendatalab.com/OpenDataLab/AgiBot-World)
+* **website (AgiBot-World)** [智元机器人联合上海人工智能实验室/国家地方共建人形机器人创新中心/上海库帕思，开源百万真机数据集](https://opendatalab.com/OpenDataLab/AgiBot-World)
 
 
 ### ※ 3) Simulator Toolkits
