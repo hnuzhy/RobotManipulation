@@ -110,6 +110,8 @@
 
 * **EvalTasks(arxiv2024.10)** On the Evaluation of Generative Robotic Simulations [[arxiv link](https://arxiv.org/abs/2410.08172)][[project link](https://sites.google.com/view/evaltasks)][`The University of Hong Kong + Tsinghua University IIIS + Shanghai Qi Zhi Institute + Shanghai AI Lab`; `Yi Ma + Huazhe Xu`]
 
+* 👍**Synthetica(arxiv2024.10)** Synthetica: Large Scale Synthetic Data for Robot Perception [[arxiv link](https://arxiv.org/abs/2410.21153)][[project link](https://sites.google.com/view/synthetica-vision)][`NVIDIA + University of Toronto`]
+
 * **Mimicking-Bench(arxiv2024.12)** Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking [[arxiv link](https://arxiv.org/abs/2412.17730)][[project link](https://mimicking-bench.github.io/)][`Tsinghua University + Galbot + Shanghai Qi Zhi Institute + Shanghai Artificial Intelligence Laboratory + Peking University`; `He Wang`]
 
 * **EMMOE(arxiv2025.03)** EMMOE: A Comprehensive Benchmark for Embodied Mobile Manipulation in Open Environments [[arxiv link](https://arxiv.org/abs/2503.08604)][[project link](https://silence143.github.io/emmoe.github.io/)][[code|official](https://github.com/silence143/EMMOE)][`Zhejiang University + University of Illinois Urbana-Champaign + University of Washington`]
@@ -358,6 +360,10 @@
 * **RT-Affordance(arxiv2024.11)** RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2411.02704)][[project link](https://snasiriany.me/rt-affordance)][`Google DeepMind + The University of Austin at Texas`; `Yuke Zhu`]
 
 * **AffordDP(arxiv2024.12)** AffordDP: Generalizable Diffusion Policy with Transferable Affordance [[arxiv link](https://arxiv.org/abs/2412.03142)][[project link](https://afforddp.github.io/)][`ShanghaiTech University`]
+
+* **P3PO(arxiv2024.12)** P3-PO: Prescriptive Point Priors for Visuo-Spatial Generalization of Robot Policies [[arxiv link](https://arxiv.org/abs/2412.06784)][[project link](https://point-priors.github.io/)][[code|official](https://github.com/mlevy2525/P3PO)][`University of Maryland, College Park + New York University`]
+
+* 👍**DenseMatcher(ICLR2025, Spotlight)(arxiv2024.12)** DenseMatcher: Learning 3D Semantic Correspondence for Category-Level Manipulation from a Single Demo [[openreview link](https://openreview.net/forum?id=8oFvUBvF1u)][[arxiv link](https://arxiv.org/abs/2412.05268)][[project link](https://tea-lab.github.io/DenseMatcher/)][[code|official](https://github.com/JunzheJosephZhu/DenseMatcher)][`IIIS, Tsinghua University + Tepan Inc. + Shanghai Qi Zhi Institute + UC Berkeley + Stanford University + Shanghai AI Lab + Shanghai Jiao Tong University` + `Huazhe Xu`]
 
 * **GazeTD(arxiv2025.01)** Gaze-based Task Decomposition for Robot Manipulation in Imitation Learning [[arxiv link](https://arxiv.org/abs/2501.15071)][`The University of Tokyo`]
 
@@ -769,6 +775,8 @@
 
 * **TidyBot++(CoRL2024)(arxiv2024.12)** TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning [[openreview link](https://openreview.net/forum?id=L4p6zTlj6k)][[arxiv link](https://arxiv.org/abs/2412.10447)][[project link](https://tidybot2.github.io/)][[code|official](https://github.com/jimmyyhwu/tidybot2)][`Princeton University + Stanford University + Dexterity`; `Shuran Song`]
 
+* **RoboMatrix(arxiv2024.12)** RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[arxiv link](https://arxiv.org/abs/2412.00171)][[project link](https://robo-matrix.github.io/)][[code|official](https://github.com/WayneMao/RoboMatrix/)][[weixin blog](https://mp.weixin.qq.com/s/kW9K4Kwj8BGbe1Mu__PXrg)][`Waseda University + Beijing Institute of Technology + Megvii Technology + The Chinese University of Hong Kong`][`Mobile Manipulation`]
+
 * **HOMIE(arxiv2025.02)** HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit [[arxiv link](https://arxiv.org/abs/2502.13013)][[project link](https://homietele.github.io/)][[code|official](https://github.com/OpenRobotLab/OpenHomie)][`Shanghai Artificial Intelligence Laboratory + The Chinese University of Hong Kong`; `Dahua Lin + Jiangmiao Pang`]
 
 * **InterMimic(CVPR2025 highlight)(arxiv2025.02)** InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions [[arxiv link](https://arxiv.org/abs/2502.20390)][[project link](https://sirui-xu.github.io/InterMimic/)][[code|official](https://github.com/Sirui-Xu/InterMimic)][`University of Illinois Urbana Champaign + Electronic Arts`]
@@ -1101,9 +1109,17 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **ObjDex(CoRL2024)** Object-Centric Dexterous Manipulation from Human Motion Data [[openreview link](https://openreview.net/forum?id=KAzku0Uyh1)][[project link](https://sites.google.com/view/obj-dex)][`Stanford University + Peking University`]
 
+* 👍👍**BLADE(CoRL2024)(arxiv2025.05)** Learning Compositional Behaviors from Demonstration and Language [[openreview link](https://openreview.net/forum?id=fR1rCXjCQX&noteId=fR1rCXjCQX)][[arxiv link](https://arxiv.org/abs/2505.21981)][[project link](https://blade-bot.github.io/)][`Stanford University + MIT`; `Jiajun Wu`]
+
+* **BimanualImitation(CoRL2024 Workshop)(arxiv2024.08)** A Comparison of Imitation Learning Algorithms for Bimanual Manipulation [[openreview link](https://openreview.net/forum?id=ScHTOMuvqW)][[arxiv link](https://arxiv.org/abs/2408.06536)][[project link](https://bimanual-imitation.github.io/)][[code|official](https://github.com/ir-lab/bimanual-imitation)][`Interactive Robotics Lab, Arizona State University + The Robotics Institute, Carnegie Mellon University + Intrinsic AI (An Alphabet Company) + Intelligent Autonomous Systems Lab, TU Darmstadt`]
+
+* 👍**RUM(CoRL2024 Workshop)(arxiv2024.09)** Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments [[openreview link](https://openreview.net/forum?id=OrqVlR0UBI)][[arxiv link](https://arxiv.org/abs/2409.05865)][[project link](https://robotutilitymodels.com/)][[code|official](https://github.com/haritheja-e/robot-utility-models/)][`New York University + Hello Robot Inc + Meta Inc`]
+
+* **NeuralMP(CoRL2024 Workshop)(arxiv2024.09)** Neural MP: A Generalist Neural Motion Planner [[openreview link](https://openreview.net/forum?id=8wCnv4wzrr)][[arxiv link](https://arxiv.org/abs/2409.05864)][[project link](https://mihdalal.github.io/neuralmotionplanner/)][[code|official](https://github.com/mihdalal/neuralmotionplanner)][`CMU`]
+
 * 👍**SplatSim(CoRL Workshop)(arxiv2024.09)** SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting [[arxiv link](https://arxiv.org/abs/2409.10161)][[project link](https://splatsim.github.io/)][`CMU`][`Use Gaussian Splatting as a Renderer over Existing Simulators`]
 
-* 👍👍**BLADE(CoRL2024)(arxiv2025.05)** Learning Compositional Behaviors from Demonstration and Language [[openreview link](https://openreview.net/forum?id=fR1rCXjCQX&noteId=fR1rCXjCQX)][[arxiv link](https://arxiv.org/abs/2505.21981)][[project link](https://blade-bot.github.io/)][`Stanford University + MIT`; `Jiajun Wu`]
+* 👍**EgoMimic(CoRL2024 Workshop)(arxiv2024.10)** EgoMimic: Scaling Imitation Learning via Egocentric Video [[openreview link](https://openreview.net/forum?id=eOtDTS4iMQ)][[arxiv link](https://arxiv.org/abs/2410.24221)][[project link](https://egomimic.github.io/)][[code|official](https://github.com/SimarKareer/EgoMimic)][`Georgia Tech + Stanford University`][`bimanual manipulation`, `learning from human videos`]
 
 * **HPT(NIPS2024, Spotlight)(arxiv2024.09)** Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers [[openreview link](https://openreview.net/forum?id=Pf7kdIjHRf)][[paper link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e0f393e7980a24fd12fa6f15adfa25fb-Abstract-Conference.html)][[arxiv link](https://arxiv.org/abs/2409.20537)][[project link](https://liruiw.github.io/hpt/)][[code|official](https://github.com/liruiw/HPT)][`MIT CSAIL + FAIR`; `Kaiming He`]
 
@@ -1138,61 +1154,27 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **Points2Plans(arxiv2024.08)** Points2Plans: From Point Clouds to Long-Horizon Plans with Composable Relational Dynamics [[arxiv link](https://arxiv.org/abs/2408.14769)][[project link](https://sites.google.com/stanford.edu/points2plans)][[code|official](https://github.com/yixuanhuang98/Points2Plans)][`Stanford University + University of Utah + Princeton University + NVIDIA Research`][using `Issac Gym`]
 
-* **BimanualImitation(arxiv2024.08)** A Comparison of Imitation Learning Algorithms for Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2408.06536)][[project link](https://bimanual-imitation.github.io/)][[code|official](https://github.com/ir-lab/bimanual-imitation)][`Interactive Robotics Lab, Arizona State University + The Robotics Institute, Carnegie Mellon University + Intrinsic AI (An Alphabet Company) + Intelligent Autonomous Systems Lab, TU Darmstadt`]
-
 
 
 * **DemoStart(arxiv2024.09)** DemoStart: Demonstration-led auto-curriculum applied to sim-to-real with multi-fingered robots [[arxiv link](https://arxiv.org/abs/2409.06613)][[project link](https://sites.google.com/view/demostart)][[official blog (Robotics team)](https://deepmind.google/discover/blog/advances-in-robot-dexterity/)][`Google DeepMind`][`sim-to-real`, `multi-fingers`]
 
-* 👍**RUM(arxiv2024.09)** Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments [[arxiv link](https://arxiv.org/abs/2409.05865)][[project link](https://robotutilitymodels.com/)][[code|official](https://github.com/haritheja-e/robot-utility-models/)][`New York University + Hello Robot Inc + Meta Inc`]
+* **Object-Part-Scene-Flow(arxiv2024.09)** Embodiment-Agnostic Action Planning via Object-Part Scene Flow [[arxiv link](https://arxiv.org/abs/2409.10032)][`CUHK + UCB`]
 
-* **NeuralMP(arxiv2024.09)** Neural MP: A Generalist Neural Motion Planner [[arxiv link](https://arxiv.org/abs/2409.05864)][[project link](https://mihdalal.github.io/neuralmotionplanner/)][[code|official](https://github.com/mihdalal/neuralmotionplanner)][`CMU`]
-
-* **PRESTO(arxiv2024.09)** PRESTO: Fast motion planning using diffusion models based on key-configuration environment representation [[arxiv link](https://arxiv.org/abs/2409.16012)][[project link](https://kiwi-sherbet.github.io/PRESTO/)][`UT Austin + KAIST`; `Yuke Zhu`]
-
-* **VLM-Floorplan(arxiv2024.09)** Vision Language Models Can Parse Floor Plan Maps [[arxiv link](https://arxiv.org/abs/2409.12842)][[project link](https://sites.google.com/view/vlm-floorplan/home)][[code|official](https://github.com/bu-air-lab/floor_plan_VLM)][`Binghamton University`]
-
-* **MatchPolicy(arxiv2024.09)** Match Policy: A Simple Pipeline from Point Cloud Registration to Manipulation Policies [[arxiv link](https://arxiv.org/abs/2409.15517)][[project link](https://haojhuang.github.io/match_page/)][`Northeastern Univeristy + Worcester Polytechnic Institute`]
-
-* **Object-Part-Scene-Flow(arxiv2024.09)** Embodiment-Agnostic Action Planning via Object-Part Scene Flow [[arxiv link](https://arxiv.org/abs/2409.10032)][`CUHK+ UCB`]
-
-* **HuDOR(arxiv2024.10)** HuDOR: Bridging the Human to Robot Dexterity Gap through Object-Oriented Rewards [[arxiv link](https://arxiv.org/abs/2410.23289)][[project link](https://object-rewards.github.io/)][`New York University`]
-
-* **BiDexHD(arxiv2024.10)** Learning Diverse Bimanual Dexterous Manipulation Skills from Human Demonstrations [[arxiv link](https://arxiv.org/abs/2410.02477)][[project link](https://sites.google.com/view/bidexhd)][`Peking University`][It is based on the `TACO Dataset` and `Isaac Gym`]
-
-* **robots-pretrain-robots(arxiv2024.10)** Robots Pre-Train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets [[arxiv link](https://arxiv.org/abs/2410.22325)][[project link](https://robots-pretrain-robots.github.io/)][[code|official](https://github.com/luccachiang/robots-pretrain-robots)][`UC San Diego + Tongji University + Shanghai Jiao Tong University + University of Maryland + Tsinghua University`; `Huazhe Xu`]
+* **BiDexHD(arxiv2024.10)** Learning Diverse Bimanual Dexterous Manipulation Skills from Human Demonstrations [[arxiv link](https://arxiv.org/abs/2410.02477)][[project link](https://sites.google.com/view/bidexhd)][`Peking University`][It is based on the `TACO Dataset` and `Isaac Gym`][`This work has been rejected by [ICLR2025](https://openreview.net/forum?id=8yEoTBceap)`.]
 
 * **CAGE(arxiv2024.10)** CAGE: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2410.14974)][[project link](http://cage-policy.github.io/)][[code|official](https://github.com/cage-policy/CAGE)][`Shanghai Jiao Tong University + Shanghai Artificial Intelligence Laboratory`; `Cewu Lu + Hao-Shu Fang`]
 
-* **HIL-SERL(arxiv2024.10)** Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[arxiv link](https://arxiv.org/abs/2410.21845)][[project link](https://hil-serl.github.io/)][[code|official](https://github.com/rail-berkeley/hil-serl)][`University of California, Berkeley`; `Sergey Levine`]
-
-* **VIRT(arxiv2024.10)** VIRT: Vision Instructed Robotic Transformer for Manipulation Learning [[arxiv link](https://arxiv.org/abs/2410.07169)][[project link](https://lizhuoling.github.io/VIRT_webpage/)][[code|official](https://github.com/Lizhuoling/VIRT)][`HKU + CVTE + HUST`]
-
-* 👍**EgoMimic(arxiv2024.10)** EgoMimic: Scaling Imitation Learning via Egocentric Video [[arxiv link](https://arxiv.org/abs/2410.24221)][[project link](https://egomimic.github.io/)][[code|official](https://github.com/SimarKareer/EgoMimic)][`Georgia Tech + Stanford University`]
+* **HIL-SERL(arxiv2024.10)** Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[arxiv link](https://arxiv.org/abs/2410.21845)][[project link](https://hil-serl.github.io/)][[code|official](https://github.com/rail-berkeley/hil-serl)][`University of California, Berkeley`; `Jianlan Luo + Sergey Levine`]
 
 * **SeeDo(arxiv2024.10)** VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model [[arxiv link](https://arxiv.org/abs/2410.08792)][[project link](https://ai4ce.github.io/SeeDo/)][[code|official](https://github.com/ai4ce/SeeDo)][`New York University`]
 
-* **Synthetica(arxiv2024.10)** Synthetica: Large Scale Synthetic Data for Robot Perception [[arxiv link](https://arxiv.org/abs/2410.21153)][[project link](https://sites.google.com/view/synthetica-vision)][`NVIDIA + University of Toronto`]
+* **DexH2R(arxiv2024.11)** DexH2R: Task-oriented Dexterous Manipulation from Human to Robots [[arxiv link](https://arxiv.org/abs/2411.04428)][`University of California, Berkeley`]
 
-* **DexH2R(arxiv2024.11)** DexH2R: Task-oriented Dexterous Manipulation from Human to Robots [[arxiv link](https://arxiv.org/abs/2411.04428)][` University of California, Berkeley`]
-
-* **DexDiffuser(arxiv2024.11)** DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2411.18562)][[project link](https://dexdiffuser.github.io/)][`The University of Hong Kong + UC Berkeley`; `Ping Luo`]
-
-* **G3Flow(arxiv2024.11)** G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation [[paper link]()][[arxiv link](https://arxiv.org/abs/2411.18369)][[project link](https://tianxingchen.github.io/G3Flow/)][[code|official](https://github.com/TianxingChen/G3Flow)][`The University of Hong Kong + Institute of Artificial Intelligence (TeleAI), China Telecom + Shenzhen University + AgileX Robotics + Guangdong Institute of Intelligence Science and Technology` + `Ping Luo`]
-
-* **RAPL(arxiv2024.12)** Maximizing Alignment with Minimal Feedback: Efficiently Learning Rewards for Visuomotor Robot Policy Alignment [[arxiv link](https://arxiv.org/abs/2412.04835)][`UC Berkeley + Carnegie Mellon University`][`Representation-Aligned Preference-based Learning (RAPL)`]
-
-* **P3PO(arxiv2024.12)** P3-PO: Prescriptive Point Priors for Visuo-Spatial Generalization of Robot Policies [[arxiv link](https://arxiv.org/abs/2412.06784)][[project link](https://point-priors.github.io/)][[code|official](https://github.com/mlevy2525/P3PO)][`University of Maryland, College Park + New York University`]
-
-* **AnyBimanual(arxiv2024.12)** AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2412.06779)][[project link](https://anybimanual.github.io/)][[code|official](https://github.com/TengBoYuu/AnyBimanual)][`Tsinghua University + Nanyang Technological University`][AnyBimanual is mainly built upon the `PerAct2` ]
+* **RAPL(arxiv2024.12)** Maximizing Alignment with Minimal Feedback: Efficiently Learning Rewards for Visuomotor Robot Policy Alignment [[arxiv link](https://arxiv.org/abs/2412.04835)][`UC Berkeley + Carnegie Mellon University`][`Representation-Aligned Preference-based Learning (RAPL)`; `This work is submitted to IJRR`; `It paper is an extended journal version of the conference paper [What Matters to You? Towards Visual Representation Alignment for Robot Learning](https://arxiv.org/abs/2310.07932)`]
 
 * **Insights-from-Neuroscience(arxiv2024.12)** Modality-Driven Design for Multi-Step Dexterous Manipulation: Insights from Neuroscience [[arxiv link](https://arxiv.org/abs/2412.11337)][`Microsoft + Institute of Science Tokyo`]
 
-* **DenseMatcher(arxiv2024.12)** DenseMatcher: Learning 3D Semantic Correspondence for Category-Level Manipulation from a Single Demo [[arxiv link](https://arxiv.org/abs/2412.05268)][[project link](https://tea-lab.github.io/DenseMatcher/)][[code|official](https://github.com/JunzheJosephZhu/DenseMatcher)][`IIIS, Tsinghua University + Tepan Inc. + Shanghai Qi Zhi Institute + UC Berkeley + Stanford University + Shanghai AI Lab + Shanghai Jiao Tong University` + `Huazhe Xu`]
-
-* **RoboMatrix(arxiv2024.12)** RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[arxiv link](https://arxiv.org/abs/2412.00171)][[project link](https://robo-matrix.github.io/)][[code|official](https://github.com/WayneMao/RoboMatrix/)][[weixin blog](https://mp.weixin.qq.com/s/kW9K4Kwj8BGbe1Mu__PXrg)][`Waseda University + Beijing Institute of Technology + Megvii Technology + The Chinese University of Hong Kong`]
-
-* **RFMP(arxiv2024.12)** Fast and Robust Visuomotor Riemannian Flow Matching Policy [[arxiv link](https://arxiv.org/abs/2412.10855)][[project link](https://sites.google.com/view/rfmp)][`Bosch Center for Artificial Intelligence + KTH`]
+* **RFMP(arxiv2024.12)** Fast and Robust Visuomotor Riemannian Flow Matching Policy [[arxiv link](https://arxiv.org/abs/2412.10855)][[project link](https://sites.google.com/view/rfmp)][`Bosch Center for Artificial Intelligence + KTH`][`Riemannian Flow Matching Policy`]
 
 
 
@@ -1204,6 +1186,8 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * ❤**LEGION(Nature-Machine-Intelligence-2025)** Preserving and combining knowledge in robotic lifelong reinforcement learning [[paper link](https://www.nature.com/articles/s42256-025-00983-2)][[project link](https://ghiara.github.io/LEGION/)][[code|official](https://github.com/Ghiara/LEGION)][`Technical University of Munich + Nanjing University + Sun Yat-sen University + Tsinghua University`]
 
 
+
+* **robots-pretrain-robots(ICLR2025)(arxiv2024.10)** Robots Pre-Train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets [[openreview link](https://openreview.net/forum?id=yTEwmr1TJb)][[arxiv link](https://arxiv.org/abs/2410.22325)][[project link](https://robots-pretrain-robots.github.io/)][[code|official](https://github.com/luccachiang/robots-pretrain-robots)][`UC San Diego + Tongji University + Shanghai Jiao Tong University + University of Maryland + Tsinghua University`; `Huazhe Xu`]
 
 * **Data-Scaling-Laws(ICLR2025, Oral)(arxiv2024.10)** Data Scaling Laws in Imitation Learning for Robotic Manipulation [[openreview link](https://openreview.net/forum?id=pISLZG7ktL)][[arxiv link](https://arxiv.org/abs/2410.18647)][[project link](https://data-scaling-laws.github.io/)][[code|official](https://github.com/Fanqi-Lin/Data-Scaling-Laws)][`Tsinghua University + Shanghai Qi Zhi Institute + Shanghai Artificial Intelligence Laboratory`]
 
@@ -1221,7 +1205,11 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **ViViDex(ICRA2025)(arxiv2024.04)** ViViDex: Learning Vision-based Dexterous Manipulation from Human Videos [[arxiv link](https://arxiv.org/abs/2404.15709)][[project link](https://zerchen.github.io/projects/vividex.html)][`Inria + Mohamed bin Zayed University of Artificial Intelligence`]
 
+* **PRESTO(ICRA2025)(arxiv2024.09)** PRESTO: Fast motion planning using diffusion models based on key-configuration environment representation [[arxiv link](https://arxiv.org/abs/2409.16012)][[project link](https://kiwi-sherbet.github.io/PRESTO/)][`UT Austin + KAIST`; `Yuke Zhu`]
+
 * **S2I(ICRA2025)(arxiv2024.09)** Towards Effective Utilization of Mixed-Quality Demonstrations in Robotic Manipulation via Segment-Level Selection and Optimization [[arxiv link](https://arxiv.org/abs/2409.19917)][[project link](https://tonyfang.net/s2i/)][`SJTU + Shanghai AI Lab` + `Haoshu Fang + Cewu Lu`]
+
+* **MatchPolicy(ICRA2025)(arxiv2024.09)** Match Policy: A Simple Pipeline from Point Cloud Registration to Manipulation Policies [[arxiv link](https://arxiv.org/abs/2409.15517)][[project link](https://haojhuang.github.io/match_page/)][`Northeastern Univeristy + Worcester Polytechnic Institute`]
 
 * 👍**MT-Policy(ICRA2025)(arxiv2025.01)** Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning [[arxiv link](https://arxiv.org/abs/2501.06994)][[project link](https://portal-cornell.github.io/motion_track_policy/)][`Cornell University + Stanford University`]
 
@@ -1230,6 +1218,11 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **ZeroMimic(ICRA2025)(arxiv2025.03)** ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos [[arxiv link](https://www.arxiv.org/abs/2503.23877)][[project link](https://zeromimic.github.io/)][[code|official](https://github.com/junyaoshi/ZeroMimic)][`University of Pennsylvania`]
 
 
+
+* **G3Flow(CVPR2025)(arxiv2024.11)** G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_G3Flow_Generative_3D_Semantic_Flow_for_Pose-aware_and_Generalizable_Object_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2411.18369)][[project link](https://tianxingchen.github.io/G3Flow/)][[code|official](https://github.com/TianxingChen/G3Flow)][`The University of Hong Kong + Institute of Artificial Intelligence (TeleAI), China Telecom + Shenzhen University + AgileX Robotics + Guangdong Institute of Intelligence Science and Technology` + `Ping Luo`]
+
+* **DexDiffuser(CVPR2025)(arxiv2024.11)** DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_DexHandDiff_Interaction-aware_Diffusion_Planning_for_Adaptive_Dexterous_Manipulation_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2411.18562)][[project link](https://dexdiffuser.github.io/)][`The University of Hong Kong + UC Berkeley`; `Ping Luo`]
+ 
 * **OmniManip(CVPR2025)(arxiv2025.01)** OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints 
 [[arxiv link](https://arxiv.org/abs/2501.03841)][[project link](https://omnimanip.github.io/)][[code|official](https://github.com/pmj110119/OmniManip)][`CFCS, School of Computer Science, Peking University + PKU-AgiBot Lab + AgiBot`; `Hao Dong`]
 
@@ -1238,8 +1231,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **ManipTrans(CVPR2025)(arxiv2025.03)** ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning [[arxiv link](https://arxiv.org/abs/2503.21860)][[project link](https://maniptrans.github.io/)][[code|official](https://github.com/ManipTrans/ManipTrans)][`BIGAI + Tsinghua University + Peking University`; `Siyuan Huang`]
 
 * **HSMR(CVPR2025 oral)(arxiv2025.03)** Reconstructing Humans with a Biomechanically Accurate Skeleton [[arxiv link](https://arxiv.org/abs/2503.21751)][[project link](https://isshikihugh.github.io/HSMR/)][[code|official](https://github.com/IsshikiHugh/HSMR)][`The University of Texas at Austin + Zhejiang University`]
-
-
 
 
 
@@ -1255,11 +1246,20 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **Mid-Level-MoE(RSS2025)(arxiv2025.06)** Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization [[paper link](https://roboticsconference.org/program/papers/155/)][[arxiv link](https://arxiv.org/abs/2506.06196)][[project link](https://mid-level-moe.github.io/)][`Stanford University + Google DeepMind`]
 
+* **HuDOR(RSS2025 Workshop)(arxiv2024.10)** HuDOR: Bridging the Human to Robot Dexterity Gap through Object-Oriented Rewards [[openreview link](https://openreview.net/forum?id=M2uezh5gZ2)][[arxiv link](https://arxiv.org/abs/2410.23289)][[project link](https://object-rewards.github.io/)][`New York University`]
 
+
+
+* **VIRT(ICML2025)(arxiv2024.10)** VIRT: Vision Instructed Robotic Transformer for Manipulation Learning [[arxiv link](https://arxiv.org/abs/2410.07169)][[project link](https://lizhuoling.github.io/VIRT_webpage/)][[code|official](https://github.com/Lizhuoling/VIRT)][`HKU + CVTE + HUST`][`This work has been ever rejected by [ICLR2025](https://openreview.net/forum?id=6o9Vy1m0Jv)`.]
 
 * **SAM2Act(ICML2025)(arxiv2025.01)** SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2501.18564)][[project link](https://sam2act.github.io/)][[code|official](https://github.com/sam2act/sam2act)][`University of Washington + Universidad Católica San Pablo + NVIDIA + Allen Institute for Artifical Intelligence`]
 
 * **STAR(ICML2025)(arxiv2025.06)** STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization [[arxiv link](https://arxiv.org/abs/2506.03863)][[code|official](https://github.com/JiuTian-VL/STAR)][`Harbin Institute of Technology (Shenzhen) + Huawei Noah's Ark Lab`]
+
+
+
+* **AnyBimanual(ICCV2025)(arxiv2024.12)** AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2412.06779)][[project link](https://anybimanual.github.io/)][[code|official](https://github.com/TengBoYuu/AnyBimanual)][`Tsinghua University + Nanyang Technological University`][AnyBimanual is mainly built upon the `PerAct2`][This work has a different title [AnyBimanual: Transferring Single-arm Policy for General Bimanual Manipulation](https://openreview.net/forum?id=KLTqeiI7w0), which is rejected by `ICLR2025`.]
+
 
 
 
