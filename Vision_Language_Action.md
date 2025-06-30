@@ -696,7 +696,7 @@
 
 * **Skill-RRT(arxiv2025.02)** SPIN: distilling Skill-RRT for long-horizon prehensile and non-prehensile manipulation [[arxiv link](https://arxiv.org/abs/2502.18015)][[project link](https://sites.google.com/view/skill-rrt)][`Korea Advanced Institute of Science and Technology (KAIST)`]
 
-* **DyWA(arxiv2025.03)** DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation [[arxiv link](https://arxiv.org/abs/2503.16806)][[project link](https://pku-epic.github.io/DyWA/)][[code|official](https://pku-epic.github.io/DyWA/)][`Peking University + Galbot`; `He Wang`]
+* **DyWA(ICCV2025)(arxiv2025.03)** DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation [[arxiv link](https://arxiv.org/abs/2503.16806)][[project link](https://pku-epic.github.io/DyWA/)][[code|official](https://pku-epic.github.io/DyWA/)][`Peking University + Galbot`; `He Wang`]
 
 * **ExDex(arxiv2025.03)** Dexterous Non-Prehensile Manipulation for Ungraspable Object via Extrinsic Dexterity [[arxiv link](https://arxiv.org/abs/2503.23120)][[project link](https://tangty11.github.io/ExDex/)][`PKU-PsiBot Joint Lab + Peking University`]
 
