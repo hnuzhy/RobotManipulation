@@ -12,7 +12,7 @@
   * **[※ 1) Related Survey and CNS Journals](#-1-Related-Survey-and-CNS-Journals)**
   * **[※ 2) Robot Pose Estimation / Hand-eye Calibration](#-2-Robot-Pose-Estimation--Hand-eye-Calibration)**
   * **[※ 3) Tactile/Haptic/Force Signals Sensing/Simulation](#-3-TactileHapticForce-Signals-SensingSimulation)**
-  * **[※ 4) Assembly/Rearrangement Related Generation/Manipulation](#-4-AssemblyRearrangement-Related-GenerationManipulation)**
+  * **[※ 4) Assembly/Rearrangement/Placement Related Generation/Manipulation](#-4-AssemblyRearrangementPlacement-Related-GenerationManipulation)**
   * **[※ 5) Visual Affordance/Correspondence/Keypoint/Gesture/Gaze for Manipulation](#-5-Visual-AffordanceCorrespondenceKeypointGestureGaze-for-Manipulation)**
   * **[※ 6) Teleoperation/Retargeting/Exoskeletons for Robot Manipulation](#-6-TeleoperationRetargetingExoskeletons-for-Robot-Manipulation)**
   * **[※ 7) Optimization/Expansion/Application of Diffusion Policy/Transformer](#-7-OptimizationExpansionApplication-of-Diffusion-PolicyTransformer)**
@@ -265,7 +265,7 @@
 
 ***
 
-### ※ 4) Assembly/Rearrangement Related Generation/Manipulation
+### ※ 4) Assembly/Rearrangement/Placement Related Generation/Manipulation
 
 * **IKEA Furniture Assembly(ICRA2021)** IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks [[paper link](https://ieeexplore.ieee.org/abstract/document/9560986/)][[arxiv link](https://arxiv.org/abs/1911.07246)][[project link](https://clvrai.github.io/furniture/)][[code|official](https://github.com/clvrai/furniture)][`Cognitive Learning for Vision and Robotics (CLVR), University of Southern California`]
 
