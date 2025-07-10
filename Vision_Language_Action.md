@@ -269,6 +269,8 @@
 
 * **IKEA Furniture Assembly(ICRA2021)** IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks [[paper link](https://ieeexplore.ieee.org/abstract/document/9560986/)][[arxiv link](https://arxiv.org/abs/1911.07246)][[project link](https://clvrai.github.io/furniture/)][[code|official](https://github.com/clvrai/furniture)][`Cognitive Learning for Vision and Robotics (CLVR), University of Southern California`]
 
+* **ReorientBot(ICRA2022)(arxiv2022.02)** ReorientBot: Learning Object Reorientation for Specific-Posed Placement [[paper link](https://ieeexplore.ieee.org/abstract/document/9811881)][[arxiv link](https://arxiv.org/abs/2202.11092)][`Dyson Robotics Laboratory, Imperial College London`; `Stephen Jame`]
+
 * **IFOR(CVPR2022)(arxiv2022.02)** IFOR: Iterative Flow Minimization for Robotic Object Rearrangement [[paper link](http://openaccess.thecvf.com/content/CVPR2022/html/Goyal_IFOR_Iterative_Flow_Minimization_for_Robotic_Object_Rearrangement_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2202.00732)][[project link](https://imankgoyal.github.io/ifor.html)][[code|official]()][`NVIDIA + Princeton University`; `Jia Deng + Dieter Fox`]
 
 * **Factory(RSS2022)(arxiv2022.05)** Factory: Fast Contact for Robotic Assembly [[arxiv link](https://arxiv.org/abs/2205.03532)][[projec link](https://sites.google.com/nvidia.com/factory)][[code|official](https://github.com/isaac-sim/IsaacGymEnvs/blob/main/docs/factory.md)][`NVIDIA`; `Isaac Gym`]
@@ -284,6 +286,8 @@
 * **SeqDex(CoRL2023)(arxiv2023.09)** Sequential Dexterity: Chaining Dexterous Policies for Long-Horizon Manipulation [[openreview link](https://openreview.net/forum?id=2Qrd-Yw4YmF)][[paper link](https://proceedings.mlr.press/v229/chen23e.html)][[arxiv link](https://arxiv.org/abs/2309.00987)][[project link](https://sequential-dexterity.github.io/)][[code|official](https://github.com/sequential-dexterity/SeqDex)][`Stanford University`; `Li Fei-Fei`][Its first workspace is of `Building Blocks`/`Assemblely` task in simulation and real-world, which is a long-horizon task includes four different `subtasks`.][It uses the `Allegro Hand` to conduct their real robot experiments]
 
 * **D3Fields(CoRL2024, Oral)(arxiv2023.09)** D3Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Rearrangement [[openreview link](https://openreview.net/forum?id=Uaaj4MaVIQ)][[arxiv link](https://arxiv.org/abs/2309.16118)][[project link](https://robopil.github.io/d3fields/)][[code|official](https://github.com/WangYixuan12/d3fields)]
+
+* **ReorientDiff(ICRA2024)(arxiv2023.03)** ReorientDiff: Diffusion Model based Reorientation for Object Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/10610749)][[arxiv link](https://arxiv.org/abs/2303.12700)][[project link](https://umishra.me/ReorientDiff/)][`Georgia Institute of Technology`][`Diffusion Models` for `language-conditioned multi-step` object manipulation for precise object placement.]
 
 * **D4PAS(ICRA2024)(arxiv2023.12)** Multi-level Reasoning for Robotic Assembly: From Sequence Inference to Contact Selection [[paper link](https://ieeexplore.ieee.org/document/10611259)][[arxiv link](https://arxiv.org/abs/2312.10571)][`UC Berkeley`; It is a large-scale `Dataset for Part Assembly Sequences (D4PAS)`]
 
@@ -308,6 +312,8 @@
 * **DegustaBot(arxiv2024.07)** DegustaBot: Zero-Shot Visual Preference Estimation for Personalized Multi-Object Rearrangement [[arxiv link](https://arxiv.org/abs/2407.08876)][`Carnegie Mellon University + Hello Robot`][`Multi-Object Rearrangement`]
 
 * **ARCH(arxiv2024.09)** ARCH: Hierarchical Hybrid Learning for Long-Horizon Contact-Rich Robotic Assembly [[arxiv link](https://arxiv.org/abs/2409.16451)][[project link](https://long-horizon-assembly.github.io/)][`Stanford University + MIT + University of Michigan + Autodesk Research`]
+
+* 👍**AnyPlace(arxiv2025.02)** AnyPlace: Learning Generalized Object Placement for Robot Manipulation [[arxiv link](https://www.arxiv.org/abs/2502.04531)][[project link](https://any-place.github.io/)][[code|official](https://github.com/ac-rad/anyplace)][`University of Toronto + Vector Institute + Shanghai Jiao Tong University + Wilfrid Laurier University + Acceleration Consortium + Georgia Institute of Technology`]
 
 * **QBIT(arxiv2025.03)** QBIT: Quality-Aware Cloud-Based Benchmarking for Robotic Insertion Tasks [[arxiv link](https://arxiv.org/abs/2503.07479)][[code|official](https://github.com/djumpstre/Qbit)][`Karlsruhe University of Applied Sciences, Karlsruhe, Germany + Karlsruhe Institute of Technology, Karlsruhe, Germany`]
 
@@ -452,8 +458,6 @@
 * 👍❤**DiffusionPolicy(RSS2023)(IJRR2024)(arxiv2023.03)** Diffusion Policy: Visuomotor Policy Learning via Action Diffusion [[paper link](https://www.roboticsproceedings.org/rss19/p026.pdf)][[arxiv link](https://arxiv.org/abs/2303.04137)][[project link](https://diffusion-policy.cs.columbia.edu/)][[code|official](https://github.com/real-stanford/diffusion_policy)][`Columbia University + Toyota Research Institute + MIT`][Did not conduct experiments on benchmarks `RLBench` and `CALVIN`]
 
 * ❤**ChainedDiffuser(CoRL2023)** ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation  [[openreview link](https://openreview.net/forum?id=W0zgY2mBTA8)][[paper link](https://proceedings.mlr.press/v229/xian23a.html)][[project link](https://chained-diffuser.github.io/)][[code|official](https://github.com/zhouxian/act3d-chained-diffuser)][`CMU`, using the `Diffusion`; the first authors [`Zhou Xian`](https://www.zhou-xian.com/) and [`Nikolaos Gkanatsios`](https://nickgkan.github.io/)][It proposed to replace `motion planners`, commonly used for keypose to keypose linking, with a `trajectory diffusion model` that conditions on the `3D scene feature cloud` and the `predicted target 3D keypose` to denoise a trajectory from the current to the target keypose.]
-
-* **ReorientDiff(ICRA2024)(arxiv2023.03)** ReorientDiff: Diffusion Model based Reorientation for Object Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/10610749)][[arxiv link](https://arxiv.org/abs/2303.12700)][[project link](https://umishra.me/ReorientDiff/)][`Georgia Institute of Technology`][`Diffusion Models` for `language-conditioned multi-step` object manipulation for precise object placement.]
 
 * 👍**Diffusion-EDFs(CVPR2024 Highlight)(arxiv2023.09)** Diffusion-EDFs: Bi-equivariant Denoising Generative Modeling on SE(3) for Visual Robotic Manipulation [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Ryu_Diffusion-EDFs_Bi-equivariant_Denoising_Generative_Modeling_on_SE3_for_Visual_Robotic_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2309.02685)][[project link](https://sites.google.com/view/diffusion-edfs)][[code|official](https://github.com/tomato1mule/diffusion_edf)][`Yonsei University + University of California, Berkeley + Samsung Research + MIT`][It compared to the `SE(3)-DiffusionFields(ICRA2023)`]
 
@@ -951,8 +955,6 @@
 
 * **CLIPort(CoRL2021)(arxiv2021.09)** CLIPort: What and Where Pathways for Robotic Manipulation [[openreview link](https://openreview.net/forum?id=9uFiX_HRsIL)][[paper link](https://proceedings.mlr.press/v164/shridhar22a.html)][[arxiv link](https://arxiv.org/abs/2109.12098)][[project link](https://cliport.github.io/)][[code|official](https://github.com/cliport/cliport)][[code|not official - CLIPort-Batchify](github.com/ChenWu98/cliport-batchify)][`University of Washington + NVIDIA`]
 
-* **ReorientBot(ICRA2022)(arxiv2022.02)** ReorientBot: Learning Object Reorientation for Specific-Posed Placement [[paper link](https://ieeexplore.ieee.org/abstract/document/9811881)][[arxiv link](https://arxiv.org/abs/2202.11092)][`Dyson Robotics Laboratory, Imperial College London`; `Stephen Jame`]
-
 * **BIP(IROS2022)(arxiv2022.08)** A System for Imitation Learning of Contact-Rich Bimanual Manipulation Policies [[paper link](https://ieeexplore.ieee.org/abstract/document/9981802)][[arxiv link](https://arxiv.org/abs/2208.00596)][[project link](https://bimanualmanipulation.com/)][[code|official](https://github.com/ir-lab/irl_control/tree/iros2022-dev/irl_control/learning)][`Carnegie Melon University + Intrinsic, An Alphabet Company + Arizona State University`]
 
 * **BC-Z(CVPR2022)(arxiv2022.02)** BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning [[openreview link](https://openreview.net/forum?id=8kbp23tSGYv)][[paper link](https://proceedings.mlr.press/v164/jang22a.html)][[arxiv link](https://arxiv.org/abs/2202.02005)][[project link](https://sites.google.com/view/bc-z/home)][[code|official](https://github.com/google-research/tensor2robot/tree/master/research/bcz)][`Robotics at Google + The Moonshot Factory + UC Berkeley + Stanford University`; `Chelsea Finn`][It is based on the `TensorFlow`]
@@ -1273,8 +1275,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **Re3Sim(arxiv2025.02)** Re3Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2502.08645)][[project link](http://xshenhan.github.io/Re3Sim/)][[code|official](https://github.com/OpenRobotLab/Re3Sim)][`Shanghai Jiao Tong University + Shanghai AI Lab + The University of Hong Kong`; `Weinan Zhang + Jiangmiao Pang`][`It is a novel `Real-to-Sim-to-Real` pipeline that integrates `Gaussian splatting` with `NVIDIA Isaac Sim's PhysX engine`, improving scene reconstruction and `sim-to-real transfer` for robotic manipulation tasks.`]
 
 * **HEP(arxiv2025.02)** Hierarchical Equivariant Policy via Frame Transfer [[arxiv link](https://arxiv.org/abs/2502.05728)][`Northeastern University + Boston Dynamics AI Institute`]
-
-* 👍**AnyPlace(arxiv2025.02)** AnyPlace: Learning Generalized Object Placement for Robot Manipulation [[arxiv link](https://www.arxiv.org/abs/2502.04531)][[project link](https://any-place.github.io/)][[code|official](https://github.com/ac-rad/anyplace)][`University of Toronto + Vector Institute + Shanghai Jiao Tong University + Wilfrid Laurier University + Acceleration Consortium + Georgia Institute of Technology`]
 
 * 👍👍**FUNCTO(arxiv2025.02)** FUNCTO: Function-Centric One-Shot Imitation Learning for Tool Manipulation [[arxiv link](https://arxiv.org/abs/2502.11744)][[project link](https://sites.google.com/view/functo)][`Southern University of Science and Technology + National University of Singapore`][A key challenge lies in establishing functional correspondences between `demonstration` and `test tools`]
 
