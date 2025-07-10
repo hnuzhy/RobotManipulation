@@ -313,6 +313,8 @@
 
 * **ARCH(arxiv2024.09)** ARCH: Hierarchical Hybrid Learning for Long-Horizon Contact-Rich Robotic Assembly [[arxiv link](https://arxiv.org/abs/2409.16451)][[project link](https://long-horizon-assembly.github.io/)][`Stanford University + MIT + University of Michigan + Autodesk Research`]
 
+* 👍**FetchBot(arxiv2025.02)** FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real [[arxiv link](https://arxiv.org/abs/2502.17894)][[project link](https://pku-epic.github.io/FetchBot/)][`Chinese Academy of Sciences + School of Computer Science, Peking University + Galbot + Beijing Academy of Artificial Intelligence`; `He Wang`]
+
 * 👍**AnyPlace(arxiv2025.02)** AnyPlace: Learning Generalized Object Placement for Robot Manipulation [[arxiv link](https://www.arxiv.org/abs/2502.04531)][[project link](https://any-place.github.io/)][[code|official](https://github.com/ac-rad/anyplace)][`University of Toronto + Vector Institute + Shanghai Jiao Tong University + Wilfrid Laurier University + Acceleration Consortium + Georgia Institute of Technology`]
 
 * **QBIT(arxiv2025.03)** QBIT: Quality-Aware Cloud-Based Benchmarking for Robotic Insertion Tasks [[arxiv link](https://arxiv.org/abs/2503.07479)][[code|official](https://github.com/djumpstre/Qbit)][`Karlsruhe University of Applied Sciences, Karlsruhe, Germany + Karlsruhe Institute of Technology, Karlsruhe, Germany`]
@@ -1281,8 +1283,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **Video2Policy(arxiv2025.02)** Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos [[arxiv link](https://arxiv.org/abs/2502.09886)][[project link](https://yewr.github.io/video2policy/)][`Tsinghua University + Shanghai Qi Zhi Institute + Shanghai Artificial Intelligence Laboratory + UC Berkeley + UC San Diego`; `Pieter Abbeel`]
 
 * **ManiTrend(arxiv2025.02)** ManiTrend: Bridging Future Generation and Action Prediction with 3D Flow for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2502.10028)][`The Hong Kong University of Science and Technology (Guangzhou)`]
-
-* 👍**FetchBot(arxiv2025.02)** FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real [[arxiv link](https://arxiv.org/abs/2502.17894)][[project link](https://pku-epic.github.io/FetchBot/)][`Chinese Academy of Sciences + School of Computer Science, Peking University + Galbot + Beijing Academy of Artificial Intelligence`; `He Wang`]
 
 * 👍**Reflect-VLM(arxiv2025.02)** Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2502.16707)][[project link](https://reflect-vlm.github.io/)][[code|official](https://github.com/yunhaif/reflect-vlm)][`Cornell University + CUHK + Yale University + UC Berkeley`; `Sergey Levine`]
 
