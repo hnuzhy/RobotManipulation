@@ -162,6 +162,9 @@
 * 👍**Survey(DiffusionPolicy-Robotics)(arxiv2025.04)** A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions [[arxiv link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174378343.39356214)][[code|official](https://github.com/HITSZ-Robotics/DiffusionPolicy-Robotics)]
 
 
+
+* 👍**FBSS(Nature-Communications-2022)** Touchless interactive teaching of soft robots through flexible bimodal sensory interfaces [[paper link](https://www.nature.com/articles/s41467-022-32702-5)][`Beihang University`; `flexible bimodal smart skin (FBSS)`]
+
 * ❤👍👍**ViTaM(Nature-Communications-2024)** Capturing forceful interaction with deformable objects using a deep learning-powered stretchable tactile array [[paper link](https://www.nature.com/articles/s41467-024-53654-y)][[code|official](https://github.com/jeffsonyu/ViTaM)][[weixin blog](https://mp.weixin.qq.com/s/bWFFd3ZUNnGTU0Ule57CmQ)][`Cewu Lu`][`Visual-Tactile recording and tracking system for Manipulation`]
 
 * ❤👍**CoordinatedBadminton(Science-Robotics-2025)(arxiv2025.05)** Learning coordinated badminton skills for legged manipulators [[paper link](https://www.science.org/doi/10.1126/scirobotics.adu3922)][[arxiv link](https://arxiv.org/abs/2505.22974)][`ETH Zurich`]
@@ -1376,6 +1379,103 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **3DMF(arxiv2025.06)** Object-centric 3D Motion Field for Robot Learning from Human Videos [[arxiv link](https://arxiv.org/abs/2506.04227)][[project link](https://zhaohengyin.github.io/3DMF/)][`UC Berkeley EECS + Google DeepMind`; `Pieter Abbeel`]
 
 * **Chain-of-Action(arxiv2025.06)** Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation [[arxiv link](http://arxiv.org/abs/2506.09990)][`ByteDance Seed + The University of Adelaide + NUS + CAS + CSIRO`]
+
+
+
+
+* **RoboArena(arxiv2025.06)** RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies [[arxiv link](https://arxiv.org/abs/2506.18123)][[project link](https://robo-arena.github.io/)][[code|official](https://github.com/robo-arena/roboarena)][`University of California, Berkeley + Stanford University + University of Washington + Université de Montréal + NVIDIA + University of Pennsylvania + UT Austin + Yonsei University`]
+
+* **Taccel(arxiv2025.04)** Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation [[arxiv link](https://arxiv.org/abs/2504.12908)][[project link](https://taccel-simulator.github.io/)][[code|official](https://github.com/Taccel-Simulator/Taccel)][`Institute for AI, PKU +  State Key Lab of General AI, BIGAI +  AIVC Lab, UCLA`]
+
+* **DemoDiffusion(arxiv2025.06)** DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy [[arxiv link](https://arxiv.org/abs/2506.20668)][[project link](https://demodiffusion.github.io/)][[code|official](https://github.com/demodiffusion/demodiffusion)][`Carnegie Mellon University`]
+
+* **ULD-HeadPose(CVPR2025)** Unsupervised Discovery of Facial Landmarks and Head Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Tourani_Unsupervised_Discovery_of_Facial_Landmarks_and_Head_Pose_CVPR_2025_paper.html)][[code|official](https://github.com/touranisatyajit/cvpr2025-uld-headpose)]
+
+* **RIGVid(arxiv2025.07)** Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations [[arxiv link](https://arxiv.org/abs/2507.00990)][[project link](https://rigvid-robot.github.io/)][[code|official](https://github.com/shivanshpatel35/rigvid)][`University of Illinois Urbana-Champaign +  UC Irvine + Columbia University`][`Robots Imitating Generated Videos (RIGVid)`]
+
+* **World4Omni(arxiv2025.06)** World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2506.23919)][[project link](https://world4omni.github.io/)][`National University of Singapore + NUS Guangzhou Research Translation and Innovation Institute + Shanghai Jiao Tong University + Tsinghua University + Peking University`]
+
+* **ParticleFormer(arxiv2025.06)** ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2506.23126)][[project link](https://particleformer.github.io/)][`Stanford University + RAI Institute`][`ParticleFormer` captures `fine-grained multi-object interactions` between `rigid, deformable, and flexible materials`, trained directly from real-world robot perception data without an elaborate scene reconstruction.]
+
+* **SViP(arxiv2025.06)** SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives [[arxiv link](https://arxiv.org/abs/2506.18825)][[project link](https://sites.google.com/view/svip-bimanual)][`The University of Hong Kong + Huawei Technologies Co., Ltd`][We marry `bimanual visuomotor policies` with `long-horizon planning`, addressing out-of-the-distribution (OOD) observations while complying with `novel goals and constraints`.]
+
+* **PhysRig(ICCV2025)(arxiv2025.06)** PhysRig: Differentiable Physics-Based Skinning and Rigging Framework for Realistic Articulated Object Modeling [[paper link]()][[arxiv link](https://arxiv.org/abs/2506.20936)][[project link](https://physrig.github.io/)][[code|official](https://github.com/haoz19/PhysRig)][`University of Illinois Urbana-Champaign + Stability AI`]
+
+* **DexNoMa(year2025.06)** DexNoMa: Learning Geometry-Aware Nonprehensile Dexterous Manipulation [[openreview link](https://openreview.net/forum?id=ScRpDkgNJL)][[project link](https://dexnoma.github.io/)][`University of Southern California`]
+
+* **ImMimic(year2025.06)** ImMimic: Cross-Domain Imitation from Human Videos via Mapping and Interpolation [[openreview link](https://openreview.net/forum?id=lujxPiu99k)][[project link](https://sites.google.com/view/immimic)][`Georgia Institute of Technology`]
+
+* **RIP(IROS2025)(arxiv2025.06)** Robust Instant Policy: Leveraging Student's t-Regression Model for Robust In-context Imitation Learning of Robot Manipulation [[arxiv link](https://arxiv.org/abs/2506.15157)][[project link](https://sites.google.com/view/robustinstantpolicy)][`National Institute of Advanced Industrial Science and Technology (AIST), Japan`]
+
+* **ViTacFormer(arxiv2025.06)** ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2506.15953)][`University of California, Berkeley + Peking University + Sharpa`; `Pieter Abbeel`]
+
+* **CDP(arxiv2025.06)** CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion [[arxiv link](https://arxiv.org/abs/2506.14769)][`Sun Yat-sen University + CUHK(SZ)`]
+
+* **Symmetry-Robust(ICML2025)** Symmetry-Robust 3D Orientation Estimation [[openreview link](https://openreview.net/forum?id=rcDYnkG1F8)][`MIT CSAIL, Cambridge, MA + Backflip AI`]
+
+* **Gondola(arxiv2025.06)** Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2506.11261)][[project link](https://cshizhe.github.io/projects/robot_gondola.html)][`Inria, École normale supérieure, CNRS, PSL Research University`; `Shizhe Chen`]
+
+* **HMD-Ego(arxiv2025.06)** Where Do We Look When We Teach? Analyzing Human Gaze Behavior Across Demonstration Devices in Robot Imitation Learning [[arxiv link](https://arxiv.org/abs/2506.05808)][`Toyota Motor Corporation + Nara Institute of Science and Technology`]
+
+* **BEAST(arxiv2025.06)** BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning [[arxiv link](https://arxiv.org/abs/2506.06072)][`Karlsruhe Institute of Technology + Microsoft Research`][`B-spline Encoded Action Sequence Tokenizer (BEAST)`]
+
+* **Survey(IJCV2025)(arxiv2025.06)** Vision Generalist Model: A Survey [[paper link](https://link.springer.com/article/10.1007/s11263-025-02502-7)][[arxiv link](https://arxiv.org/abs/2506.09954)][`Tsinghua University, China + Tencent HunyuanX, China + Beijing University of Posts and Telecommunications, China + University of Science and Technology Beijing`; `Jiwen Lu`]
+
+* **HaWoR(CVPR2025 Highlight)(arxiv2025.01)** HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_HaWoR_World-Space_Hand_Motion_Reconstruction_from_Egocentric_Videos_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2501.02973)][[project link](https://hawor-project.github.io/)][[code|official](https://github.com/ThunderVVV/HaWoR)][`Shanghai Jiao Tong University, China + Imperial College London, UK`]
+
+* **DexVLG(ICCV2025)(arxiv2025.07)** DexVLG: Dexterous Vision-Language-Grasp Model at Scale [[arxiv link](https://arxiv.org/abs/2507.02747)][[project link](https://jiaweihe.com/dexvlg)][[code|official](https://github.com/jiaweihe1996/DexVLG)][`BAAI + Galbot + THU + PKU + CASIA + SJTU + EIT`; `He Wang`]
+
+* **AC-DiT(arxiv2025.07)** AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation [[arxiv link](https://arxiv.org/abs/2507.01961)][[project link](https://ac-dit.github.io/)][[code|official](https://github.com/PKU-HMI-Lab/AC-DiT)][`Peking University + Nanjing University (NJU) + The Chinese University of Hong Kong (CUHK) + Beijing Academy of Artificial Intelligence (BAAI)`]
+
+* **Bimanual-Stir-fry(RAL2022)(arxiv2022.05)** Robot Cooking with Stir-fry: Bimanual Non-prehensile Manipulation of Semi-fluid Objects [[paper link](https://ieeexplore.ieee.org/abstract/document/9720489)][[arxiv link](https://arxiv.org/abs/2205.05960)][`The Chinese University of Hong Kong + Wuhan University + Idiap Research Institute`]
+
+* **Bimanual-Handover-Rearrangement(ICRA2023)** Efficient Bimanual Handover and Rearrangement via Symmetry-Aware Actor-Critic Learning [[paper link](https://ieeexplore.ieee.org/abstract/document/10160739)][[project link](https://sites.google.com/view/bimanual)][`Tsinghua University +  UC San Diego + Shanghai Artificial Intelligence Lab + Shanghai Qi Zhi Institute`]
+
+* 👍**UMI(RSS2024, Best Systems Paper Award Finalist)(arxiv2024.02)** Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots [[paper link](https://www.roboticsproceedings.org/rss20/p045.pdf)][[arxiv link](https://arxiv.org/abs/2402.10329)][[project link](https://umi-gripper.github.io/)][[code|official](https://github.com/real-stanford/universal_manipulation_interface)][`Stanford University + Columbia University + Toyota Research Insititute`; `Shuran Song`]
+
+* **VLM-SFD(arxiv2025.06)** VLM-SFD: VLM-Assisted Siamese Flow Diffusion Framework for Dual-Arm Cooperative Manipulation [[arxiv link](https://arxiv.org/abs/2506.13428)][[project link](https://sites.google.com/view/vlm-sfd/)][[code|official](https://github.com/PPjmchen/SFDNet)][`The University of Manchester + Shandong University`]
+
+* **VLAS(ICLR2025)(arxiv2025.02)** VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation [[openreview link](https://openreview.net/forum?id=K4FAFNRpko)][[arxiv link](https://arxiv.org/abs/2502.13508)][[code|official](https://github.com/whichwhichgone/VLAS)][`Westlake University + Zhejiang University + Xi’an Jiaotong University`]
+
+* **ChatVLA-2(arxiv2025.05)** ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge [[arxiv link](https://arxiv.org/abs/2505.21906)][[project link](https://chatvla-2.github.io/)][`Midea Group + East China Normal University`]
+
+* **REGENT(ICLR2025, Oral)(arxiv2024.12)** REGENT: A Retrieval-Augmented Generalist Agent That Can Act In-Context in New Environments [[openreview link](https://openreview.net/forum?id=NxyfSW6mLK)][[arxiv link](https://arxiv.org/abs/2412.04759)][[project link](https://kaustubhsridhar.github.io/regent-research/)][[code|official]()][`University of Pennsylvania + University of British Columbia`]
+
+* **SG-Bot(ICRA2024)(arxiv2023.09)** SG-Bot: Object Rearrangement via Coarse-to-Fine Robotic Imagination on Scene Graphs [[paper link](https://ieeexplore.ieee.org/abstract/document/10610792)][[arxiv link](https://arxiv.org/abs/2309.12188)][[project link](https://sites.google.com/view/sg-bot)][[code|official](https://github.com/ymxlzgy/SG-Bot)][`Technical University of Munich + Google`]
+
+* **PACA(WACV2025)(arxiv2024.10)** PACA: Perspective-Aware Cross-Attention Representation for Zero-Shot Scene Rearrangement [[paper link](https://ieeexplore.ieee.org/abstract/document/10944005)][[arxiv link](https://arxiv.org/abs/2410.22059)][`KTH Royal Institute of Technology + Graz University of Technology`]
+
+* **LLM-driven-Rearrangement(arxiv2025.01)** Learn from the Past: Language-conditioned Object Rearrangement with Large Language Models [[arxiv link](https://arxiv.org/abs/2501.18516)][`University of York + University of Southampton`]
+
+* **VPI(IROS2024)(arxiv2024.03)** Visual Preference Inference: An Image Sequence-Based Preference Reasoning in Tabletop Object Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/10801806)][[arxiv link](https://arxiv.org/abs/2403.11513)][[project link](https://joonhyung-lee.github.io/vpi/)][[code|official](https://github.com/joonhyung-lee/vpi)][`Korea University + ETRI + Neubla`]
+
+* **RwoR(arxiv2025.07)** RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot [[arxiv link](https://arxiv.org/abs/2507.03930)][[project link](https://rwor.github.io/)][`Peking University + Tencent Robotics X Laboratory`; `Hao Dong`]
+
+* **HoIfHLI(ICCV2025)(arxiv2024.06)** Human-Object Interaction from Human-Level Instructions [[arxiv link](https://arxiv.org/abs/2406.17840)][[project link](https://hoifhli.github.io/)][[code|official](https://github.com/zhenkirito123/hoifhli_release)][`Stanford University`]
+
+* **CORE4D(CVPR2025)(arxiv2024.06)** CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_CORE4D_A_4D_Human-Object-Human_Interaction_Dataset_for_Collaborative_Object_REarrangement_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2406.19353)][[project link](https://core4d.github.io/)][[code|official](https://github.com/leolyliu/CORE4D-Instructions)][`1Tsinghua University + Shanghai Qi Zhi Institute + Shanghai Artificial Intelligence Laboratory + Beijing University of Posts and Telecommunications`]
+
+* **HumanVLA(NIPS2024)(arxiv2024.06)** HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid [[openreview link](https://openreview.net/forum?id=pjD08dtAh0)][[arxiv link](https://arxiv.org/abs/2406.19972)][[code|official](https://github.com/AllenXuuu/HumanVLA)][`Shanghai Jiao Tong University + Tencent Robotics X`; `Yong-Lu Li + Cewu Lu`]
+
+* **Nonprehensile-Rearrangement(arxiv2024.10)** Object-Centric Kinodynamic Planning for Nonprehensile Robot Rearrangement Manipulation [[arxiv link](https://arxiv.org/abs/2410.00261)][`Rice University + The AI Institute, Cambridge`]
+
+* **Survey-Rearrangement(arxiv2020.11)** Rearrangement: A Challenge for Embodied AI [[arxiv link](https://arxiv.org/abs/2011.01975)][`Georgia Tech + Facebook AI Research + Simon Fraser University + Imperial College London + Princeton University + Intel Labs + UC Berkeley + Google + Allen Institute for AI + University of Washington + UC San Diego`; `Jia Deng + Sergey Levine + Hao Su`]
+
+* **Favor(AAAI2024)** Favor: Full-Body AR-driven Virtual Object Rearrangement Guided by Instruction Text [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/28097)][[project link](https://kailinli.github.io/FAVOR/)][`Shanghai Jiao Tong University + XREAL + South China University of Technology`; `Cewu Lu`]
+
+* 👍**Florence-VL(CVPR2025)(arxiv2024.12)** Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Florence-VL_Enhancing_Vision-Language_Models_with_Generative_Vision_Encoder_and_Depth-Breadth_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2412.04424)][[project link](https://jiuhaichen.github.io/florence-vl.github.io/)][[code|official](https://github.com/JiuhaiChen/Florence-VL)][`University of Maryland + Microsoft Research`]
+
+* **HD-EPIC(CVPR2025)(arxiv2025.02)** HD-EPIC: A Highly-Detailed Egocentric Video Dataset [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Perrett_HD-EPIC_A_Highly-Detailed_Egocentric_Video_Dataset_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2502.04144)][[project link](https://hd-epic.github.io/)][[competitions|official](https://codalab.lisn.upsaclay.fr/competitions/22006)][`Uni. of Bristol + Leiden Uni. + Singapore Management Uni. + Uni. of Bath`]
+
+* **RoboGround(CVPR2025)(arxiv2025.04)** RoboGround: Robotic Manipulation with Grounded Vision-Language Priors [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_RoboGround_Robotic_Manipulation_with_Grounded_Vision-Language_Priors_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2504.21530)][[project link](https://robo-ground.github.io/)][[code|official](https://github.com/ZzZZCHS/RoboGround)][`Zhejiang University + Shanghai AI Laboratory`]
+
+* 👍**GroundingSuite(ICCV2025)(arxiv2025.03)** GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding [[arxiv link](https://arxiv.org/abs/2503.10596)][[code|official](https://github.com/hustvl/GroundingSuite)][`Huazhong University of Science and Technology + vivo AI Lab`; `Xinggang Wang`]
+
+* **RoboCopilot(arxiv2025.03)** RoboCopilot: Human-in-the-loop Interactive Imitation Learning for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2503.07771)][`University of California, Berkeley`; `Pieter Abbeel`]
+
+* **DreamArt(arxiv2025.07)** DreamArt: Generating Interactable Articulated Objects from a Single Image [[arxiv link](https://arxiv.org/abs/2507.05763)][[project link](https://dream-art-0.github.io/DreamArt/)][`Peking University + Tsinghua University + BIGAI`; `Siyuan Huang`][`DreamArt is capable of synthesizing articulated objects from a single image`]
+
+* **DP4(arxiv2025.07)** Spatial-Temporal Aware Visuomotor Diffusion Policy Learning [[arxiv link](https://arxiv.org/abs/2507.06710)][[project link](https://zhenyangliu.github.io/DP4/)][`Fudan University + Shanghai Innovation Institute + Nanyang Technological University + NeuHelium Co., Ltd`][`Spatial-Temporal Aware Visuomotor Diffusion Policy Learning (4D Diffusion Policy)`]
 
 
 
