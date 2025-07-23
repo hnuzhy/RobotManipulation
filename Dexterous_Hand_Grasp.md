@@ -67,9 +67,11 @@
 
 * **STMR(arxiv2024.07)** STMR: Spiral Transformer for Hand Mesh Reconstruction [[arxiv link](https://arxiv.org/abs/2407.05967)][[code|official](https://github.com/SmallXieGithub/STMR)][`South China University of Technology + Pazhou Lab`]
 
-* **WiLoR(arxiv2024.09)** WiLoR: End-to-end 3D hand localization and reconstruction in-the-wild [[arxiv link](https://arxiv.org/abs/2409.12259)][[project link](https://rolpotamias.github.io/WiLoR/)][[code|official](https://github.com/rolpotamias/WiLoR)][`Imperial College London + Shanghai Jiao Tong University`][doing hand `detection` and `reconstruction`.]
+* 👍👍**WiLoR(CVPR2025)(arxiv2024.09)** WiLoR: End-to-end 3D hand localization and reconstruction in-the-wild [[arxiv link](https://arxiv.org/abs/2409.12259)][[project link](https://rolpotamias.github.io/WiLoR/)][[code|official](https://github.com/rolpotamias/WiLoR)][`Imperial College London + Shanghai Jiao Tong University`][doing hand `detection` and `reconstruction`.]
 
 * 👍**Dyn-HaMR(arxiv2024.12)** Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera [[arxiv link](https://arxiv.org/abs/2412.12861)][[project link](https://dyn-hamr.github.io/)][[code|official](https://github.com/ZhengdiYu/Dyn-HaMR)][`Imperial College London`]
+
+* 👍👍**HaWoR(CVPR2025 Highlight)(arxiv2025.01)** HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_HaWoR_World-Space_Hand_Motion_Reconstruction_from_Egocentric_Videos_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2501.02973)][[project link](https://hawor-project.github.io/)][[code|official](https://github.com/ThunderVVV/HaWoR)][`Shanghai Jiao Tong University, China + Imperial College London, UK`]
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
@@ -169,6 +171,8 @@
 
 * **G-HOP(CVPR2024)(arxiv2024.04)** G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Ye_G-HOP_Generative_Hand-Object_Prior_for_Interaction_Reconstruction_and_Grasp_Synthesis_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2404.12383)][[project link](https://judyye.github.io/ghop-www/)][[code|official](https://github.com/JudyYe/ghop)][`Carnegie Mellon University + Meta AI`][HOI Generations]
 
+* 👍**HoIfHLI(ICCV2025)(arxiv2024.06)** Human-Object Interaction from Human-Level Instructions [[arxiv link](https://arxiv.org/abs/2406.17840)][[project link](https://hoifhli.github.io/)][[code|official](https://github.com/zhenkirito123/hoifhli_release)][`Stanford University`]
+
 * **HoP(arxiv2024.09)** Hand-Object Interaction Pretraining from Videos [[arxiv link](https://arxiv.org/abs/2409.08273)][[project link](https://hgaurav2k.github.io/hop/)][[code|official](https://github.com/hgaurav2k/hop)][`University of California, Berkeley`; `Pieter Abbeel`]
 
 * **FürElise(SIGGRAPH Asia 2024)(arxiv2024.10)** FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance [[arxiv link](https://arxiv.org/abs/2410.05791)][[project link](https://for-elise.github.io/)][`Stanford University`]
@@ -183,9 +187,12 @@
 
 * **HOGSA(AAAI2025)(arxiv2025.01)** HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation [[arxiv link](https://arxiv.org/abs/2501.02845)][[project link](https://iscas3dv.github.io/HOGSA/)][`Institute of Software, Chinese Academy of Sciences + University of Chinese Academy of Sciences + Institute of Automation, Chinese Academy of Sciences + Google`]
 
+* 👍**HD-EPIC(CVPR2025)(arxiv2025.02)** HD-EPIC: A Highly-Detailed Egocentric Video Dataset [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Perrett_HD-EPIC_A_Highly-Detailed_Egocentric_Video_Dataset_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2502.04144)][[project link](https://hd-epic.github.io/)][[competitions|official](https://codalab.lisn.upsaclay.fr/competitions/22006)][`Uni. of Bristol + Leiden Uni. + Singapore Management Uni. + Uni. of Bath`]
+
 * **DyTact(arxiv2025.06)** DyTact: Capturing Dynamic Contacts in Hand-Object Manipulation [[arxiv link](https://arxiv.org/abs/2506.03103)][[project link](https://oliver-cong02.github.io/DyTact.github.io/)][[code|official](https://github.com/Oliver-Cong02/DyTact)][`Brown University + IIT Delhi`]
 
 * **OpenHOI(arxiv2025.05)** OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model [[arxiv link](https://arxiv.org/abs/2505.18947)][[project link](https://openhoi.github.io/)][`ShanghaiTech University + Zhejiang University`]
+
 
 
 
