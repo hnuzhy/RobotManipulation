@@ -1258,9 +1258,12 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **DreamToManipulate(ICLR2025)(arxiv2024.12)** Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination [[openreview link](https://openreview.net/forum?id=3RSLW9YSgk)][[arxiv link](https://arxiv.org/abs/2412.14957)][[project link](https://leobarcellona.github.io/DreamToManipulate/)][`University of Padova + Polytechnic of Torino + University of Amsterdam`]
 
+* 👍**REGENT(ICLR2025, Oral)(arxiv2024.12)** REGENT: A Retrieval-Augmented Generalist Agent That Can Act In-Context in New Environments [[openreview link](https://openreview.net/forum?id=NxyfSW6mLK)][[arxiv link](https://arxiv.org/abs/2412.04759)][[project link](https://kaustubhsridhar.github.io/regent-research/)][`University of Pennsylvania + University of British Columbia`]
+
 * 👍**HAMSTER(ICLR2025)(arxiv2025.02)** HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation [[openreview link](https://openreview.net/forum?id=h7aQxzKbq6)][[arxiv link](https://arxiv.org/abs/2502.05485)][[project link](https://hamster-robot.github.io/)][`NVIDIA + University of Washington + University of Southern California`]
 
 * **FreePose(ICLR2025)(arxiv2025.03)** 6D Object Pose Tracking in Internet Videos for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2503.10307)][[project link](https://ponimatkin.github.io/freepose/)][[code|official](https://github.com/ponimatkin/freepose)][`Czech Technical University in Prague + H Company`]
+
 
 
 
@@ -1298,6 +1301,8 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **ManipTrans(CVPR2025)(arxiv2025.03)** ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning [[arxiv link](https://arxiv.org/abs/2503.21860)][[project link](https://maniptrans.github.io/)][[code|official](https://github.com/ManipTrans/ManipTrans)][`BIGAI + Tsinghua University + Peking University`; `Siyuan Huang`]
 
 * **HSMR(CVPR2025 oral)(arxiv2025.03)** Reconstructing Humans with a Biomechanically Accurate Skeleton [[arxiv link](https://arxiv.org/abs/2503.21751)][[project link](https://isshikihugh.github.io/HSMR/)][[code|official](https://github.com/IsshikiHugh/HSMR)][`The University of Texas at Austin + Zhejiang University`]
+
+* 👍**RoboGround(CVPR2025)(arxiv2025.04)** RoboGround: Robotic Manipulation with Grounded Vision-Language Priors [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_RoboGround_Robotic_Manipulation_with_Grounded_Vision-Language_Priors_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2504.21530)][[project link](https://robo-ground.github.io/)][[code|official](https://github.com/ZzZZCHS/RoboGround)][`Zhejiang University + Shanghai AI Laboratory`]
 
 
 
@@ -1454,14 +1459,7 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **RIGVid(arxiv2025.07)** Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations [[arxiv link](https://arxiv.org/abs/2507.00990)][[project link](https://rigvid-robot.github.io/)][[code|official](https://github.com/shivanshpatel35/rigvid)][`University of Illinois Urbana-Champaign +  UC Irvine + Columbia University`][`Robots Imitating Generated Videos (RIGVid)`]
 
-
-
-* **REGENT(ICLR2025, Oral)(arxiv2024.12)** REGENT: A Retrieval-Augmented Generalist Agent That Can Act In-Context in New Environments [[openreview link](https://openreview.net/forum?id=NxyfSW6mLK)][[arxiv link](https://arxiv.org/abs/2412.04759)][[project link](https://kaustubhsridhar.github.io/regent-research/)][`University of Pennsylvania + University of British Columbia`]
-
 * **RwoR(arxiv2025.07)** RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot [[arxiv link](https://arxiv.org/abs/2507.03930)][[project link](https://rwor.github.io/)][`Peking University + Tencent Robotics X Laboratory`; `Hao Dong`]
-
-* **RoboGround(CVPR2025)(arxiv2025.04)** RoboGround: Robotic Manipulation with Grounded Vision-Language Priors [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_RoboGround_Robotic_Manipulation_with_Grounded_Vision-Language_Priors_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2504.21530)][[project link](https://robo-ground.github.io/)][[code|official](https://github.com/ZzZZCHS/RoboGround)][`Zhejiang University + Shanghai AI Laboratory`]
-
 
 
 
