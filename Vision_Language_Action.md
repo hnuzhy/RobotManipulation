@@ -359,7 +359,6 @@
 
 * **Fabrica(arxiv2025.06)** Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning [[arxiv link](https://arxiv.org/abs/2506.05168)][[project link](https://fabrica.csail.mit.edu/)][`MIT CSAIL + ETH Zurich + Autodesk Research + Texas A&M University`]
 
-* 👍**ParticleFormer(arxiv2025.06)** ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2506.23126)][[project link](https://particleformer.github.io/)][`Stanford University + RAI Institute`][`ParticleFormer` captures `fine-grained multi-object interactions` between `rigid, deformable, and flexible materials`, trained directly from real-world robot perception data without an elaborate scene reconstruction.]
 
 
 ***
@@ -441,6 +440,7 @@
 * **HMD-Ego(arxiv2025.06)** Where Do We Look When We Teach? Analyzing Human Gaze Behavior Across Demonstration Devices in Robot Imitation Learning [[arxiv link](https://arxiv.org/abs/2506.05808)][`Toyota Motor Corporation + Nara Institute of Science and Technology`]
 
 
+
 ***
 
 ### ※ 6) Teleoperation/Retargeting/Exoskeletons for Robot Manipulation
@@ -482,6 +482,8 @@
 * **TelePreview(arxiv2024.12)** TelePreview: A User-Friendly Teleoperation System with Virtual Arm Assistance for Enhanced Effectiveness [[arxiv link](https://arxiv.org/abs/2412.13548)][[project link](https://nus-lins-lab.github.io/telepreview/)][`National University of Singapore`]
 
 * **TeleOpBench(arxiv2025.05)** TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation [[arxiv link](https://arxiv.org/abs/2505.12748)][[project link](https://gorgeous2002.github.io/TeleOpBench/)][`Shanghai Artificial Intelligence Laboratory + Zhejiang University + The Chinese University of Hong Kong + The Hong Kong University of Science and Technology (Guangzhou) + The University of Hong Kong + Feeling AI`; `Jiangmiao Pang`]
+
+
 
 ***
 
@@ -664,6 +666,7 @@
 * **AC-DiT(arxiv2025.07)** AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation [[arxiv link](https://arxiv.org/abs/2507.01961)][[project link](https://ac-dit.github.io/)][[code|official](https://github.com/PKU-HMI-Lab/AC-DiT)][`Peking University + Nanjing University (NJU) + The Chinese University of Hong Kong (CUHK) + Beijing Academy of Artificial Intelligence (BAAI)`]
 
 
+
 ***
 
 ### ※ 9) Correction/Recovery/Understand of Manipulation Failures/Ambiguity/Spatial
@@ -760,6 +763,8 @@
 * **ActivePusher(arxiv2025.06)** ActivePusher: Active Learning and Planning with Residual Physics for Nonprehensile Manipulation [[arxiv link](https://arxiv.org/abs/2506.04646)][`Worcester Polytechnic Institute`]
 
 * **DexNoMa(year2025.06)** DexNoMa: Learning Geometry-Aware Nonprehensile Dexterous Manipulation [[openreview link](https://openreview.net/forum?id=ScRpDkgNJL)][[project link](https://dexnoma.github.io/)][`University of Southern California`]
+
+* 👍**ParticleFormer(arxiv2025.06)** ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2506.23126)][[project link](https://particleformer.github.io/)][`Stanford University + RAI Institute`][`ParticleFormer` captures `fine-grained multi-object interactions` between `rigid, deformable, and flexible materials`, trained directly from real-world robot perception data without an elaborate scene reconstruction.]
 
 
 
