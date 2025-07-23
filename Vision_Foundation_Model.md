@@ -159,6 +159,11 @@
 
 * **RefHuman(NIPS2024)(arxiv2024.10)** Referring Human Pose and Mask Estimation in the Wild [[openreview link](https://openreview.net/forum?id=fXEi3LVflp)][[arxiv link](https://arxiv.org/abs/2410.20508)][[code|official](https://github.com/bo-miao/RefHuman)][`University of Western Australia + Xidian University + Hunan University + Griffith University`][`Vision Language Application`]
 
+* 👍**Florence-VL(CVPR2025)(arxiv2024.12)** Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Florence-VL_Enhancing_Vision-Language_Models_with_Generative_Vision_Encoder_and_Depth-Breadth_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2412.04424)][[project link](https://jiuhaichen.github.io/florence-vl.github.io/)][[code|official](https://github.com/JiuhaiChen/Florence-VL)][`University of Maryland + Microsoft Research`]
+
+* 👍**GroundingSuite(ICCV2025)(arxiv2025.03)** GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding [[arxiv link](https://arxiv.org/abs/2503.10596)][[code|official](https://github.com/hustvl/GroundingSuite)][`Huazhong University of Science and Technology + vivo AI Lab`; `Xinggang Wang`]
+
+
 
 ***
 
