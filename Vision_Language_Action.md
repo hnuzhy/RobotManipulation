@@ -748,11 +748,17 @@
 
 * **PBPF(TRO2025)** Tracking and Control of Multiple Objects During Nonprehensile Manipulation in Clutter [[paper link](https://ieeexplore.ieee.org/abstract/document/11027446)][[pdf link](https://eprints.whiterose.ac.uk/id/eprint/227494/1/xu2025tracking.pdf)][[code|official](https://github.com/ZisongXu/PBPF)][`University of Leeds + American University of Beirut - Mediterraneo`]
 
+* **Quasi-Static-Pushing(TRO2025)** Quasi-Static Modeling and Controlling for Planar Pushing of Deformable Objects [[paper link](https://ieeexplore.ieee.org/abstract/document/10850721)][`SJTU`; `Hesheng Wang`]
+
+* **Robust-Pushing(IJRR2025)** Robust pushing: Exploiting quasi-static belief dynamics and contact-informed optimization [[paper link](https://journals.sagepub.com/doi/abs/10.1177/02783649251318046)][`EPFL + University of Oxford`]
+
 * 👍**COMBO-Grasp(arxiv2025.02)** COMBO-Grasp: Learning Constraint-Based Manipulation for Bimanual Occluded Grasping [[arxiv link](https://arxiv.org/abs/2502.08054)][[project link](https://combo-grasp.github.io/)][`Applied AI Lab, University of Oxford`]
 
 * 👍**HAMNET(RSS2025)(arxiv2025.02)** Hierarchical and Modular Network on Non-prehensile Manipulation in General Environments [[paper link](https://roboticsconference.org/program/papers/154/)][[arxiv link](https://arxiv.org/abs/2502.20843)][[project link](https://unicorn-hamnet.github.io/)][`KAIST`]
 
 * **Skill-RRT(arxiv2025.02)** SPIN: distilling Skill-RRT for long-horizon prehensile and non-prehensile manipulation [[arxiv link](https://arxiv.org/abs/2502.18015)][[project link](https://sites.google.com/view/skill-rrt)][`Korea Advanced Institute of Science and Technology (KAIST)`]
+
+* **Mobile-Pushing(ICRA2025)(arxiv2025.02)** Dynamic object goal pushing with mobile manipulators through model-free constrained reinforcement learning [[arxiv link](https://arxiv.org/abs/2502.01546)][`HHCM lab, IIT, Genoa 16163, Italy + DIBRIS, University of Genoa, Genoa 16145, Italy + RSL, ETH Z ̈urich, Z ̈urich 8092, Switzerland + NVIDIA`]
 
 * **DyWA(ICCV2025)(arxiv2025.03)** DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation [[arxiv link](https://arxiv.org/abs/2503.16806)][[project link](https://pku-epic.github.io/DyWA/)][[code|official](https://pku-epic.github.io/DyWA/)][`Peking University + Galbot`; `He Wang`]
 
