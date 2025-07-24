@@ -714,6 +714,8 @@
 
 * **Pushing-Skill(IJRR2019)** Pushing revisited: Differential flatness, trajectory planning, and stabilization [[paper link](https://journals.sagepub.com/doi/full/10.1177/0278364919872532)]
 
+* **MPC-LMS(IJRR2020)** Reactive planar non-prehensile manipulation with hybrid model predictive control [[paper link](https://journals.sagepub.com/doi/abs/10.1177/0278364920913938)][`Model Predictive Controller with Learned Mode Scheduling (MPC-LMS)`]
+
 * **Pregrasp-Manipulation(ICRA2020)(arxiv2020.02)** Learning Pregrasp Manipulation of Objects from Ungraspable Poses [[paper link](https://ieeexplore.ieee.org/abstract/document/9196982)][[arxiv link](https://arxiv.org/abs/2002.06344)][`Tsinghua University +  University of Edinburg`]
 
 * **Bimanual-Stir-fry(RAL2022)(arxiv2022.05)** Robot Cooking with Stir-fry: Bimanual Non-prehensile Manipulation of Semi-fluid Objects [[paper link](https://ieeexplore.ieee.org/abstract/document/9720489)][[arxiv link](https://arxiv.org/abs/2205.05960)][`The Chinese University of Hong Kong + Wuhan University + Idiap Research Institute`]
