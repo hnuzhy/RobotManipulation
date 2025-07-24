@@ -764,7 +764,7 @@
 
 * **DexNoMa(year2025.06)** DexNoMa: Learning Geometry-Aware Nonprehensile Dexterous Manipulation [[openreview link](https://openreview.net/forum?id=ScRpDkgNJL)][[project link](https://dexnoma.github.io/)][`University of Southern California`]
 
-* 👍**ParticleFormer(arxiv2025.06)** ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2506.23126)][[project link](https://particleformer.github.io/)][`Stanford University + RAI Institute`][`ParticleFormer` captures `fine-grained multi-object interactions` between `rigid, deformable, and flexible materials`, trained directly from real-world robot perception data without an elaborate scene reconstruction.]
+* 👍**ParticleFormer(arxiv2025.06)** ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2506.23126)][[project link](https://particleformer.github.io/)][`Stanford University + RAI Institute`][`ParticleFormer` captures `fine-grained multi-object interactions` between `rigid, deformable, and flexible materials`, trained directly from real-world robot perception data without an elaborate scene reconstruction.][This work proposes to use World Model to address tasks `Box Pushing` and `Rope Sweeping`.]
 
 
 
