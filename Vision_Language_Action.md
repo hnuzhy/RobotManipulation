@@ -427,7 +427,7 @@
 
 * **AffordDexGrasp(arxiv2025.03)** AffordDexGrasp: Open-set Language-guided Dexterous Grasp with Generalizable-Instructive Affordance [[arxiv link](https://arxiv.org/abs/2503.07360)][[project link](https://isee-laboratory.github.io/AffordDexGrasp/)][`Sun Yat-sen University`]
 
-* **2HandedAfforder(RSS2025 Workshop)(arxiv2025.03)** 2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos [[paper link](https://openreview.net/forum?id=HphpX7poOH)][[arxiv link](https://arxiv.org/abs/2503.09320)][[project link](https://sites.google.com/view/2handedafforder)][[code|official](https://github.com/pearl-robot-lab)][`PEARL Lab, TU Darmstadt, Germany`]
+* **2HandedAfforder(ICCV2025)(RSS2025 Workshop)(arxiv2025.03)** 2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos [[paper link](https://openreview.net/forum?id=HphpX7poOH)][[arxiv link](https://arxiv.org/abs/2503.09320)][[project link](https://sites.google.com/view/2handedafforder)][[code|official](https://github.com/pearl-robot-lab)][`PEARL Lab, TU Darmstadt, Germany`]
 
 * **GarmentPile(CVPR2025)(arxiv2025.03)** GarmentPile: Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation [[arxiv link](https://arxiv.org/abs/2503.09243)][[project link](https://garmentpile.github.io/)][[code|official](https://github.com/AlwaySleepy/Garment-Pile)][`PKU`; `Hao Dong`]
 
