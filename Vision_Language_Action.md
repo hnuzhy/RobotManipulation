@@ -1335,7 +1335,7 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 
 
-* **VIRT(ICML2025)(arxiv2024.10)** VIRT: Vision Instructed Robotic Transformer for Manipulation Learning [[arxiv link](https://arxiv.org/abs/2410.07169)][[project link](https://lizhuoling.github.io/VIRT_webpage/)][[code|official](https://github.com/Lizhuoling/VIRT)][`HKU + CVTE + HUST`][`This work has been ever rejected by [ICLR2025](https://openreview.net/forum?id=6o9Vy1m0Jv)`.]
+* **VIRT(ICML2025)(arxiv2024.10)** VIRT: Vision Instructed Robotic Transformer for Manipulation Learning [[arxiv link](https://arxiv.org/abs/2410.07169)][[project link](https://lizhuoling.github.io/VIRT_webpage/)][[code|official](https://github.com/Lizhuoling/VIRT)][[ICLR2025 rejected](https://openreview.net/forum?id=6o9Vy1m0Jv)][`HKU + CVTE + HUST`]
 
 * **SAM2Act(ICML2025)(arxiv2025.01)** SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2501.18564)][[project link](https://sam2act.github.io/)][[code|official](https://github.com/sam2act/sam2act)][`University of Washington + Universidad Católica San Pablo + NVIDIA + Allen Institute for Artifical Intelligence`]
 
