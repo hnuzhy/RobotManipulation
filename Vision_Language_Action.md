@@ -1343,8 +1343,7 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 
 
-* **AnyBimanual(ICCV2025)(arxiv2024.12)** AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2412.06779)][[project link](https://anybimanual.github.io/)][[code|official](https://github.com/TengBoYuu/AnyBimanual)][`Tsinghua University + Nanyang Technological University`][AnyBimanual is mainly built upon the `PerAct2`][This work has a different title [AnyBimanual: Transferring Single-arm Policy for General Bimanual Manipulation](https://openreview.net/forum?id=KLTqeiI7w0), which is rejected by `ICLR2025`.]
-
+* **AnyBimanual(ICCV2025)(arxiv2024.12)** AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2412.06779)][[project link](https://anybimanual.github.io/)][[code|official](https://github.com/TengBoYuu/AnyBimanual)][[ICLR2025 rejected](https://openreview.net/forum?id=KLTqeiI7w0)][`Tsinghua University + Nanyang Technological University`][AnyBimanual is mainly built upon the `PerAct2`]
 
 
 
