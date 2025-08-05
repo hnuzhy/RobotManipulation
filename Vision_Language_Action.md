@@ -365,6 +365,8 @@
 
 ### ※ 5) Visual Affordance/Correspondence/Keypoint/Gesture/Gaze for Manipulation
 
+* 👍**DualAfford(ICLR2023)(arxiv2022.07)** DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Manipulation [[openreview link](https://openreview.net/forum?id=I_YZANaz5X)][[arxiv link](https://arxiv.org/abs/2207.01971)][[project link](https://hyperplane-lab.github.io/DualAfford/)][[code|official](https://github.com/sxy7147/DualAfford)][`Peking University + Stanford University + NVIDIA Research + Tencent AI Lab + BAAI`; `Hao Dong`]
+
 * **OA-Gaze(ICCV2023)(arxiv2023.07)** Object-aware Gaze Target Detection [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Tonini_Object-aware_Gaze_Target_Detection_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2307.09662)][[code|official](https://github.com/francescotonini/object-aware-gaze-target-detection)][`University of Trento, Trento, Italy + Fondazione Bruno Kessler, Trento, Italy + University of Pisa, Pisa, Italy`]
 
 * **IAGNet(ICCV2023)(arxiv2023.03)** Grounding 3D Object Affordance from 2D Interactions in Images [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Grounding_3D_Object_Affordance_from_2D_Interactions_in_Images_ICCV_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2303.10437)][[project link](https://yyvhang.github.io/publications/IAG/index.html)][[code|official](https://github.com/yyvhang/IAGNet)][`University of Science and Technology of China + University of Rochester + Institute of Artificial Intelligence, Hefei Comprehensive National Science Center`]
