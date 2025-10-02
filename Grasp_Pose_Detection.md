@@ -193,7 +193,9 @@
 
 * **TD-TOG(arxiv2025.06)** TD-TOG Dataset: Benchmarking Zero-Shot and One-Shot Task-Oriented Grasping for Object Generalization [[arxiv link](https://arxiv.org/abs/2506.05576)][`University of Aberdeen`]
 
+* **Point2Act(arxiv2025.08)** Point2Act: Efficient 3D Distillation of Multimodal LLMs for Zero-Shot Context-Aware Grasping [[arxiv link](https://arxiv.org/abs/2508.03099)][[project link](https://sangminkim-99.github.io/point2act/)][`Seoul National University + Massachusetts Institute of Technology`]
 
+* **BiGraspFormer(arxiv2025.09)** BiGraspFormer: End-to-End Bimanual Grasp Transformer [[arxiv link](https://arxiv.org/abs/2509.19142)][[project link](https://sites.google.com/bigraspformer)][`Gwangju Institute of Science and Technology (GIST) + Korea Institute of Machinery & Materials (KIMM)`]
 
 
 
