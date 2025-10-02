@@ -338,8 +338,6 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **PartDexTOG(arxiv2025.05)** PartDexTOG: Generating Dexterous Task-Oriented Grasping via Language-driven Part Analysis [[arxiv link](https://arxiv.org/abs/2505.12294)][`National University of Defense Technology`]
 
-* **DexGarmentLab(arxiv2025.05)** DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy [[arxiv link](https://arxiv.org/abs/2505.11032)][[project link](https://wayrise.github.io/DexGarmentLab/)][[code|official](https://github.com/wayrise/DexGarmentLab)][`Peking University + University of California, Berkeley`; `Pieter Abbeel + Hao Dong`]
-
 * **DexMachina(arxiv2025.05)** DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2505.24853)][[project link](https://project-dexmachina.github.io/)][[code|official](https://github.com/MandiZhao/dexmachina)][`Stanford University + NVIDIA`; `Shuran Song`]
 
 * **RAPID-Hand(arxiv2025.06)** RAPID Hand: A Robust, Affordable, Perception-Integrated, Dexterous Manipulation Platform for Generalist Robot Autonomy [[arxiv link](https://arxiv.org/abs/2506.07490)][[project link](https://rapid-hand.github.io/)][`Sun Yat-sen University + University of California, Merced + Chinese Academy of Sciences, Institute of Automation`]
@@ -348,7 +346,7 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **ClutterDexGrasp(CoRL2025, oral)(arxiv2025.06)** ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes [[arxiv link](https://arxiv.org/abs/2506.14317)][[project link](https://clutterdexgrasp.github.io/)][[code|official](https://github.com/QiyangYan/ClutterDexGrasp)][`Peking University + PKU-AgiBot Lab + PKU-PsiBot Lab + Princeton University`; `Hao Dong`]
 
-* **HERMES(arxiv2025.08)** HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2508.20085)][[project link](https://gemcollector.github.io/HERMES/)][`Tsinghua University + Shanghai Qi Zhi Institute + Peking University`; `Huazhe Xu`]
+
 
 
 
