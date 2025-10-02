@@ -896,6 +896,8 @@
 
 * **Infinigen-Sim(arxiv2025.05)** Infinigen-Sim: Procedural Generation of Articulated Simulation Assets [[arxiv link](https://arxiv.org/abs/2505.10755)][[project link](https://princeton-vl.github.io/infinigen-sim/)][[code|official](https://github.com/princeton-vl/infinigen)][`Princeton University + McGill University + Cisco`; `Jia Deng`][Infinigen-Sim is a `toolkit` for procedurally generating high-quality `articulated assets` for `robotics simulation`.]
 
+* **DexGarmentLab(arxiv2025.05)** DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy [[arxiv link](https://arxiv.org/abs/2505.11032)][[project link](https://wayrise.github.io/DexGarmentLab/)][[code|official](https://github.com/wayrise/DexGarmentLab)][`Peking University + University of California, Berkeley`; `Pieter Abbeel + Hao Dong`]
+
 * **ArtVIP(arxiv2025.06)** ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning [[arxiv link](https://arxiv.org/abs/2506.04941)][[project link](https://x-humanoid-artvip.github.io/)][[code|official](https://github.com/x-humanoid-artvip/x-humanoid-artvip.github.io)][`Beijing Innovation Center of Humanoid Robotics + Beijing Institute of Architectural Design`]
 
 * **PhysRig(ICCV2025)(arxiv2025.06)** PhysRig: Differentiable Physics-Based Skinning and Rigging Framework for Realistic Articulated Object Modeling [[paper link]()][[arxiv link](https://arxiv.org/abs/2506.20936)][[project link](https://physrig.github.io/)][[code|official](https://github.com/haoz19/PhysRig)][`University of Illinois Urbana-Champaign + Stability AI`]
@@ -982,6 +984,8 @@
 * 👍**EyeRobot(arxiv2025.06)** Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop [[arxiv link](https://arxiv.org/abs/2506.10968)][[project link](https://www.eyerobot.net/)][[code|official](https://github.com/kerrj/eyerobot)][`UC Berkeley`]
 
 * 👍**ViA(arxiv2025.06)** Vision in Action: Learning Active Perception from Human Demonstrations [[arxiv link](https://arxiv.org/abs/2506.15666)][[project link](https://vision-in-action.github.io/)][[code|official](https://github.com/haoyu-x/vision-in-action)][`Stanford`; `Shuran Song`]
+
+* **HERMES(arxiv2025.08)** HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2508.20085)][[project link](https://gemcollector.github.io/HERMES/)][`Tsinghua University + Shanghai Qi Zhi Institute + Peking University`; `Huazhe Xu`]
 
 * 👍**ActivePose(arxiv2025.09)** ActivePose: Active 6D Object Pose Estimation and Tracking for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2509.11364)][`Karlsruhe Institute of Technology, Germany + Shanghai Jiao Tong University, China + Istituto Italiano di Tecnologia, Italy + The Hong Kong Polytechnic University, Hong Kong + D-Robotics`]
 
