@@ -73,6 +73,11 @@
 
 * 👍👍**HaWoR(CVPR2025 Highlight)(arxiv2025.01)** HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_HaWoR_World-Space_Hand_Motion_Reconstruction_from_Egocentric_Videos_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2501.02973)][[project link](https://hawor-project.github.io/)][[code|official](https://github.com/ThunderVVV/HaWoR)][`Shanghai Jiao Tong University, China + Imperial College London, UK`]
 
+* **BaseNet-HaMeR(arxiv2025.08)** Enhancing Monocular 3D Hand Reconstruction with Learned Texture Priors [[arxiv link](https://arxiv.org/abs/2508.09629)][`ICS-FORTH + University of Texas at Austin + University of Crete`]
+
+* **HandUncertainty(BMVC2025)(arxiv2025.09)** Learning Correlation-aware Aleatoric Uncertainty for 3D Hand Pose Estimation [[arxiv link](https://arxiv.org/abs/2509.01242)][[project link](https://hand-uncertainty.github.io/)][`POSTECH + KAIST`]
+
+
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
 ***
@@ -321,7 +326,9 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **DexGrasp-Anything(CVPR2025)(arxiv2025.03)** DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness [[arxiv link](https://arxiv.org/abs/2503.08257)][[project link](https://dexgraspanything.github.io/)][[code|official](https://github.com/4DVLab/DexGrasp-Anything)][`ShanghaiTech University`][It used the `ShadowHand` for real experiments]
 
-* **SeqMultiGrasp(arxiv2025.03)** Sequential Multi-Object Grasping with One Dexterous Hand [[arxiv link](https://arxiv.org/abs/2503.09078)][[project link](https://hesic73.github.io/SeqMultiGrasp/)][`University of Southern California + Fudan University + INSAIT`]
+* **SeqMultiGrasp(IROS2025)(arxiv2025.03)** Sequential Multi-Object Grasping with One Dexterous Hand [[arxiv link](https://arxiv.org/abs/2503.09078)][[project link](https://hesic73.github.io/SeqMultiGrasp/)][[code|official](https://github.com/hesic73/SeqMultiGrasp)][`University of Southern California + Fudan University, 3INSAIT`]
+
+* **DexSinGrasp(arxiv2025.04)** DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Densely Cluttered Environments [[arxiv link](https://arxiv.org/abs/2504.04516)][[project link](https://nus-lins-lab.github.io/dexsingweb/)][[code|official](https://github.com/DavidLXu/DexSinGrasp)][`National University of Singapore`; `Lin Shao`]
 
 * **OFA(arxiv2025.05)** Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2505.15098)][[project link](https://yihanghku.github.io/OFA/)][`JD Explore Academy, JD Company + Beijing Jiaotong University`]
 
@@ -338,6 +345,10 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 * **RAPID-Hand(arxiv2025.06)** RAPID Hand: A Robust, Affordable, Perception-Integrated, Dexterous Manipulation Platform for Generalist Robot Autonomy [[arxiv link](https://arxiv.org/abs/2506.07490)][[project link](https://rapid-hand.github.io/)][`Sun Yat-sen University + University of California, Merced + Chinese Academy of Sciences, Institute of Automation`]
 
 * **Grasp2Grasp(arxiv2025.06)** Grasp2Grasp: Vision-Based Dexterous Grasp Translation via Schrödinger Bridges [[arxiv link](https://arxiv.org/abs/2506.02489)][`Princeton University + San Jose State University + Lockheed Martin Corporation`]
+
+* **ClutterDexGrasp(CoRL2025, oral)(arxiv2025.06)** ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes [[arxiv link](https://arxiv.org/abs/2506.14317)][[project link](https://clutterdexgrasp.github.io/)][[code|official](https://github.com/QiyangYan/ClutterDexGrasp)][`Peking University + PKU-AgiBot Lab + PKU-PsiBot Lab + Princeton University`; `Hao Dong`]
+
+* **HERMES(arxiv2025.08)** HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2508.20085)][[project link](https://gemcollector.github.io/HERMES/)][`Tsinghua University + Shanghai Qi Zhi Institute + Peking University`; `Huazhe Xu`]
 
 
 
