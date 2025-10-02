@@ -170,9 +170,14 @@
 ### ⭐4) Tracking Anything Series
 *for the `2d/3d visual tracking` task*
 
+* **EgoSegTrack(ACCV2024)(arxiv2024.08)** 3D-Aware Instance Segmentation and Tracking in Egocentric Videos [[paper link](https://openaccess.thecvf.com/content/ACCV2024/html/Bhalgat_3D-Aware_Instance_Segmentation_and_Tracking_in_Egocentric_Videos_ACCV_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2408.09860)][`Visual Geometry Group, University of Oxford + NAVER LABS Europe`]
+
 * 👍**SMITE(ICLR2025)(arxiv2024.10)** SMITE: Segment Me In TimE [[arxiv link](https://arxiv.org/abs/2410.18538)][[project link](https://segment-me-in-time.github.io/)][[code|official](https://github.com/alimohammadiamirhossein/smite/)][[weixin blog](https://mp.weixin.qq.com/s/b2b6NxyaVpjGO8_pgL7KFA)][`Simon Fraser University + Autodesk Research + University of Toronto + Google DeepMind`]
 
 * **EfficientTAM(arxiv2024.11)** Efficient Track Anything [[arxiv link](https://arxiv.org/abs/2411.18933)][[project link](https://yformer.github.io/efficient-track-anything/)][[code|official](https://github.com/yformer/EfficientTAM)][`Meta AI + Nanyang Technological University`]
+
+* **EgoMask(ICCV2025)(arxiv2025.08)** Fine-grained Spatiotemporal Grounding on Egocentric Videos [[arxiv link](https://arxiv.org/abs/2508.00518)][[huggingface dataset](https://huggingface.co/datasets/XuuuXYZ/EgoMask)][[code|official](https://github.com/LaVi-Lab/EgoMask)][`The Chinese University of Hong Kong`]
+
 
 
 ***
