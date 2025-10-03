@@ -893,8 +893,6 @@
 
 * **HumanVLA(NIPS2024)(arxiv2024.06)** HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid [[openreview link](https://openreview.net/forum?id=pjD08dtAh0)][[arxiv link](https://arxiv.org/abs/2406.19972)][[code|official](https://github.com/AllenXuuu/HumanVLA)][`Shanghai Jiao Tong University + Tencent Robotics X`; `Yong-Lu Li + Cewu Lu`]
 
-* **HumanRobotAlign(CVPR2025)(arxiv2024.06)** Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Mitigating_the_Human-Robot_Domain_Discrepancy_in_Visual_Pre-training_for_Robotic_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2406.14235)][[project link](https://jiaming-zhou.github.io/projects/HumanRobotAlign/)][`HKUST-GZ`]
-
 * **GAAF-DEX(TNNLS2025)(arxiv2024.07)** Learning Granularity-Aware Affordances from Human-Object Interaction for Tool-Based Functional Dexterous Grasping [[paper link](https://ieeexplore.ieee.org/abstract/document/11104205)][[arxiv link](https://arxiv.org/abs/2407.00614)][[code|official](https://github.com/PopeyePxx/GAAF-DEX)][`Hunan University`; `Yaonan Wang`]
 
 * **DexH2R(arxiv2024.11)** DexH2R: Task-oriented Dexterous Manipulation from Human to Robots [[arxiv link](https://arxiv.org/abs/2411.04428)][`University of California, Berkeley`]
@@ -952,6 +950,8 @@
 * **ORION(CoRL2024 Workshop)(arxiv2024.05)** Vision-based Manipulation from Single Human Video with Open-World Object Graphs [[openreview link](https://openreview.net/forum?id=H1Jz8FFnve)][[arxiv link](https://arxiv.org/abs/2405.20321)][[project link](https://ut-austin-rpl.github.io/ORION-release/)][`The University of Texas at Austin + Sony AI`; `Yuke Zhu`][`Learning from action labels free human videos`][We investigate the problem of `imitating robot manipulation` from `a single human video` in the `open-world setting`, where `a robot must learn to manipulate novel objects from one video demonstration`.]
 
 * 👍**ScrewMimic(RSS2024, Outstanding Student Paper Award Finalist)(arxiv2024.05)** ScrewMimic: Bimanual Imitation from Human Videos with Screw Space Projection [[arxiv link](https://arxiv.org/abs/2405.03666)][[project link](https://robin-lab.cs.utexas.edu/ScrewMimic/)][[code|official](https://github.com/UT-Austin-RobIn/ScrewMimic)][`The University of Texas at Austin`]
+
+* **HumanRobotAlign(CVPR2025)(arxiv2024.06)** Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Mitigating_the_Human-Robot_Domain_Discrepancy_in_Visual_Pre-training_for_Robotic_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2406.14235)][[project link](https://jiaming-zhou.github.io/projects/HumanRobotAlign/)][`HKUST-GZ`]
 
 * **HRP(RSS2024)(arxiv2024.07)** HRP: Human Affordances for Robotic Pre-Training [[paper link](https://roboticsproceedings.org/rss20/p068.pdf)][[arxiv link](https://arxiv.org/abs/2407.18911)][[project link](https://hrp-robot.github.io/)][[code|official](https://github.com/SudeepDasari/data4robotics/tree/hrp_release)][`Carnegie Mellon University`]
 
