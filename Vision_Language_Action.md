@@ -884,6 +884,9 @@
 
 ### ※ 12) Robot Manipulation with Human-Robot Interaction/Collaboration
 
+* **Handover-Sim2Sim(CVPR2023, highlight)(arxiv2023.03)** Learning Human-to-Robot Handovers from Point Clouds [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Christen_Learning_Human-to-Robot_Handovers_From_Point_Clouds_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.17592)][[project link](https://handover-sim2real.github.io/)][[code|official](https://github.com/NVlabs/handover-sim2real)][`ETH Zurich + NVIDIA + University of Washington`; `Dieter Fox`]
+
+* **SynH2R(ICRA2024)(arxiv2023.11)** SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers [[paper link](https://ieeexplore.ieee.org/abstract/document/10610694)][[arxiv link](https://arxiv.org/abs/2311.05599)][[project link](https://eth-ait.github.io/synthetic-handovers/)][`Department of Computer Science, ETH Zurich + NVIDIA`]
 
 * 👍**GenH2R(CVPR2024)(arxiv2024.01)** GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation Demonstration and Imitation [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_GenH2R_Learning_Generalizable_Human-to-Robot_Handover_via_Scalable_Simulation_Demonstration_and_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2401.00929)][[project link](https://genh2r.github.io/)][[code|official](https://github.com/chenjy2003/genh2r)][`Tsinghua University + Shanghai Artificial Intelligence Laboratory + Shanghai Qi Zhi Institute`]
 
@@ -899,11 +902,15 @@
 
 * 👍**MT-Policy(ICRA2025)(arxiv2025.01)** Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning [[arxiv link](https://arxiv.org/abs/2501.06994)][[project link](https://portal-cornell.github.io/motion_track_policy/)][`Cornell University + Stanford University`]
 
+* **MobileH2R(CVPR2025)(arxiv2025.01)** MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_MobileH2R_Learning_Generalizable_Human_to_Mobile_Robot_Handover_Exclusively_from_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2501.04595)][[project link](https://mobileh2r.github.io/)][`Tsinghua University + Galbot + Peking University + Shanghai Artificial Intelligence Laboratory + Shanghai Qi Zhi Institute`; `He Wang`]
+
 * **InterMimic(CVPR2025 highlight)(arxiv2025.02)** InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions [[arxiv link](https://arxiv.org/abs/2502.20390)][[project link](https://sirui-xu.github.io/InterMimic/)][[code|official](https://github.com/Sirui-Xu/InterMimic)][`University of Illinois Urbana Champaign + Electronic Arts`]
 
 * **Human2Robot(arxiv2025.02)** Human2Robot: Learning Robot Actions from Paired Human-Robot Videos [[arxiv link](https://arxiv.org/abs/2502.16587)][`Fudan University`]
 
 * 👍**RHINO(arxiv2025.02)** RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations [[arxiv link](https://arxiv.org/abs/2502.13134)][[project link](https://humanoid-interaction.github.io/)][[code|official](https://github.com/TimerChen/RHINO)][`Shanghai Jiao Tong University`; `Weinan Zhang`]
+
+* **Dyn-R2H-Handover(ICRA2025)(arxiv2025.02)** Learning-based Dynamic Robot-to-Human Handover [[arxiv link](https://arxiv.org/abs/2502.12602)][[project link](https://zerotohero7886.github.io/dyn-r2h-handover/)][`Korea University + Queen's University`]
 
 * **Sketch-to-Skill(arxiv2025.03)** Sketch-to-Skill: Bootstrapping Robot Learning with Human Drawn Trajectory Sketches [[arxiv link](https://arxiv.org/abs/2503.11918)][[openreview link (ICLR2025, rejected)](https://openreview.net/forum?id=ww7JqIf494)][`University of Maryland, College Park, Maryland`]
 
@@ -920,6 +927,10 @@
 * 👍**ViA(arxiv2025.06)** Vision in Action: Learning Active Perception from Human Demonstrations [[arxiv link](https://arxiv.org/abs/2506.15666)][[project link](https://vision-in-action.github.io/)][[code|official](https://github.com/haoyu-x/vision-in-action)][`Stanford`; `Shuran Song`]
 
 * **HAPO(arxiv2025.06)** Robotic Policy Learning via Human-assisted Action Preference Optimization [[arxiv link](https://arxiv.org/abs/2506.07127)][[project link](https://gewu-lab.github.io/hapo_human_assisted_preference_optimization/)][`Renmin University of China + ByteDance Seed`]
+
+* **DexH2R(ICCV2025)(arxiv2025.06)** DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover [[arxiv link](https://arxiv.org/abs/2506.23152)][[project link](https://dexh2r.github.io/)][[code|official](https://github.com/4DVLab/DexH2R)][`ShanghaiTech University + The University of Hong Kong`]
+
+* **H2RH-SGS(arxiv2025.07)** Learning human-to-robot handovers through 3D scene reconstruction [[arxiv link](https://arxiv.org/abs/2507.08726)][[project link](https://qm-ipalab.github.io/H2RH-SGS/)][[code|official](https://github.com/QM-IPAlab/H2RH-SGS)][`Queen Mary University of London + Idiap Research Institute + École Polytechnique Fédérale de Lausanne`]
 
 * **HERMES(arxiv2025.08)** HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2508.20085)][[project link](https://gemcollector.github.io/HERMES/)][`Tsinghua University + Shanghai Qi Zhi Institute + Peking University`; `Huazhe Xu`]
 
