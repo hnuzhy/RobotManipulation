@@ -652,8 +652,6 @@
 
 * **VLA-Diffu-Switch(arxiv2024.10)** Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand [[arxiv link](https://arxiv.org/abs/2410.14022)][[project link](https://vla-diffu-switch.github.io/)][`EPFL`]
 
-* 👍**LAPA(ICLR2025)(arxiv2024.10)** Latent Action Pretraining from Videos [[openreview link](https://openreview.net/forum?id=VYOe2eBQeh)][[arxiv link](https://arxiv.org/abs/2410.11758)][[project link](https://latentactionpretraining.github.io/)][[code|official](https://github.com/LatentActionPretraining/LAPA)][`KAIST + University of Washington + Microsoft Research + NVIDIA + Allen Institute for AI`; `Dieter Fox`]
-
 * 👍**RDT-1B(ICLR2025)(arxiv2024.10)** RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[openreview link](https://openreview.net/forum?id=yAzN4tz7oI)][[arxiv link](https://arxiv.org/abs/2410.07864)][[project link](https://rdt-robotics.github.io/rdt-robotics/)][[code|official](https://github.com/thu-ml/RoboticsDiffusionTransformer)][`Tsinghua University`; `Jun Zhu`]
 
 * 👍**CogACT(arxiv2024.11)** CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2411.19650)][[project link](https://cogact.github.io/)][[code|official](https://github.com/microsoft/CogACT)][`Microsoft Research Asia + Tsinghua University + USTC + Institute of Microelectronics, CAS`]
@@ -957,7 +955,7 @@
 
 * **HRP(RSS2024)(arxiv2024.07)** HRP: Human Affordances for Robotic Pre-Training [[paper link](https://roboticsproceedings.org/rss20/p068.pdf)][[arxiv link](https://arxiv.org/abs/2407.18911)][[project link](https://hrp-robot.github.io/)][[code|official](https://github.com/SudeepDasari/data4robotics/tree/hrp_release)][`Carnegie Mellon University`]
 
-* **R+X(ICRA2025)(arxiv2024.07)** R+X: Retrieval and Execution from Everyday Human Videos [[arxiv link](https://arxiv.org/abs/2407.12957)][[project link](https://www.robot-learning.uk/r-plus-x)][`The Robot Learning Lab at Imperial College London`; `Edward Johns`][`Learning from action labels free human videos`]
+* 👍**R+X(ICRA2025)(arxiv2024.07)** R+X: Retrieval and Execution from Everyday Human Videos [[arxiv link](https://arxiv.org/abs/2407.12957)][[project link](https://www.robot-learning.uk/r-plus-x)][`The Robot Learning Lab at Imperial College London`; `Edward Johns`][`Learning from action labels free human videos`]
 
 * **TieBot(CoRL2024, Oral)(arxiv2024.07)** TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach [[openreview link](https://openreview.net/forum?id=Si2krRESZb)][[arxiv link](https://arxiv.org/abs/2407.03245)][[project link](https://tiebots.github.io/)][`National University of Singapore +  Shanghai Jiao Tong University + Nanjing University`; `Cewu Lu`][`Learning from action labels free human videos`]
 
@@ -977,6 +975,8 @@
 
 * **OKAMI(CoRL2024, Oral)(arxiv2024.10)** OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [[openreview link](https://openreview.net/forum?id=URj5TQTAXM)][[arxiv link](https://arxiv.org/abs/2410.11792)][[project link](https://sites.google.com/view/okami-corl2024)][`UT Austin + NVIDIA Research`; `Yuke Zhu`][It enables a humanoid robot to imitate manipulation skills from `a single human video demonstration`.]
 
+* 👍**LAPA(ICLR2025)(arxiv2024.10)** Latent Action Pretraining from Videos [[openreview link](https://openreview.net/forum?id=VYOe2eBQeh)][[arxiv link](https://arxiv.org/abs/2410.11758)][[project link](https://latentactionpretraining.github.io/)][[code|official](https://github.com/LatentActionPretraining/LAPA)][`KAIST + University of Washington + Microsoft Research + NVIDIA + Allen Institute for AI`; `Dieter Fox`]
+
 * **MocapRobot(arxiv2025.01)** Learning to Transfer Human Hand Skills for Robot Manipulations [[arxiv link](https://arxiv.org/abs/2501.04169)][[project link](https://rureadyo.github.io/MocapRobot/)][`Seoul National University + Carnegie Mellon University`]
 
 * 👍👍**FUNCTO(arxiv2025.02)** FUNCTO: Function-Centric One-Shot Imitation Learning for Tool Manipulation [[arxiv link](https://arxiv.org/abs/2502.11744)][[project link](https://sites.google.com/view/functo)][`Southern University of Science and Technology + National University of Singapore`][A key challenge lies in establishing functional correspondences between `demonstration` and `test tools`]
@@ -989,7 +989,7 @@
 
 * 👍**Tool-as-Interface(CoRL2025)(arxiv2025.04)** Tool-as-Interface: Learning Robot Policies from Observing Human Tool Use [[arxiv link](https://arxiv.org/abs/2504.04612)][[project link](https://tool-as-interface.github.io/)][[code|official](https://github.com/Tool-as-Interface/Tool_as_Interface)][`University of Illinois Urbana-Champaign + UT Austin + Columbia University`]
 
-* 👍👍**DexUMI(arxiv2025.05)** DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2505.21864)][[project link](https://dex-umi.github.io/)][[code|official](https://github.com/real-stanford/DexUMI)][`Stanford University + Columbia University + J.P. Morgan AI Research + Carnegie Mellon University + NVIDIA`]
+* 👍👍**DexUMI(CoRL2025, Best Paper Final List)(arxiv2025.05)** DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2505.21864)][[project link](https://dex-umi.github.io/)][[code|official](https://github.com/real-stanford/DexUMI)][`Stanford University + Columbia University + J.P. Morgan AI Research + Carnegie Mellon University + NVIDIA`]
 
 * 👍**HANDRetrieval(arxiv2025.05)** HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval [[arxiv link](https://arxiv.org/abs/2505.20455)][[project link](https://liralab.usc.edu/handretrieval/)][[code|official](https://github.com/handretrieval/hand)][`University of Southern California`][We introduce HAND, a `simple and time-efficient` method for teaching robots manipulation tasks through `human hand demonstrations`.]
 
@@ -1007,9 +1007,9 @@
 
 * **EgoVLA(arxiv2025.07)** EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos [[arxiv link](https://arxiv.org/abs/2507.12440)][[project link](https://rchalyang.github.io/EgoVLA/)][`UC San Diego + UIUC + MIT + NVIDIA`; `Xiaolong Wang`]
 
-* **Being-H0(arxiv2025.07)** Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos [[arxiv link](https://arxiv.org/abs/2507.15597)][[project link](https://beingbeyond.github.io/Being-H0/)][[code|official](https://github.com/BeingBeyond/Being-H0)][`Peking University + Renmin University of China + BeingBeyond`]
+* 👍**Being-H0(arxiv2025.07)** Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos [[arxiv link](https://arxiv.org/abs/2507.15597)][[project link](https://beingbeyond.github.io/Being-H0/)][[code|official](https://github.com/BeingBeyond/Being-H0)][`Peking University + Renmin University of China + BeingBeyond`]
 
-* **FMimic(IJRR2025)(arxiv2025.07)** FMimic: Foundation Models are Fine-grained Action Learners from Human Videos [[arxiv link](https://arxiv.org/abs/2507.20622)][[project link](https://fmimic-page.github.io/)][`Beijing Institute of Technology + The University of Hong Kong`]
+* 👍**FMimic(IJRR2025)(arxiv2025.07)** FMimic: Foundation Models are Fine-grained Action Learners from Human Videos [[arxiv link](https://arxiv.org/abs/2507.20622)][[project link](https://fmimic-page.github.io/)][`Beijing Institute of Technology + The University of Hong Kong`]
 
 * **MimicFunc(CoRL2025)(arxiv2025.08)** MimicFunc: Imitating Tool Manipulation from a Single Human Video via Functional Correspondence [[arxiv link](https://arxiv.org/abs/2508.13534)][[project link](https://sites.google.com/view/mimicfunc)][[code|official](https://github.com/mkt1412/FUNCTO_public)][`Southern University of Science and Technology + National University of Singapore`][`Tool Manipulation`, `Imitation from Human Video`]
 
