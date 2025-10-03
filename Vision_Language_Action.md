@@ -20,10 +20,12 @@
   * **[※ 9) Correction/Recovery/Understand of Manipulation Failures/Ambiguity/Spatial](#-9-CorrectionRecoveryUnderstand-of-Manipulation-FailuresAmbiguitySpatial)**
   * **[※ 10) Non-Prehensile/Extrinsic-based/Ungraspable Robot Manipulation](#-10-Non-PrehensileExtrinsic-basedUngraspable-Robot-Manipulation)**
   * **[※ 11) Articulated/Deformable Objects Related Robot Manipulation](#-11-ArticulatedDeformable-Objects-Related-Robot-Manipulation)**
-  * **[※ 12) Manipulation with Mobility/Locomotion/Aircraft/ActiveCam/Whole-Body](#-12-Manipulation-with-MobilityLocomotionAircraftActiveCamWhole-Body)**
-  * **[※ 13) Prediction/Optimization/Control of Embodied Agent(s)](#-13-PredictionOptimizationControl-of-Embodied-Agents)**
-  * **[※ 14) Simulation/Synthesis/Generation/World-Model for Embodied AI](#-14-SimulationSynthesisGenerationWorld-Model-for-Embodied-AI)**
-  * **[※ 15) Other Robot Manipulation Conferences](#-15-Other-Robot-Manipulation-Conferences)**
+  * **[※ 12) Robot Manipulation with Human-Robot Interaction/Collaboration](#-12-Robot-Manipulation-with-Human-Robot-InteractionCollaboration)**
+  * **[※ 13) Robot Manipulation via Learning from Human Videos/Demonstrations](#-13-Robot-Manipulation-via-Learning-from-Human-VideosDemonstrations)**
+  * **[※ 14) Manipulation with Mobility/Locomotion/Aircraft/ActiveCam/Whole-Body](#-14-Manipulation-with-MobilityLocomotionAircraftActiveCamWhole-Body)**
+  * **[※ 15) Prediction/Optimization/Control of Embodied Agent(s)](#-15-PredictionOptimizationControl-of-Embodied-Agents)**
+  * **[※ 16) Simulation/Synthesis/Generation/World-Model for Embodied AI](#-16-SimulationSynthesisGenerationWorld-Model-for-Embodied-AI)**
+  * **[※ 17) Other Robot Manipulation Conferences/Journals](#-17-Other-Robot-Manipulation-ConferencesJournals)**
 
 ***
 ***
@@ -906,10 +908,25 @@
 
 
 
+***
+
+### ※ 12) Robot Manipulation with Human-Robot Interaction/Collaboration
+
+
+
+
 
 ***
 
-### ※ 12) Manipulation with Mobility/Locomotion/Aircraft/ActiveCam/Whole-Body
+### ※ 13) Robot Manipulation via Learning from Human Videos/Demonstrations
+
+
+
+
+
+***
+
+### ※ 14) Manipulation with Mobility/Locomotion/Aircraft/ActiveCam/Whole-Body
 
 * 👍**MobileALOHA(CoRL2024)(arxiv2024.01)** Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[openreview link](https://openreview.net/forum?id=FO6tePGRZj)][[paper link](https://proceedings.mlr.press/v270/fu25b.html)][[arxiv link](https://arxiv.org/abs/2401.02117)][[project link](https://mobile-aloha.github.io/)][[code|official](https://github.com/MarkFzp/mobile-aloha)][`Stanford University`; `Chelsea Finn`]
 
@@ -993,7 +1010,7 @@
 
 ***
 
-### ※ 13) Prediction/Optimization/Control of Embodied Agent(s)
+### ※ 15) Prediction/Optimization/Control of Embodied Agent(s)
 
 * **GATO(TMLR2022)(arxiv2022.05)** A Generalist Agent [[openreview link](https://openreview.net/forum?id=1ikK0kHjvj)]][[arxiv link](https://arxiv.org/abs/2205.06175)][[offifial blog](https://deepmind.google/discover/blog/a-generalist-agent/)][[code|not official](https://github.com/LAS1520/Gato-A-Generalist-Agent)][`Deepmind`]
 
@@ -1020,7 +1037,7 @@
 
 ***
 
-### ※ 14) Simulation/Synthesis/Generation/World-Model for Embodied AI
+### ※ 16) Simulation/Synthesis/Generation/World-Model for Embodied AI
 
 * 👍**SAPIEN(CVPR2020)(arxiv2020.03)** SAPIEN: A SimulAted Part-based Interactive ENvironment [[paper link](http://openaccess.thecvf.com/content_CVPR_2020/html/Xiang_SAPIEN_A_SimulAted_Part-Based_Interactive_ENvironment_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/2003.08515)][[project link](https://sapien.ucsd.edu/)][[code|official](https://github.com/haosulab/SAPIEN)][`UC San Diego + Stanford University + Simon Fraser University + Google Research + UC Los Angeles`][SAPIEN is a `realistic` and `physics-rich` simulated environment that hosts a large-scale set for `articulated objects`. It enables various `robotic vision and interaction tasks` that require detailed `part-level understanding`. SAPIEN is a collaborative effort between researchers at `UCSD`, `Stanford` and `SFU`.]
 
@@ -1098,7 +1115,7 @@
 
 ***
 
-### ※ 15) Other Robot Manipulation Conferences
+### ※ 17) Other Robot Manipulation Conferences/Journals
 
  ***
  **[Years before 2024]**
