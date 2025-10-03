@@ -59,6 +59,7 @@
 
 * **VLP-SAM(arxiv2025.02)** VLP-SAM: Vision and Language reference Prompt into SAM [[arxiv link](https://arxiv.org/abs/2502.00719)][[code|official](https://github.com/kosukesakurai1/VLP-SAM)][`Waseda University`][It is still based on the large `sam_vit_h_4b8939.pth` weight, and not user-friendly for real-time inference.][`Reference Detection and Segmentation`]
 
+* **Matcher++(IJCV2025)** Segment Anything in Context with Vision Foundation Models [[paper link](https://link.springer.com/article/10.1007/s11263-025-02517-0)][[code|official](https://github.com/aim-uofa/Matcher)][`Zhejiang University + Beijing Academy of Artificial Intelligence`][the conference paper is `(ICLR2024)(arxiv2023.05) Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching` [[openreview link](https://openreview.net/forum?id=yzRXdhk2he)][[arxiv link](https://arxiv.org/abs/2305.13310)] ]
 
 
 ***
