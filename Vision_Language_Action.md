@@ -912,12 +912,6 @@
 
 * 👍**RoboCopilot(arxiv2025.03)** RoboCopilot: Human-in-the-loop Interactive Imitation Learning for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2503.07771)][`University of California, Berkeley`; `Pieter Abbeel`]
 
-* 👍**HumanoidPolicy(arxiv2025.03)** Humanoid Policy ~ Human Policy [[arxiv link](https://arxiv.org/abs/2503.13441)][[project link](https://human-as-robot.github.io/)][[code|official](https://github.com/RogerQi/human-policy)][`UC San Diego + CMU + University of Washington + MIT + Apple`; `Xiaolong Wang`]
-
-* **Human2Sim2Robot(arxiv2025.04)** Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration [[arxiv link](https://arxiv.org/abs/2504.12609)][[project link](https://human2sim2robot.github.io/)][[code|official](https://github.com/tylerlum/human2sim2robot)][`Stanford University`]
-
-* **H2R(arxiv2025.05)** H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos [[arxiv link](https://arxiv.org/abs/2505.11920)][`Peking University + University of Washington`]
-
 * 👍**ViA(arxiv2025.06)** Vision in Action: Learning Active Perception from Human Demonstrations [[arxiv link](https://arxiv.org/abs/2506.15666)][[project link](https://vision-in-action.github.io/)][[code|official](https://github.com/haoyu-x/vision-in-action)][`Stanford`; `Shuran Song`]
 
 * **HAPO(arxiv2025.06)** Robotic Policy Learning via Human-assisted Action Preference Optimization [[arxiv link](https://arxiv.org/abs/2506.07127)][[project link](https://gewu-lab.github.io/hapo_human_assisted_preference_optimization/)][`Renmin University of China + ByteDance Seed`]
@@ -998,9 +992,15 @@
 
 * **FreePose(ICLR2025)(arxiv2025.03)** 6D Object Pose Tracking in Internet Videos for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2503.10307)][[project link](https://ponimatkin.github.io/freepose/)][[code|official](https://github.com/ponimatkin/freepose)][`Czech Technical University in Prague + H Company`]
 
+* 👍**HumanoidPolicy(arxiv2025.03)** Humanoid Policy ~ Human Policy [[arxiv link](https://arxiv.org/abs/2503.13441)][[project link](https://human-as-robot.github.io/)][[code|official](https://github.com/RogerQi/human-policy)][`UC San Diego + CMU + University of Washington + MIT + Apple`; `Xiaolong Wang`]
+
+* **Human2Sim2Robot(CoRL2025)(arxiv2025.04)** Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration [[arxiv link](https://arxiv.org/abs/2504.12609)][[project link](https://human2sim2robot.github.io/)][[code|official](https://github.com/tylerlum/human2sim2robot)][`Stanford University`]
+
 * **SLeRP(arxiv2025.04)** Slot-Level Robotic Placement via Visual Imitation from Single Human Video [[arxiv link](https://arxiv.org/abs/2504.01959)][[project link](https://ddshan.github.io/slerp/)][`NVIDIA + Univ. of Michigan + Univ. of Washington + New York University`; `Dieter Fox`][`Slot-Level Placement`]
 
 * 👍**Tool-as-Interface(CoRL2025)(arxiv2025.04)** Tool-as-Interface: Learning Robot Policies from Observing Human Tool Use [[arxiv link](https://arxiv.org/abs/2504.04612)][[project link](https://tool-as-interface.github.io/)][[code|official](https://github.com/Tool-as-Interface/Tool_as_Interface)][`University of Illinois Urbana-Champaign + UT Austin + Columbia University`]
+
+* **H2R(arxiv2025.05)** H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos [[arxiv link](https://arxiv.org/abs/2505.11920)][`Peking University + University of Washington`]
 
 * 👍👍**DexUMI(CoRL2025, Best Paper Final List)(arxiv2025.05)** DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2505.21864)][[project link](https://dex-umi.github.io/)][[code|official](https://github.com/real-stanford/DexUMI)][`Stanford University + Columbia University + J.P. Morgan AI Research + Carnegie Mellon University + NVIDIA`]
 
