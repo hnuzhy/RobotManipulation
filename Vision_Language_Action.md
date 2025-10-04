@@ -902,8 +902,6 @@
 
 * **InterMimic(CVPR2025 highlight)(arxiv2025.02)** InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions [[arxiv link](https://arxiv.org/abs/2502.20390)][[project link](https://sirui-xu.github.io/InterMimic/)][[code|official](https://github.com/Sirui-Xu/InterMimic)][`University of Illinois Urbana Champaign + Electronic Arts`]
 
-* **Human2Robot(arxiv2025.02)** Human2Robot: Learning Robot Actions from Paired Human-Robot Videos [[arxiv link](https://arxiv.org/abs/2502.16587)][`Fudan University`]
-
 * 👍**RHINO(arxiv2025.02)** RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations [[arxiv link](https://arxiv.org/abs/2502.13134)][[project link](https://humanoid-interaction.github.io/)][[code|official](https://github.com/TimerChen/RHINO)][`Shanghai Jiao Tong University`; `Weinan Zhang`]
 
 * **Dyn-R2H-Handover(ICRA2025)(arxiv2025.02)** Learning-based Dynamic Robot-to-Human Handover [[arxiv link](https://arxiv.org/abs/2502.12602)][[project link](https://zerotohero7886.github.io/dyn-r2h-handover/)][`Korea University + Queen's University`]
@@ -991,6 +989,8 @@
 * **MocapRobot(arxiv2025.01)** Learning to Transfer Human Hand Skills for Robot Manipulations [[arxiv link](https://arxiv.org/abs/2501.04169)][[project link](https://rureadyo.github.io/MocapRobot/)][`Seoul National University + Carnegie Mellon University`]
 
 * 👍👍**FUNCTO(arxiv2025.02)** FUNCTO: Function-Centric One-Shot Imitation Learning for Tool Manipulation [[arxiv link](https://arxiv.org/abs/2502.11744)][[project link](https://sites.google.com/view/functo)][`Southern University of Science and Technology + National University of Singapore`][A key challenge lies in establishing functional correspondences between `demonstration` and `test tools`]
+
+* **Human2Robot(arxiv2025.02)** Human2Robot: Learning Robot Actions from Paired Human-Robot Videos [[arxiv link](https://arxiv.org/abs/2502.16587)][`Fudan University`]
 
 * **2HandedAfforder(ICCV2025)(RSS2025 Workshop)(arxiv2025.03)** 2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos [[paper link](https://openreview.net/forum?id=HphpX7poOH)][[arxiv link](https://arxiv.org/abs/2503.09320)][[project link](https://sites.google.com/view/2handedafforder)][[code|official](https://github.com/pearl-robot-lab)][`PEARL Lab, TU Darmstadt, Germany`]
 
