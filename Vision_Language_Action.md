@@ -898,10 +898,6 @@
 
 * **GAAF-DEX(TNNLS2025)(arxiv2024.07)** Learning Granularity-Aware Affordances from Human-Object Interaction for Tool-Based Functional Dexterous Grasping [[paper link](https://ieeexplore.ieee.org/abstract/document/11104205)][[arxiv link](https://arxiv.org/abs/2407.00614)][[code|official](https://github.com/PopeyePxx/GAAF-DEX)][`Hunan University`; `Yaonan Wang`]
 
-* **DexH2R(arxiv2024.11)** DexH2R: Task-oriented Dexterous Manipulation from Human to Robots [[arxiv link](https://arxiv.org/abs/2411.04428)][`University of California, Berkeley`]
-
-* 👍**MT-Policy(ICRA2025)(arxiv2025.01)** Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning [[arxiv link](https://arxiv.org/abs/2501.06994)][[project link](https://portal-cornell.github.io/motion_track_policy/)][`Cornell University + Stanford University`]
-
 * **MobileH2R(CVPR2025)(arxiv2025.01)** MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_MobileH2R_Learning_Generalizable_Human_to_Mobile_Robot_Handover_Exclusively_from_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2501.04595)][[project link](https://mobileh2r.github.io/)][`Tsinghua University + Galbot + Peking University + Shanghai Artificial Intelligence Laboratory + Shanghai Qi Zhi Institute`; `He Wang`]
 
 * **InterMimic(CVPR2025 highlight)(arxiv2025.02)** InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions [[arxiv link](https://arxiv.org/abs/2502.20390)][[project link](https://sirui-xu.github.io/InterMimic/)][[code|official](https://github.com/Sirui-Xu/InterMimic)][`University of Illinois Urbana Champaign + Electronic Arts`]
@@ -987,6 +983,10 @@
 * **OKAMI(CoRL2024, Oral)(arxiv2024.10)** OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [[openreview link](https://openreview.net/forum?id=URj5TQTAXM)][[arxiv link](https://arxiv.org/abs/2410.11792)][[project link](https://sites.google.com/view/okami-corl2024)][`UT Austin + NVIDIA Research`; `Yuke Zhu`][It enables a humanoid robot to imitate manipulation skills from `a single human video demonstration`.]
 
 * 👍**LAPA(ICLR2025)(arxiv2024.10)** Latent Action Pretraining from Videos [[openreview link](https://openreview.net/forum?id=VYOe2eBQeh)][[arxiv link](https://arxiv.org/abs/2410.11758)][[project link](https://latentactionpretraining.github.io/)][[code|official](https://github.com/LatentActionPretraining/LAPA)][`KAIST + University of Washington + Microsoft Research + NVIDIA + Allen Institute for AI`; `Dieter Fox`]
+
+* **DexH2R(arxiv2024.11)** DexH2R: Task-oriented Dexterous Manipulation from Human to Robots [[arxiv link](https://arxiv.org/abs/2411.04428)][`University of California, Berkeley`]
+
+* 👍**MT-Policy(ICRA2025)(arxiv2025.01)** Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning [[arxiv link](https://arxiv.org/abs/2501.06994)][[project link](https://portal-cornell.github.io/motion_track_policy/)][`Cornell University + Stanford University`]
 
 * **MocapRobot(arxiv2025.01)** Learning to Transfer Human Hand Skills for Robot Manipulations [[arxiv link](https://arxiv.org/abs/2501.04169)][[project link](https://rureadyo.github.io/MocapRobot/)][`Seoul National University + Carnegie Mellon University`]
 
