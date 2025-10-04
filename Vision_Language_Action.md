@@ -996,6 +996,8 @@
 
 * **VidBot(CVPR2025)(arxiv2025.03)** VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_VidBot_Learning_Generalizable_3D_Actions_from_In-the-Wild_2D_Human_Videos_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2503.07135)][[project link](https://hanzhic.github.io/vidbot-project/)][[code|official](https://github.com/HanzhiC/vidbot)][`Technical University of Munich + ETH Zürich + Microsoft`]
 
+* **FreePose(ICLR2025)(arxiv2025.03)** 6D Object Pose Tracking in Internet Videos for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2503.10307)][[project link](https://ponimatkin.github.io/freepose/)][[code|official](https://github.com/ponimatkin/freepose)][`Czech Technical University in Prague + H Company`]
+
 * **SLeRP(arxiv2025.04)** Slot-Level Robotic Placement via Visual Imitation from Single Human Video [[arxiv link](https://arxiv.org/abs/2504.01959)][[project link](https://ddshan.github.io/slerp/)][`NVIDIA + Univ. of Michigan + Univ. of Washington + New York University`; `Dieter Fox`][`Slot-Level Placement`]
 
 * 👍**Tool-as-Interface(CoRL2025)(arxiv2025.04)** Tool-as-Interface: Learning Robot Policies from Observing Human Tool Use [[arxiv link](https://arxiv.org/abs/2504.04612)][[project link](https://tool-as-interface.github.io/)][[code|official](https://github.com/Tool-as-Interface/Tool_as_Interface)][`University of Illinois Urbana-Champaign + UT Austin + Columbia University`]
@@ -1449,10 +1451,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * 👍**REGENT(ICLR2025, Oral)(arxiv2024.12)** REGENT: A Retrieval-Augmented Generalist Agent That Can Act In-Context in New Environments [[openreview link](https://openreview.net/forum?id=NxyfSW6mLK)][[arxiv link](https://arxiv.org/abs/2412.04759)][[project link](https://kaustubhsridhar.github.io/regent-research/)][`University of Pennsylvania + University of British Columbia`]
 
 * 👍**HAMSTER(ICLR2025)(arxiv2025.02)** HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation [[openreview link](https://openreview.net/forum?id=h7aQxzKbq6)][[arxiv link](https://arxiv.org/abs/2502.05485)][[project link](https://hamster-robot.github.io/)][`NVIDIA + University of Washington + University of Southern California`]
-
-* **FreePose(ICLR2025)(arxiv2025.03)** 6D Object Pose Tracking in Internet Videos for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2503.10307)][[project link](https://ponimatkin.github.io/freepose/)][[code|official](https://github.com/ponimatkin/freepose)][`Czech Technical University in Prague + H Company`]
-
-
 
 
 
