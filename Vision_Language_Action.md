@@ -783,7 +783,7 @@
 
 * **HACMan++(RSS2024)(arxiv2024.07)** HACMan++: Spatially-Grounded Motion Primitives for Manipulation [[paper link](https://www.roboticsproceedings.org/rss20/p129.pdf)][[arxiv link](https://arxiv.org/abs/2407.08585)][[project link](https://sgmp-rss2024.github.io/)][[code|official](https://github.com/JiangBowen0008/HACManPP)][`Carnegie Mellon University + Meta AI`]
 
-* **Bimanual-Nonprehensile-Mani(arxiv2024.09)** In the Wild Ungraspable Object Picking with Bimanual Nonprehensile Manipulation [[arxiv link](https://arxiv.org/abs/2409.15465)][`Stanford University + Toyota Research Institute (TRI)`]
+* **Bimanual-Nonprehensile-Mani(ICRA2025)(arxiv2024.09)** In the Wild Ungraspable Object Picking with Bimanual Nonprehensile Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/11128490)][[arxiv link](https://arxiv.org/abs/2409.15465)][`Stanford University + Toyota Research Institute (TRI)`]
 
 * **Nonprehensile-Rearrangement(arxiv2024.10)** Object-Centric Kinodynamic Planning for Nonprehensile Robot Rearrangement Manipulation [[arxiv link](https://arxiv.org/abs/2410.00261)][`Rice University + The AI Institute, Cambridge`]
 
