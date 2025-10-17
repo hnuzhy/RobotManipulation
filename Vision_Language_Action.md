@@ -1077,7 +1077,7 @@
 
 * 👍**SketchInterfacePoC(HRI2025)(arxiv2025.05)** Sketch Interface for Teleoperation of Mobile Manipulator to Enable Intuitive and Intended Operation: A Proof of Concept [[arxiv link](https://arxiv.org/abs/2505.13931)][[project link](https://toyotafrc.github.io/SketchInterfacePoC-Proj/)][`Frontier Research Center, Toyota Motor Corporation + Aichi Institute of Technology`]
 
-* 👍**Mobi-pi(arxiv2025.05)** Mobi-pi: Mobilizing Your Robot Learning Policy [[arxiv link](https://arxiv.org/abs/2505.23692)][[project link](https://mobipi.github.io/)][[code|official](https://github.com/yjy0625/mobipi)][`Stanford University + Toyota Research Institute + University of Cambridge`]
+* 👍**Mobi-pi(CoRL2025)(arxiv2025.05)** Mobi-pi: Mobilizing Your Robot Learning Policy [[arxiv link](https://arxiv.org/abs/2505.23692)][[project link](https://mobipi.github.io/)][[code|official](https://github.com/yjy0625/mobipi)][`Stanford University + Toyota Research Institute + University of Cambridge`]
 
 * **UniFP(arxiv2025.05)** Learning Unified Force and Position Control for Legged Loco-Manipulation [[arxiv link](https://arxiv.org/abs/2505.20829)][[project link](https://unified-force.github.io/)][`BIGAI + UniTree Robotics + Beijing University of Posts and Telecommunications`]
 
