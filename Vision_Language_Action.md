@@ -1476,7 +1476,7 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **DexDiffuser(CVPR2025)(arxiv2024.11)** DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_DexHandDiff_Interaction-aware_Diffusion_Planning_for_Adaptive_Dexterous_Manipulation_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2411.18562)][[project link](https://dexdiffuser.github.io/)][`The University of Hong Kong + UC Berkeley`; `Ping Luo`]
  
-* **OmniManip(CVPR2025)(arxiv2025.01)** OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints 
+* **OmniManip(CVPR2025 Highlight)(arxiv2025.01)** OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints 
 [[arxiv link](https://arxiv.org/abs/2501.03841)][[project link](https://omnimanip.github.io/)][[code|official](https://github.com/pmj110119/OmniManip)][`CFCS, School of Computer Science, Peking University + PKU-AgiBot Lab + AgiBot`; `Hao Dong`]
 
 * **SlotMIM(CVPR2025)(arxiv2025.03)** A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning [[arxiv link](https://arxiv.org/abs/2503.06960)][[code|official](https://github.com/CVMI-Lab/SlotMIM)][`The University of Hong Kong + University of Edinburgh + Shanghai AI Laboratory`; `Jiangmiao Pang + Xiaojuan Qi`]
