@@ -584,7 +584,7 @@
 
 * **DRIFT(RSS2025)(arxiv2025.02)** Dynamic Rank Adjustment in Diffusion Policies for Efficient and Flexible Training [[arxiv link](https://arxiv.org/abs/2502.03822)][`Yale University + University of Pennsylvania`]
 
-* **KStarDiffuser(CVPR2025)(arxiv2025.03)** Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2503.10743)][`Harbin Institute of Technology (Shenzhen) + Greate Bay University + Huawei Noah’s Ark Lab + Shandong Computer Science Center`]
+* **KStarDiffuser(CVPR2025)(arxiv2025.03)** Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Lv_Spatial-Temporal_Graph_Diffusion_Policy_with_Kinematic_Modeling_for_Bimanual_Robotic_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2503.10743)][`Harbin Institute of Technology (Shenzhen) + Greate Bay University + Huawei Noah’s Ark Lab + Shandong Computer Science Center`]
 
 * 👍**RDP(RSS2025)(arxiv2025.03)** Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper link](https://roboticsconference.org/program/papers/52/)][[arxiv link](https://arxiv.org/abs/2503.02881)][[project link](https://reactive-diffusion-policy.github.io/)][[code|official](https://github.com/xiaoxiaoxh/reactive_diffusion_policy)][`Shanghai Jiao Tong University + Tsinghua University, IIIS + Shanghai Qi Zhi Institute + Shanghai AI Lab 5Shanghai Innovation Institute` + `Huazhe Xu + Cewu Lu`]
 
