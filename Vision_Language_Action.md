@@ -910,8 +910,6 @@
 
 * 👍**RoboCopilot(arxiv2025.03)** RoboCopilot: Human-in-the-loop Interactive Imitation Learning for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2503.07771)][`University of California, Berkeley`; `Pieter Abbeel`]
 
-* 👍**ViA(arxiv2025.06)** Vision in Action: Learning Active Perception from Human Demonstrations [[arxiv link](https://arxiv.org/abs/2506.15666)][[project link](https://vision-in-action.github.io/)][[code|official](https://github.com/haoyu-x/vision-in-action)][`Stanford`; `Shuran Song`]
-
 * **HAPO(arxiv2025.06)** Robotic Policy Learning via Human-assisted Action Preference Optimization [[arxiv link](https://arxiv.org/abs/2506.07127)][[project link](https://gewu-lab.github.io/hapo_human_assisted_preference_optimization/)][`Renmin University of China + ByteDance Seed`]
 
 * **DexH2R(ICCV2025)(arxiv2025.06)** DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover [[arxiv link](https://arxiv.org/abs/2506.23152)][[project link](https://dexh2r.github.io/)][[code|official](https://github.com/4DVLab/DexH2R)][`ShanghaiTech University + The University of Hong Kong`]
@@ -1090,6 +1088,8 @@
 * **MAPPO(arxiv2025.05)** Toward Real-World Cooperative and Competitive Soccer with Quadrupedal Robot Teams [[arxiv link](https://arxiv.org/abs/2505.13834)][`UC Berkeley + Tsinghua University + Zhejiang University + Shanghai Qi Zhi Institute`]
 
 * **EgoZero(arxiv2025.05)** EgoZero: Robot Learning from Smart Glasses [[arxiv link](https://arxiv.org/abs/2505.20290)][[project link](https://egozero-robot.github.io/)][[code|official](https://github.com/vliu15/egozero)][`New York University + UC Berkeley`; `Pieter Abbeel`]
+
+* 👍**ViA(CoRL2025)(arxiv2025.06)** Vision in Action: Learning Active Perception from Human Demonstrations [[arxiv link](https://arxiv.org/abs/2506.15666)][[project link](https://vision-in-action.github.io/)][[code|official](https://github.com/haoyu-x/vision-in-action)][`Stanford`; `Shuran Song`]
 
 * 👍❤**MSLMaps(IJRR2025)(arxiv2025.06)** Multimodal Spatial Language Maps for Robot Navigation and Manipulation [[arxiv link](https://arxiv.org/abs/2506.06862)][[project link](https://mslmaps.github.io/)][[code|official](https://github.com/vlmaps/VLMaps)][`University of Technology Nuremberg + UC Berkeley + Google Research`]
 
