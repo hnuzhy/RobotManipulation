@@ -910,7 +910,7 @@
 
 * 👍**RoboCopilot(arxiv2025.03)** RoboCopilot: Human-in-the-loop Interactive Imitation Learning for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2503.07771)][`University of California, Berkeley`; `Pieter Abbeel`]
 
-* **HAPO(arxiv2025.06)** Robotic Policy Learning via Human-assisted Action Preference Optimization [[arxiv link](https://arxiv.org/abs/2506.07127)][[project link](https://gewu-lab.github.io/hapo_human_assisted_preference_optimization/)][`Renmin University of China + ByteDance Seed`]
+* **HAPO(NIPS2025)(arxiv2025.06)** Robotic Policy Learning via Human-assisted Action Preference Optimization [[arxiv link](https://arxiv.org/abs/2506.07127)][[project link](https://gewu-lab.github.io/hapo_human_assisted_preference_optimization/)][`Renmin University of China + ByteDance Seed`]
 
 * **DexH2R(ICCV2025)(arxiv2025.06)** DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover [[arxiv link](https://arxiv.org/abs/2506.23152)][[project link](https://dexh2r.github.io/)][[code|official](https://github.com/4DVLab/DexH2R)][`ShanghaiTech University + The University of Hong Kong`]
 
