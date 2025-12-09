@@ -369,7 +369,7 @@
 
 * 👍**FetchBot(CoRL2025 oral)(arxiv2025.02)** FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real [[arxiv link](https://arxiv.org/abs/2502.17894)][[project link](https://pku-epic.github.io/FetchBot/)][`Chinese Academy of Sciences + School of Computer Science, Peking University + Galbot + Beijing Academy of Artificial Intelligence`; `He Wang`]
 
-* 👍**AnyPlace(arxiv2025.02)** AnyPlace: Learning Generalized Object Placement for Robot Manipulation [[arxiv link](https://www.arxiv.org/abs/2502.04531)][[project link](https://any-place.github.io/)][[code|official](https://github.com/ac-rad/anyplace)][`University of Toronto + Vector Institute + Shanghai Jiao Tong University + Wilfrid Laurier University + Acceleration Consortium + Georgia Institute of Technology`]
+* 👍**AnyPlace(CoRL2025)(arxiv2025.02)** AnyPlace: Learning Generalized Object Placement for Robot Manipulation [[arxiv link](https://www.arxiv.org/abs/2502.04531)][[project link](https://any-place.github.io/)][[code|official](https://github.com/ac-rad/anyplace)][`University of Toronto + Vector Institute + Shanghai Jiao Tong University + Wilfrid Laurier University + Acceleration Consortium + Georgia Institute of Technology`]
 
 * **QBIT(arxiv2025.03)** QBIT: Quality-Aware Cloud-Based Benchmarking for Robotic Insertion Tasks [[arxiv link](https://arxiv.org/abs/2503.07479)][[code|official](https://github.com/djumpstre/Qbit)][`Karlsruhe University of Applied Sciences, Karlsruhe, Germany + Karlsruhe Institute of Technology, Karlsruhe, Germany`]
 
