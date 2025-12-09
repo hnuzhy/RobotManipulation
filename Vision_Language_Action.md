@@ -375,6 +375,8 @@
 
 * **Action-Prior-Alignment(arxiv2025.03)** Efficient Alignment of Unconditioned Action Prior for Language-conditioned Pick and Place in Clutter [[arxiv link](https://arxiv.org/abs/2503.09423)][[project link](https://xukechun.github.io/papers/A2/)][[code|official](https://github.com/xukechun/Action-Prior-Alignment)][`Zhejiang University + Alibaba Cloud`; `Rong Xiong`][`Pick-and-Place in Clutter`]
 
+* **SLeRP(arxiv2025.04)** Slot-Level Robotic Placement via Visual Imitation from Single Human Video [[arxiv link](https://arxiv.org/abs/2504.01959)][[project link](https://ddshan.github.io/slerp/)][`NVIDIA + Univ. of Michigan + Univ. of Washington + New York University`; `Dieter Fox`][`Slot-Level Placement`]
+
 * **TwoByTwo(CVPR2025)(arxiv2025.04)** Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation [[arxiv link](https://arxiv.org/abs/2504.06961)][[project link](https://tea-lab.github.io/TwoByTwo/)][[code|official](https://github.com/TEA-Lab/TwoByTWo)][`Shanghai Qi Zhi Institute + Northeastern University + IIIS, Tsinghua University + Shanghai Jiao Tong University + Shanghai AI Lab`; `Huazhe Xu`]
 
 * **MasterRulesFromChaos(ICRA2025)(arxiv2025.05)** Master Rules from Chaos: Learning to Reason, Plan, and Interact from Chaos for Tangram Assembly [[arxiv link](https://arxiv.org/abs/2505.11818)][[project link](https://robotll.github.io/MasterRulesFromChaos/)][[code|official](https://github.com/RobotLL/MasterRulesFromChaos)][`HKUST`]
@@ -993,8 +995,6 @@
 * 👍**HumanoidPolicy(arxiv2025.03)** Humanoid Policy ~ Human Policy [[arxiv link](https://arxiv.org/abs/2503.13441)][[project link](https://human-as-robot.github.io/)][[code|official](https://github.com/RogerQi/human-policy)][`UC San Diego + CMU + University of Washington + MIT + Apple`; `Xiaolong Wang`]
 
 * **Human2Sim2Robot(CoRL2025)(arxiv2025.04)** Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration [[arxiv link](https://arxiv.org/abs/2504.12609)][[project link](https://human2sim2robot.github.io/)][[code|official](https://github.com/tylerlum/human2sim2robot)][`Stanford University`]
-
-* **SLeRP(arxiv2025.04)** Slot-Level Robotic Placement via Visual Imitation from Single Human Video [[arxiv link](https://arxiv.org/abs/2504.01959)][[project link](https://ddshan.github.io/slerp/)][`NVIDIA + Univ. of Michigan + Univ. of Washington + New York University`; `Dieter Fox`][`Slot-Level Placement`]
 
 * 👍**Tool-as-Interface(CoRL2025)(arxiv2025.04)** Tool-as-Interface: Learning Robot Policies from Observing Human Tool Use [[arxiv link](https://arxiv.org/abs/2504.04612)][[project link](https://tool-as-interface.github.io/)][[code|official](https://github.com/Tool-as-Interface/Tool_as_Interface)][`University of Illinois Urbana-Champaign + UT Austin + Columbia University`]
 
