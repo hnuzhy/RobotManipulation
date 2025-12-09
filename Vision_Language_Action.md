@@ -373,7 +373,7 @@
 
 * **QBIT(arxiv2025.03)** QBIT: Quality-Aware Cloud-Based Benchmarking for Robotic Insertion Tasks [[arxiv link](https://arxiv.org/abs/2503.07479)][[code|official](https://github.com/djumpstre/Qbit)][`Karlsruhe University of Applied Sciences, Karlsruhe, Germany + Karlsruhe Institute of Technology, Karlsruhe, Germany`]
 
-* **Action-Prior-Alignment(arxiv2025.03)** Efficient Alignment of Unconditioned Action Prior for Language-conditioned Pick and Place in Clutter [[arxiv link](https://arxiv.org/abs/2503.09423)][[project link](https://xukechun.github.io/papers/A2/)][[code|official](https://github.com/xukechun/Action-Prior-Alignment)][`Zhejiang University + Alibaba Cloud`; `Rong Xiong`][`Pick-and-Place in Clutter`]
+* **Action-Prior-Alignment(TASE2025 / CoRL2025 Workshop)(arxiv2025.03)** Efficient Alignment of Unconditioned Action Prior for Language-conditioned Pick and Place in Clutter [[arxiv link](https://arxiv.org/abs/2503.09423)][[project link](https://xukechun.github.io/papers/A2/)][[code|official](https://github.com/xukechun/Action-Prior-Alignment)][`Zhejiang University + Alibaba Cloud`; `Rong Xiong`][`Pick-and-Place in Clutter`]
 
 * **SLeRP(arxiv2025.04)** Slot-Level Robotic Placement via Visual Imitation from Single Human Video [[arxiv link](https://arxiv.org/abs/2504.01959)][[project link](https://ddshan.github.io/slerp/)][`NVIDIA + Univ. of Michigan + Univ. of Washington + New York University`; `Dieter Fox`][`Slot-Level Placement`]
 
