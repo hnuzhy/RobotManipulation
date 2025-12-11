@@ -381,7 +381,7 @@
 
 * **MasterRulesFromChaos(ICRA2025)(arxiv2025.05)** Master Rules from Chaos: Learning to Reason, Plan, and Interact from Chaos for Tangram Assembly [[arxiv link](https://arxiv.org/abs/2505.11818)][[project link](https://robotll.github.io/MasterRulesFromChaos/)][[code|official](https://github.com/RobotLL/MasterRulesFromChaos)][`HKUST`]
 
-* 👍**BiAssemble(ICML2025)(arxiv2025.06)** BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly [[arxiv link](https://arxiv.org/abs/2506.06221)][[project link](https://sites.google.com/view/biassembly/)][[code|official](https://github.com/sxy7147/BiAssembly)][`Peking University + PKU-Agibot Lab`]
+* 👍**BiAssemble(ICML2025)(arxiv2025.06)** BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly [[openreview link](https://openreview.net/forum?id=OxzPgnkbB1)][[arxiv link](https://arxiv.org/abs/2506.06221)][[project link](https://sites.google.com/view/biassembly/)][[code|official](https://github.com/sxy7147/BiAssembly)][rejected by [ICLR2025](https://openreview.net/forum?id=9xsXEj2ile)][`Peking University + PKU-Agibot Lab`]
 
 * **Fabrica(arxiv2025.06)** Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning [[arxiv link](https://arxiv.org/abs/2506.05168)][[project link](https://fabrica.csail.mit.edu/)][`MIT CSAIL + ETH Zurich + Autodesk Research + Texas A&M University`]
 
