@@ -785,7 +785,7 @@
 
 * **Bimanual-Nonprehensile-Mani(ICRA2025)(arxiv2024.09)** In the Wild Ungraspable Object Picking with Bimanual Nonprehensile Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/11128490)][[arxiv link](https://arxiv.org/abs/2409.15465)][`Stanford University + Toyota Research Institute (TRI)`]
 
-* **Nonprehensile-Rearrangement(arxiv2024.10)** Object-Centric Kinodynamic Planning for Nonprehensile Robot Rearrangement Manipulation [[arxiv link](https://arxiv.org/abs/2410.00261)][`Rice University + The AI Institute, Cambridge`]
+* **Nonprehensile-Rearrangement(TRO2025)(arxiv2024.10)** Object-Centric Kinodynamic Planning for Nonprehensile Robot Rearrangement Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/11176447/)][[arxiv link](https://arxiv.org/abs/2410.00261)][`Rice University + The AI Institute, Cambridge`]
 
 * **HyDo(RAL2025)(arxiv2024.11)** Enhancing Exploration with Diffusion Policies in Hybrid Off-Policy RL: Application to Non-Prehensile Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/10978025)][[arxiv link](https://arxiv.org/abs/2411.14913)][[project link](https://leh2rng.github.io/hydo/)][`Bosch Center for Artificial Intelligence(BCAI) + Karlsruhe Institute of Technology`][Hybrid Diffusion Policy algorithm (HyDo)]
 
