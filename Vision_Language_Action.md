@@ -1016,7 +1016,7 @@
 
 * **RwoR(IROS2025)(arxiv2025.07)** RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot [[arxiv link](https://arxiv.org/abs/2507.03930)][[project link](https://rwor.github.io/)][`Peking University + Tencent Robotics X Laboratory`; `Hao Dong`]
 
-* **EgoVLA(arxiv2025.07)** EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos [[arxiv link](https://arxiv.org/abs/2507.12440)][[project link](https://rchalyang.github.io/EgoVLA/)][`UC San Diego + UIUC + MIT + NVIDIA`; `Xiaolong Wang`]
+* 👍**EgoVLA(arxiv2025.07)** EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos [[arxiv link](https://arxiv.org/abs/2507.12440)][[project link](https://rchalyang.github.io/EgoVLA/)][[code|official](https://github.com/RchalYang/EgoVLA_Release)][`UC San Diego + UIUC + MIT + NVIDIA`; `Xiaolong Wang`]
 
 * 👍**Being-H0(arxiv2025.07)** Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos [[arxiv link](https://arxiv.org/abs/2507.15597)][[project link](https://beingbeyond.github.io/Being-H0/)][[code|official](https://github.com/BeingBeyond/Being-H0)][`Peking University + Renmin University of China + BeingBeyond`]
 
