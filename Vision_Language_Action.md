@@ -445,7 +445,7 @@
 
 * 👍**SKIL(RSS2025)(arxiv2025.01)** SKIL: Semantic Keypoint Imitation Learning for Generalizable Data-efficient Manipulation [[paper link](https://roboticsconference.org/program/papers/161/)][[arxiv link](https://arxiv.org/abs/2501.14400)][[project link](https://skil-robotics.github.io/SKIL-robotics/)][`Tsinghua University + Shanghai AI Laboratory + Shanghai Qi Zhi Institute` + `Yang Gao`]
 
-* **Point-Policy(ICRA2025 Workshop)(arxiv2025.02)** Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation [[](https://openreview.net/forum?id=Rk2gDxVUfq)][[arxiv link](https://arxiv.org/abs/2502.20391)][[project link](https://point-policy.github.io/)][[code|official](https://github.com/siddhanthaldar/Point-Policy)][`New York University`]
+* 👍**Point-Policy(CoRL2025)(arxiv2025.02)** Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation [[openreview link](https://openreview.net/forum?id=lRKGIidrYZ)][[paper link](https://proceedings.mlr.press/v305/haldar25a.html)][[arxiv link](https://arxiv.org/abs/2502.20391)][[project link](https://point-policy.github.io/)][[code|official](https://github.com/siddhanthaldar/Point-Policy)][`New York University`]
 
 * 👍**IKER-Robot(ICRA2025)(arxiv2025.02)** A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards [[arxiv link](https://arxiv.org/abs/2502.08643)][[project link](https://iker-robot.github.io/)][[code|official](https://github.com/shivanshpatel35/IKER)][`University of Illinois at Urbana-Champaign + Stanford University + Amazon + Columbia University`; `Li Fei-Fei`]
 
