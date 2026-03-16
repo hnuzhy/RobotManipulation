@@ -72,7 +72,9 @@
 ***
 
 ## ▶Datasets and Benchmarks
-
+<details>
+<summary>Click Here to Show All</summary>
+ 
 * **MetaWorld(CoRL2019)(arxiv2019.10)** Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning [[paper link](https://proceedings.mlr.press/v100/yu20a.html)][[arxiv link](https://arxiv.org/abs/1910.10897)][[project link](http://meta-world.github.io/)][[baseline method](https://github.com/rlworkgroup/garage)][[code|official](https://github.com/rlworkgroup/metaworld)][`Stanford University + UC Berkeley + Columbia University + University of Southern California + Robotics at Google`; `Chelsea Finn + Sergey Levine`]
 
 * 👍**RLBench(RAL2020)(arxiv2019.09)** RLBench: The Robot Learning Benchmark & Learning Environment [[paper link](https://ieeexplore.ieee.org/abstract/document/9001253)][[arxiv link](https://arxiv.org/abs/1909.12271)][[project link](https://sites.google.com/view/rlbench)][[code|official](https://github.com/stepjam/RLBench)][`Dyson Robotics Lab, Imperial College London`][This dataset is based on `Coppliasim 4.1.0` and `PyRep`]
@@ -147,7 +149,7 @@
 
 * **RoboArena(arxiv2025.06)** RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies [[arxiv link](https://arxiv.org/abs/2506.18123)][[project link](https://robo-arena.github.io/)][[code|official](https://github.com/robo-arena/roboarena)][`University of California, Berkeley + Stanford University + University of Washington + Université de Montréal + NVIDIA + University of Pennsylvania + UT Austin + Yonsei University`]
 
-
+</details>
 
 ***
 ***
