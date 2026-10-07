@@ -27,6 +27,12 @@
 
 ***
 
+### ▶3D Shape and Pose Reconstruction
+
+* **DualPM(CVPR2025 Highlight)(arxiv2024.12)** DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Kaye_DualPM_Dual_Posed-Canonical_Point_Maps_for_3D_Shape_and_Pose_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2412.04464)][[project link](https://www.robots.ox.ac.uk/~vgg/research/dualpm/)][[code|official](https://github.com/DualPM/DualPM_Paper)][`University of Oxford + Stanford University`]
+
+***
+
 ### ▶Sparse-Views Fast Reconstruction
 
 * **SpaRP(ECCV2024)(arxiv2024.08)** SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views [[arxiv link](https://arxiv.org/abs/2408.10195)][[project link](https://chaoxu.xyz/sparp/)][[huggingface link](https://huggingface.co/spaces/sudo-ai/SpaRP)][`UCLA + Hillbot Inc. + Stanford University + Zhejiang University + UC San Diego`]
