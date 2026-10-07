@@ -61,6 +61,12 @@
 
 * **Matcher++(IJCV2025)** Segment Anything in Context with Vision Foundation Models [[paper link](https://link.springer.com/article/10.1007/s11263-025-02517-0)][[code|official](https://github.com/aim-uofa/Matcher)][`Zhejiang University + Beijing Academy of Artificial Intelligence`][the conference paper is `(ICLR2024)(arxiv2023.05) Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching` [[openreview link](https://openreview.net/forum?id=yzRXdhk2he)][[arxiv link](https://arxiv.org/abs/2305.13310)] ]
 
+* **SegAnyMo/MotionSeg(CVPR2025)(arxiv2025.03)** Segment Any Motion in Videos [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Segment_Any_Motion_in_Videos_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2503.22268)][[project link](https://motion-seg.github.io/)][[code|official](https://github.com/nnanhuang/SegAnyMo)][`Peking University + UC Berkeley`]
+
+* **PartSAM(arxiv2025.09)** PartSAM: A Scalable Promptable Part Segmentation Model Trained on Native 3D Data [[arxiv link](https://arxiv.org/abs/2509.21965)][[project link](https://czvvd.github.io/PartSAMPage/)][[code|official](https://github.com/czvvd/PartSAM)][`Nanjing University of Aeronautics and Astronautics + Hong Kong University of Science and Technology + The University of Hong Kong + National University of Singapore + Lingnan University + Macau University of Science and Technology`]
+
+* 👍👍**SAM3(arxiv2025.11)** SAM 3: Segment Anything with Concepts [[openreview link](https://openreview.net/forum?id=r35clVtGzw)][[arxiv link](https://arxiv.org/abs/2511.16719)][[project link](https://ai.meta.com/sam3)][[code|official](https://github.com/facebookresearch/sam3)][[meta blog](https://ai.meta.com/research/publications/sam-3-segment-anything-with-concepts/)][[ultralytics link](https://docs.ultralytics.com/zh/models/sam-3/)][`Meta`]
+
 
 ***
 
@@ -117,6 +123,9 @@
 
 * **RSP(ICML2024)(arxiv2024.06)** Visual Representation Learning with Stochastic Frame Prediction [[arxiv link](https://arxiv.org/abs/2406.07398)][[project link](https://sites.google.com/view/2024rsp)][[code|official](https://github.com/huiwon-jang/RSP)][`KAIST + UC Berkeley + Dyson Robot Learning Lab`][It can be used for `Vision-based Robot Learning` inlcuding the `RLBench`]
 
+* **DINOv3(arxiv2025.08)** DINOv3 [[arxiv link](https://arxiv.org/abs/2508.10104)][[project link](https://ai.meta.com/dinov3/)][[code|official](https://github.com/facebookresearch/dinov3)][[blog / notebook for dense matching](https://github.com/facebookresearch/dinov3/blob/main/notebooks/dense_sparse_matching.ipynb)][`Meta`]
+
+
 #### 2.3) Joint, Lightweight and Efficient Training 
 
 * **EfficientTrain++(TPAMI2024)(arxiv2024.05)** EfficientTrain++: Generalized Curriculum Learning for Efficient Visual Backbone Training [[paper link](https://ieeexplore.ieee.org/abstract/document/10530470/)][[arxiv link](https://arxiv.org/pdf/2405.08768)][[weixin blog](https://mp.weixin.qq.com/s/FJj0F2NcW9ftmT_lbO1R3w)][[code|official](https://github.com/LeapLabTHU/EfficientTrain)][`THU + BAAI`, used the `generalized curriculum learning`][The conference (EfficientTrain, ICCV2023) version [EfficientTrain: Exploring Generalized Curriculum Learning for Training Visual Backbones](https://arxiv.org/abs/2211.09703)]
@@ -156,6 +165,10 @@
 
 * **LQMFormer(CVPR2024)** LQMFormer: Language-aware Query Mask Transformer for Referring Image Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Shah_LQMFormer_Language-aware_Query_Mask_Transformer_for_Referring_Image_Segmentation_CVPR_2024_paper.html)][`Johns Hopkins University`; `Referring Image Segmentation (RIS)` aims to segment objects from an image based on a language description.][`Vision Language Application`]
 
+* **TVL(ICML2024)(arxiv2024.02)** A Touch, Vision, and Language Dataset for Multimodal Alignment [[paper link](https://proceedings.mlr.press/v235/fu24b.html)][[arxiv link](https://arxiv.org/abs/2402.13232)][[project link](https://tactile-vlm.github.io/)][[code|official](https://github.com/Max-Fu/tvl)][`UC Berkeley + Meta AI Research + TU Dresden + The Centre for Tactile Internet with Human-in-the-Loop (CeTI)`][`Multi-modal alignment made easy using GPT-4V pseudolabels`]
+
+* 👍👍**Molmo(arxiv2024.09)** Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models [[arxiv link](https://arxiv.org/abs/2409.17146)][[project link](https://allenai.org/blog/molmo)][[code|official](https://github.com/allenai/molmo)][`Allen Institute for AI + University of Washington`]
+
 * **ImOV3D(NIPS2024)(arxiv2024.10)** ImOV3D: Learning Open-Vocabulary Point Clouds 3D Object Detection from Only 2D Images [[openreview link](https://openreview.net/forum?id=RCO9fRP8AJ)][[arxiv link](https://arxiv.org/abs/2410.24001)][[code|official](https://github.com/yangtiming/ImOV3D)][`Shanghai Qi Zhi Institute + IIIS, Tsinghua University + Shanghai AI Lab`]
 
 * **RefHuman(NIPS2024)(arxiv2024.10)** Referring Human Pose and Mask Estimation in the Wild [[openreview link](https://openreview.net/forum?id=fXEi3LVflp)][[arxiv link](https://arxiv.org/abs/2410.20508)][[code|official](https://github.com/bo-miao/RefHuman)][`University of Western Australia + Xidian University + Hunan University + Griffith University`][`Vision Language Application`]
@@ -164,6 +177,7 @@
 
 * 👍**GroundingSuite(ICCV2025)(arxiv2025.03)** GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding [[arxiv link](https://arxiv.org/abs/2503.10596)][[code|official](https://github.com/hustvl/GroundingSuite)][`Huazhong University of Science and Technology + vivo AI Lab`; `Xinggang Wang`]
 
+* **NDTokenizer3D(arxiv2025.11)** Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding [[arxiv link](https://arxiv.org/abs/2511.21191)][`Johns Hopkins University + Microsoft`]
 
 
 ***
@@ -176,6 +190,8 @@
 * 👍**SMITE(ICLR2025)(arxiv2024.10)** SMITE: Segment Me In TimE [[arxiv link](https://arxiv.org/abs/2410.18538)][[project link](https://segment-me-in-time.github.io/)][[code|official](https://github.com/alimohammadiamirhossein/smite/)][[weixin blog](https://mp.weixin.qq.com/s/b2b6NxyaVpjGO8_pgL7KFA)][`Simon Fraser University + Autodesk Research + University of Toronto + Google DeepMind`]
 
 * **EfficientTAM(arxiv2024.11)** Efficient Track Anything [[arxiv link](https://arxiv.org/abs/2411.18933)][[project link](https://yformer.github.io/efficient-track-anything/)][[code|official](https://github.com/yformer/EfficientTAM)][`Meta AI + Nanyang Technological University`]
+
+* 👍**TAPIP3D(NIPS2025)(arxiv2025.04)** TAPIP3D: Tracking Any Point in Persistent 3D Geometry [[openreview link](https://openreview.net/forum?id=VzWjHxE8PF)][[arxiv link](https://arxiv.org/abs/2504.14717)][[project link](https://tapip3d.github.io/)][[code|official](https://github.com/zbw001/TAPIP3D)][`Carnegie Mellon University + Peking University + Stanford University`]
 
 * **EgoMask(ICCV2025)(arxiv2025.08)** Fine-grained Spatiotemporal Grounding on Egocentric Videos [[arxiv link](https://arxiv.org/abs/2508.00518)][[huggingface dataset](https://huggingface.co/datasets/XuuuXYZ/EgoMask)][[code|official](https://github.com/LaVi-Lab/EgoMask)][`The Chinese University of Hong Kong`]
 
@@ -192,6 +208,7 @@
 
 * **FoundationStereo(CVPR2025)(arxiv2025.01)** FoundationStereo: Zero-Shot Stereo Matching [[arxiv link](https://arxiv.org/abs/2501.09898)][[project link](https://nvlabs.github.io/FoundationStereo/)][[code|official](https://github.com/NVlabs/FoundationStereo)][`NVIDIA`]
 
+* 👍**MoGe-2(NIPS2025)(arxiv2025.07)** MoGe-2: Accurate Monocular Geometry with Metric Scale and Sharp Details [[openreview link](https://openreview.net/forum?id=16mDq7m2OK)][[arxiv link](https://arxiv.org/abs/2507.02546)][[project link](https://wangrc.site/MoGe2Page/)][[code|official](https://github.com/microsoft/moge)][`USTC + Microsoft Research + Tsinghua University`]
 
 ***
 
@@ -205,11 +222,13 @@
 ***
 
 ### ⭐7) Foundation Pose Series
-*for the popular `6D Object Pose Estimation` task*
+*for the popular `6D Object Pose Estimation` and `3D Object Orientation` task*
 
 * 👍**FoundationPose(CVPR2024 Highlight)(arxiv2023.12)** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Wen_FoundationPose_Unified_6D_Pose_Estimation_and_Tracking_of_Novel_Objects_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2312.08344)][[project link](https://nvlabs.github.io/FoundationPose/)][[code|official](https://github.com/NVlabs/FoundationPose)][`NVIDIA`]
 
 * **OrientAnything(arxiv2024.12)** Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models [[arxiv link](https://arxiv.org/abs/2412.18605)][[project link](https://orient-anything.github.io/)][[code|official](https://github.com/SpatialVision/Orient-Anything)][`Zhejiang University + Sea AI Lab + The University of Hong Kong`]
+
+* **SpecialUnitaryRotation(arxiv2024.11)** Special Unitary Parameterized Estimators of Rotation [[openreview link](https://openreview.net/forum?id=VaS6xcDrTb)][[arxiv link](https://arxiv.org/abs/2411.13109)][[`Akshay Chandrasekhar`](https://scholar.google.com/citations?hl=zh-CN&user=J680PHsAAAAJ)]
 
 * **FoundationPose++(year2025.03)** FoundationPose++: Simple Tricks Boost FoundationPose Performance in High-Dynamic Scenes [[code|official](https://github.com/teal024/FoundationPose-plus-plus)][`Real-Time 6D Pose Tracker in High-Dynamic Scenes`]
 
@@ -219,12 +238,31 @@
 
 * **UA-Pose(CVPR2025)(arxiv2025.06)** UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Li_UA-Pose_Uncertainty-Aware_6D_Object_Pose_Estimation_and_Online_Object_Completion_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2506.07996)][[project link](https://minfenli.github.io/UA-Pose/)][[code|official](https://github.com/minfenli/UA-Pose)][`Carnegie Mellon University + Stony Brook University + National Tsing Hua University + Amazon`]
 
+* **RFMPose(NIPS2025)** RFMPose: Generative Category-level Object Pose Estimation via Riemannian Flow Matching [[openreview link](https://openreview.net/forum?id=6aaixHco6C)][[code|official](https://github.com/shabiouyang/RMFPose)][`Zhejiang University + Harbin Institute of Technology, Shenzhen + Fudan University + Shanghai Academy of AI for Science`]
+
+* **OrientAnythingV2(NIPS2025 Spotlight)** Orient Anything V2: Unifying Orientation and Rotation Understanding [[openreview link](https://openreview.net/forum?id=n3armuTFit)][[project link](https://orient-anythingv2.github.io/)][[code|official](https://github.com/SpatialVision/Orient-Anything-V2)][`Zhejiang University + Shanghai AI Lab + Sea AI Lab + The University of Hong Kong`; `Hengshuang Zhao`]
+
+* **ConceptPose(arxiv2025.12)** ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors [[arxiv link](https://arxiv.org/abs/2512.09056)][`Technical University of Munich + Munich Center for Machine Learning + INSAIT, Sofia University “St. Kliment Ohridski” + 3dwe.ai`]
+
 ***
 
-### ⭐8) Video Generation Series
+### ⭐8) SLAM Series
+
+* 👍**MegaSaM(CVPR2025)(arxiv2024.12)** MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Li_MegaSaM_Accurate_Fast_and_Robust_Structure_and_Motion_from_Casual_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2412.04463)][[project link](https://mega-sam.github.io/)][[code|official](https://github.com/mega-sam/mega-sam)][`Google DeepMind + UC Berkeley + University of Michigan + Adobe Research`]
+
+
+***
+
+### ⭐9) Video Generation Series
 
 * 👍**Veo3(arxiv2025.09)** Video models are zero-shot learners and reasoners [[arxiv link](https://arxiv.org/abs/2509.20328)][[project link](https://video-zero-shot.github.io/)][[blog link](https://gemini.google/overview/video-generation/)][`Google DeepMind`][Veo 3 shows emergent zero-shot abilities across many visual tasks, indicating that video models are on a path to becoming vision foundation models—just like LLMs became foundation models for language.]
 
+
+***
+
+### ⭐10) Video Understanding Series
+
+* **FunnyNet-W(IJCV2024)(arxiv2024.01)** FunnyNet-W: Multimodal Learning of Funny Moments in Videos in the Wild [[paper link](https://link.springer.com/article/10.1007/s11263-024-02000-2)][[arxiv link](https://arxiv.org/abs/2401.04210)][[project link](https://www.lix.polytechnique.fr/vista/projects/2024_ijcv_liu/)][[code|official](https://github.com/Holmes-Alan/FunnyNet-W)][`Computer Vision and Pattern Recognition Laboratory, LUT University, Finland + VISTA, LIX, Ecole Polytechnique, IP Paris`]
 
 
 
