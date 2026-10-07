@@ -17,6 +17,13 @@
 
 * 👍**YOLO-UniOW(arxiv2024.12)** YOLO-UniOW: Efficient Universal Open-World Object Detection [[arxiv link](https://arxiv.org/abs/2412.20645)][[code|official](https://github.com/THU-MIG/YOLO-UniOW)][`Tsinghua University + Tencent ARC Lab`]
 
+* **DetAny3D(ICCV2025)(arxiv2025.04)** Detect Anything 3D in the Wild [[paper link](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_Detect_Anything_3D_in_the_Wild_ICCV_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2504.07958)][[code|official](https://github.com/OpenDriveLab/DetAny3D)][`OpenDriveLab at Shanghai AI Laboratory + Shanghai Jiao Tong University + Fudan University + Stanford University + CUHK MMLab + Tsinghua University + GAC R&D Center`]
+
+* **DetAny4D(arxiv2025.11)** DetAny4D: Detect Anything 4D Temporally in a Streaming RGB Video [[arxiv link](https://arxiv.org/abs/2511.18814)][`Fudan University + Tencent Robotics X + The University of Hong Kong + Shenzhen University`]
+
+* **LocateAnything3D(arxiv2025.11)** LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight [[arxiv link](https://arxiv.org/abs/2511.20648)][[project link](https://nvlabs.github.io/LocateAnything3D/)][`NVIDIA + University of Illinois Urbana-Champaign + The Hong Kong Polytechnic University`]
+
+
 
 ### 2) Open World/Vocabulary Segmentation
 
@@ -34,8 +41,15 @@
 
 * **FLOSS(arxiv2025.04)** FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation [[arxiv link](https://arxiv.org/abs/2504.10487)][[project link](https://yasserben.github.io/FLOSS/)][[code|official](https://github.com/yasserben/FLOSS)][`Inria + Valeo.ai`] ![Static Badge](https://img.shields.io/badge/Open_Vocabulary-Segmentation-blue)
 
+* **SED++(TPAMI2025)** SED++: A Simple Encoder-Decoder for Improved Open-Vocabulary Semantic Segmentation [[paper link](https://ieeexplore.ieee.org/document/11223241)][[code|official](https://github.com/xb534/SED)][[CVPR2024 conference](https://arxiv.org/abs/2311.15537)][`Tianjin University + Chongqing University + Mohamed bin Zayed University of Artificial Intelligence + Shanghai Artificial Intelligence Laboratory`]
 
-### 3) Zero-Shot Scene Flow Estimation
+
+### 3) Zero-Shot/Unsupervised Object Retrieval
+
+* **SFDA-Retrieval(TVCG2025)** Source-Free Model Adaptation for Unsupervised 3D Object Retrieval [[paper link](https://ieeexplore.ieee.org/document/11190005)][`Tianjin University + Zhejiang University`]
+
+
+### 4) Zero-Shot Scene Flow Estimation
 
 * **ZeroMSF(arxiv2025.01)** Zero-Shot Monocular Scene Flow Estimation in the Wild [[arxiv link](https://arxiv.org/abs/2501.10357)][[project link](https://research.nvidia.com/labs/lpr/zero_msf//)][`NVIDIA Research + Brown University`]
 
