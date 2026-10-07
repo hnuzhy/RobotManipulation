@@ -74,6 +74,8 @@
 
 * ❤**ImplicitPCDA(CVPR2022)(arxiv2021.12)** Domain Adaptation on Point Clouds via Geometry-Aware Implicits [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Shen_Domain_Adaptation_on_Point_Clouds_via_Geometry-Aware_Implicits_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2112.09343)][[code|official](https://github.com/Jhonve/ImplicitPCDA)][`ZJU + Stanford + PKU`][`Point Cloud Adaptation`]
 
+* **Attr-Disam(ICRA2022)(arxiv2022.03)** Interactive Robotic Grasping with Attribute-Guided Disambiguation [[paper link](https://ieeexplore.ieee.org/abstract/document/9812360)][[arxiv link](https://arxiv.org/abs/2203.08037)][[project link](https://sites.google.com/umn.edu/attr-disam)][`University of Minnesota, Minneapolis, USA`]
+
 * **NeuralGrasps(CoRL2022)(arxiv2022.07)** NeuralGrasps: Learning Implicit Representations for Grasps of Multiple Robotic Hands [[paper link](https://proceedings.mlr.press/v205/khargonkar23a.html)][[arxiv link](https://arxiv.org/abs/2207.02959)][[project link](https://irvlutd.github.io/NeuralGrasps)][[code|official](https://github.com/IRVLUTD/neuralgrasps-model)][[HandNet-Pipeline](https://github.com/IRVLUTD/handnet-pipeline)][`The University of Texas at Dallas + St. Mark's School of Texas`][using the `NeRF`]
 
 * **Scale-Balanced-Grasp(CoRL2022)(arxiv2022.12)** Towards Scale Balanced 6-DoF Grasp Detection in Cluttered Scenes [[paper link](https://proceedings.mlr.press/v205/ma23a.html)][[arxiv link](https://arxiv.org/abs/2212.05275)][[project link]()][[code|official](https://github.com/mahaoxiang822/Scale-Balanced-Grasp)][`Beihang University`]
@@ -182,7 +184,7 @@
 * **AffordGrasp(arxiv2025.03)** AffordGrasp: In-Context Affordance Reasoning for Open-Vocabulary Task-Oriented Grasping in Clutter [[arxiv link](https://arxiv.org/abs/2503.00778)][[project link](https://eqcy.github.io/affordgrasp/)][`Chinese Academy of Sciences + Harbin Institute of Technology (Shenzhen) + Beijing Academy of Artificial Intelligence + Peking University`]
 
 * **NeuGrasp(ICRA2025)(arxiv2025.03)** NeuGrasp: Generalizable Neural Surface Reconstruction with Background Priors for Material-Agnostic Object Grasp Detection [[arxiv link](https://arxiv.org/abs/2503.03511)][[project link](https://neugrasp.github.io/)][[code|official](https://github.com/Fanqyu/NeuGrasp)][`Chinese Academy of Sciences + University of Chinese Academy of Sciences + Qiyuan Lab`]
-
+ 
 * **GraspMolmo(arxiv2025.05)** GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation [[arxiv link](https://arxiv.org/abs/2505.13441)][[project link](https://abhaybd.github.io/GraspMolmo/)][[code|official](https://github.com/abhaybd/GraspMolmo)][`PRIOR @ Allen Institute for AI + Boston University + University of Washington + UT Austin`; `Yuke Zhu`]
 
 * **SR3D(arxiv2025.05)** SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping [[arxiv link](https://arxiv.org/abs/2505.24305)][[project link](https://sites.google.com/view/sr3dtech/)][`Beijing University of Posts and Telecommunications + Center on Frontiers of Computing Studies, Peking University + Institute of Computing Technology, Chinese Academy of Sciences`; `Hao Dong`]
@@ -197,6 +199,13 @@
 
 * **BiGraspFormer(arxiv2025.09)** BiGraspFormer: End-to-End Bimanual Grasp Transformer [[arxiv link](https://arxiv.org/abs/2509.19142)][[project link](https://sites.google.com/bigraspformer)][`Gwangju Institute of Science and Technology (GIST) + Korea Institute of Machinery & Materials (KIMM)`]
 
+* **LangGrasp(arxiv2025.10)** LangGrasp: Leveraging Fine-Tuned LLMs for Language Interactive Robot Grasping with Ambiguous Instructions [[arxiv link](https://arxiv.org/abs/2510.02104)][[code|official](https://github.com/wu467/LangGrasp)][`Wuhan University of Science and Technolog`][It is based on `VLPart` and `Graspness`]
+
+* **OVAL-Grasp(ISER2025)(arxiv2025.11)** OVAL-Grasp: Open-Vocabulary Affordance Localization for Task Oriented Grasping [[arxiv link](https://arxiv.org/abs/2511.20841)][[project link](https://ekjt.github.io/OVAL-Grasp/)][`University of Michigan1 + J.P. Morgan AI Research`]
+
 
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+
+
