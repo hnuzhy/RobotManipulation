@@ -385,6 +385,22 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **DexScrew(arxiv2025.12)** Learning Dexterous Manipulation Skills from Imperfect Simulations [[arxiv link](https://arxiv.org/abs/2512.02011)][[project link](https://dexscrew.github.io/)][[code|official](https://github.com/x-robotics-lab/dexscrew)][`UC Berkeley`]
 
+* 👍**CorDex-Grasp(ICRA2026)(arxiv2026.01)** Generate, Transfer, Adapt: Learning Functional Dexterous Grasping from a Single Human Demonstration [[arxiv link](https://arxiv.org/abs/2601.05243)][[project link](https://cordex-manipulation.github.io/)][[code|official](https://github.com/hxy-123/CorDex-Grasp)][`Cornell University`]
+
+* **GraspDreamer(arxiv2026.04)** Grasp as You Dream: Imitating Functional Grasping from Generated Human Demonstrations [[arxiv link](https://arxiv.org/abs/2604.07517)][[project link](https://sites.google.com/view/graspdreamer/home)][`KTH Royal Institute of Technology + Southern University of Science and Technology`]
+
+* **HRDexDB(arxiv2026.04)** HRDexDB: A Paired Human-Robot Dataset for Cross-Embodiment Dexterous Grasping [[arxiv link](https://arxiv.org/abs/2604.14944)][[project link](https://snuvclab.github.io/HRDexDB/)][[code|official](https://github.com/snuvclab/HRDexDB)][`Seoul National University + RLWRLD`]
+
+* **FingerViP(CoRL2026)(arxiv2026.04)** FingerViP: Learning Real-World Dexterous Manipulation with Fingertip Visual Perception [[arxiv link](https://arxiv.org/abs/2604.21331)][[project link](https://fingervip.github.io/)][[code|official](https://github.com/zhzhen0626/FingerViP)][`The Chinese University of Hong Kong + The Hong Kong Polytechnic University + Institute of Intelligent Design and Manufacturing, CUHK + Multi-Scale Medical Robotics Center (MRC), AIR@InnoHK`]
+
+* **SECOND-Grasp(arxiv2026.05)** SECOND-Grasp: Semantic Contact-guided Dexterous Grasping [[arxiv link](https://arxiv.org/abs/2605.13117)][`Korea University + University of Texas at Austin + University of Michigan + Hanyang University ERICA`]
+
+* **DexCraft(CoRL2026)(arxiv2026.06)** From Grasps to Dexterity: Large-Scale Grasp Pretraining for Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2606.30749)][[project link](https://yingyuan0414.github.io/grasp2dexterity/)][`Carnegie Mellon University`]
+
+* **AnyDexRT(arxiv2026.07)** AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot Human Guidance [[arxiv link](https://arxiv.org/abs/2607.08341)][[project link](https://chenxi-wang.github.io/projects/anydexrt/)][`Noematrix + Shanghai Jiao Tong University + Shanghai Innovation Institute`; `Cewu Lu`]
+
+* **RWCBD(IROS2026)(arxiv2026.08)** Real-World Cooperative Bimanual Dexterous Grasp of Large Objects from Single-View Observations [[arxiv link](https://arxiv.org/abs/2608.10383)][[code|official](https://github.com/zhangdana483/real_bi_dex_grasp)][`The University of Auckland + Chongqing University + Southwest University`]
+
 
 
 
