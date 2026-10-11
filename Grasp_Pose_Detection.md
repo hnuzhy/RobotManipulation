@@ -203,6 +203,14 @@
 
 * **OVAL-Grasp(ISER2025)(arxiv2025.11)** OVAL-Grasp: Open-Vocabulary Affordance Localization for Task Oriented Grasping [[arxiv link](https://arxiv.org/abs/2511.20841)][[project link](https://ekjt.github.io/OVAL-Grasp/)][`University of Michigan1 + J.P. Morgan AI Research`]
 
+* **VLAD-Grasp(RAL2026)** VLAD-Grasp: Vision-Language Adaptive Depth Grasping for Part-Specific Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/11489501)][`Guangxi Normal University`]
+
+* **AdaClearGrasp(arxiv2026.03)** AdaClearGrasp: Learning Adaptive Clearing for Zero-Shot Robust Dexterous Grasping in Densely Cluttered Environments [[arxiv link](https://arxiv.org/abs/2603.10616)][[project link](https://chenzixuan99.github.io/adaclear-grasp.github.io/)][[code|official](https://github.com/NJU-R-L-Group-Embodied-Lab/AdaClearGrasp)][`Nanjing University + Nanjing University of Posts and Telecommunications + National University of Singapore`]
+
+* **Agentic RAG-VLM(arxiv2026.06)** Agentic RAG-VLM: Affordance-Aware Retrieval-Augmented Generation with Self-Reflective Planning for Robotic Grasping [[arxiv link](https://arxiv.org/abs/2606.31200)][`Fudan University + Kean University`]
+
+* **PartialBiGrasp(CoRL2026)(arxiv2026.08)** PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views [[arxiv link](https://arxiv.org/abs/2608.19188)][[project link](https://partialbigrasp.github.io/)][[code|official](https://github.com/partialbigrasp/codebase/tree/main)][`Robotics Research Center, IIIT Hyderabad`]
+
 
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
