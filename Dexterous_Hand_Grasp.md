@@ -86,6 +86,8 @@
 
 * 👍* **mmEgoHand(arxiv2025.01)** mmEgoHand: Egocentric Hand Pose Estimation and Gesture Recognition with Head-mounted Millimeter-wave Radar and IMU [[arxiv link](https://arxiv.org/abs/2501.13805)][[code|official](https://github.com/WhisperYi/mmVR)][`Xi’an Jiaotong University + Zhejiang University`]
 
+* 👍**EgoH4(arxiv2025.04)** The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation [[arxiv link](https://arxiv.org/abs/2504.08654)][[project link](https://masashi-hatano.github.io/EgoH4/)][[code|official](https://github.com/masashi-hatano/EgoH4)][`Keio University + University of Bristol`]
+
 * **BaseNet-HaMeR(arxiv2025.08)** Enhancing Monocular 3D Hand Reconstruction with Learned Texture Priors [[arxiv link](https://arxiv.org/abs/2508.09629)][`ICS-FORTH + University of Texas at Austin + University of Crete`]
 
 * **HandUncertainty(BMVC2025)(arxiv2025.09)** Learning Correlation-aware Aleatoric Uncertainty for 3D Hand Pose Estimation [[arxiv link](https://arxiv.org/abs/2509.01242)][[project link](https://hand-uncertainty.github.io/)][`POSTECH + KAIST`]
@@ -120,11 +122,14 @@
 
 * **ConTrack(ECCV2026)(arxiv2026.06)** ConTrack: Constrained Hand Motion Tracking with Adaptive Trade-off Control [[paper link](https://link.springer.com/chapter/10.1007/978-3-032-37422-6_23)][[arxiv link](https://arxiv.org/abs/2606.03177)][[project link](https://www.lyt0112.com/projects/ConTrack)][[code|official](https://github.com/EmptyBlueBox/ConTrack)][`University of California San Diego`; `Xiaolong Wang`]
 
+* **Exo2EgoPose(ACMMM2026)(arxiv2026.07)** Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting [[arxiv link](https://arxiv.org/abs/2607.15890)][[code|official](https://github.com/ZhaofengSHI/Exo2EgoPose)][`University of Electronic Science and Technology of China`]
+
 * **HandVisibilityDetector(arxiv2026.08)** Hand Visibility Detector: Per-Keypoint Visibility Estimation for Hands [[arxiv link](https://arxiv.org/abs/2608.11574)][[code|official](https://github.com/ryhara/hand_visibility_detector)][`Keio University + National Institute of Advanced Industrial Science and Technology (AIST) + OMRON SINIC X Corporation + The University of Tokyo`]
 
 * **ACE-Ego-Hand(arxiv2026.08)** ACE-Ego-Hand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery [[arxiv link](https://arxiv.org/abs/2608.20308)][[project link](https://ggxxii.github.io/ace-ego-hand)][[code|official](https://github.com/ggxxii/ACE-Ego-Hand)][`Shanghai Jiao Tong University + Nanyang Technological University + The Chinese University of Hong Kong + ACE Robotics`]
 
 * **TransHands(arxiv2026.08)** TransHands: Repurposing Human Pose Encoders as Hand Pose Encoders [[arxiv link](https://arxiv.org/abs/2608.22341)][[code|official](https://github.com/picciolimilo/TransHands)][`Politecnico di Torino, Torino, Italy + Consiglio Nazionale delle Ricerche, Torino, Italy`]
+
 
 
 
@@ -264,6 +269,8 @@
 
 * 👍**InterVLA(ICCV2025)(arxiv2025.08)** Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions [[paper link](https://openaccess.thecvf.com/content/ICCV2025/html/Xu_Perceiving_and_Acting_in_First-Person_A_Dataset_and_Benchmark_for_ICCV_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2508.04681)][[project link](https://liangxuy.github.io/InterVLA/)][[code|official](https://github.com/liangxuy/InterVLA)][`Shanghai Jiao Tong University +  Eastern Institute of Technology, Ningbo, China + Ningbo Key Laboratory of Spatial Intelligence and Digital Derivative, Ningbo, China + Nanjing University of Aeronautics and Astronautics + Lenovo`; `Yichao Yan + Xiaokang Yang`]
 
+* 👍**EgoLoc(TPAMI2026)(arxiv2025.08)** EgoLoc: A Generalizable Solution for Temporal Interaction Localization in Egocentric Videos [[paper link](https://ieeexplore.ieee.org/abstract/document/11627683)][[arxiv link](https://arxiv.org/abs/2508.12349)][[code|official](https://github.com/IRMVLab/EgoLoc)][`Department of Automation, Shanghai Jiao Tong University`; `Hesheng Wang`]
+
 * **InstructHOI(NIPS2025 Spotlight)** InstructHOI: Context-Aware Instruction for Multi-Modal Reasoning in Human-Object Interaction Detection [[openreview link](https://openreview.net/forum?id=WjYvHSjXrP)][`Harbin Institute of Technology, Shenzhen + OPPO AI Center + Institute of Computing Technology, Chinese Academy of Sciences`]
 
 * 👍**ForeHand4D(arxiv2025.10)** Bimanual 3D Hand Motion and Articulation Forecasting in Everyday Images [[arxiv link](https://arxiv.org/abs/2510.06145)][[project link](https://ap229997.github.io/projects/forehand4d/)][[code|official](https://github.com/ap229997/forehand4d)][`University of Illinois Urbana-Champaign`]
@@ -288,15 +295,25 @@
 
 * 👍**ArtHOI(CVPR2026 Highlight)(arxiv2026.03)** ArtHOI: Taming Foundation Models for Monocular 4D Reconstruction of Hand-Articulated-Object Interactions [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_ArtHOI_Taming_Foundation_Models_for_Monocular_4D_Reconstruction_of_Hand-Articulated-Object_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2603.25791)][[project link](https://arthoi-reconstruction.github.io/)][[code|official](https://github.com/hitcs-zikaiwang/ArtHOI-4D-Reconstruction)][`Harbin Institute of Technology + Shanghai Jiao Tong University`]
 
+* 👍👍**JointControlvideo(ECCV2026)(arxiv2026.03)** Controllable Egocentric Video Generation via Occlusion-Aware Sparse 3D Hand Joints [[paper link](https://link.springer.com/chapter/10.1007/978-3-032-37038-9_38)][[arxiv link](https://arxiv.org/abs/2603.11755)][[project link](https://zhangcyg.github.io/handcontrolvideo/)][[code|official](https://github.com/ZhangCYG/JointControlVideo)][`ETH Zurich + ETH AI Center + MPI for Informatics + Microsoft`]
+
 * **HandX(CVPR2026)(arxiv2026.03)** HandX: Scaling Bimanual Motion and Interaction Generation [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_HandX_Scaling_Bimanual_Motion_and_Interaction_Generation_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2603.28766)][[project link](https://handx-project.github.io/)][[code|official](https://github.com/handx-project/HandX)][`University of Illinois Urbana-Champaign + Specs Inc. + Snap Inc.`]
 
 * 👍**GraG(SIGGRAPH2026)(arxiv2026.04)** Grasp in Gaussians: Fast Monocular Reconstruction of Dynamic Hand-Object Interactions [[arxiv link](https://arxiv.org/abs/2604.12929)][[project link](https://aidilayce.github.io/GraG-page/)][[code|official](https://github.com/aidilayce/GraG)][`Max Planck Institute for Informatics, Saarland Informatics Campus, Saarbrücken, Germany + Saarbrucken Research Center for Visual Computing, Interaction and AI + Google + Bielefeld University, Bielefeld, Germany`]
+
+* 👍👍**EgoFlow(CVPR2026)(arxiv2026.04)** EgoFlow: Gradient-Guided Flow Matching for Egocentric 6DoF Object Motion Generation [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Saroha_EgoFlow_Gradient-Guided_Flow_Matching_for_Egocentric_6DoF_Object_Motion_Generation_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2604.01421)][[project link](https://abhi-rf.github.io/egoflow/)][[code|official](https://github.com/abhi-rf/egoflow)][`TU München + MCML + MBZUAI + ETH Zürich`]
+
+* 👍👍**EgoFun3D(arxiv2026.04)** EgoFun3D: Modeling Interactive Objects from Egocentric Videos using Function Templates [[arxiv link](https://arxiv.org/abs/2604.11038)][[project link](https://3dlg-hcvc.github.io/EgoFun3D/)][[code|official](https://github.com/3dlg-hcvc/EgoFun3D)][`Simon Fraser University`]
 
 * **Dex2HOI(arxiv2026.05)** Dex2HOI: Dexterous Bimanual Two-Object Interaction Generation [[arxiv link](https://arxiv.org/abs/2605.30444)][[project link](https://cpratikaki.github.io/dex2hoi/)][[code|official](https://github.com/cpratikaki/Dex2HOI)][`Imperial College London + University of Alicante`]
 
 * 👍**EPIC-Contact/HOPformer(ECCV2026)(arxiv2026.06)** Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-032-37595-7_2)][[arxiv link](https://arxiv.org/abs/2606.30598)][[project link](https://sid2697.github.io/epic-contact/)][[code|official](https://github.com/Sid2697/HOPformer)][`University of Bristol + Max Planck Institute for Intelligent Systems`; `Michael Black`]
 
+* **HandsOnWorld(arxiv2026.07)** HandsOnWorld: Unconstrained Egocentric Video Generation with Camera-Disentangled Hand Control [[arxiv link](https://arxiv.org/abs/2607.02075)][[project link](https://shad0wta9.github.io/handsonworld-page/)][`Tsinghua University + Kling Team, Kuaishou Technology + Chinese University of Hong Kong`]
+
 * 👍**EgoPHI(ECCV2026)(arxiv2026.08)** EgoPHI: Estimating 3D Hand-Object Contact and Force from Egocentric Vision [[paper link](https://link.springer.com/chapter/10.1007/978-3-032-37362-5_22)][[arxiv link](https://arxiv.org/abs/2608.13014)][[project link](https://siplab.org/projects/EgoPHI)][[code|official](https://github.com/eth-siplab/EgoPHI)][`Department of Computer Science, ETH Zürich, Switzerland`]
+
+* **EMPIRE(arxiv2026.08)** EMPIRE: Explicit Manipulation Planning as a Learnable Intermediate Representation for Egocentric Hand-Motion Forecasting [[arxiv link](https://arxiv.org/abs/2608.22449)][[code|official](https://github.com/wangwen-banban/EMPIRE)][`Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, China + University of Chinese Academy of Sciences, China`]
 
 
 
