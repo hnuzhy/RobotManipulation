@@ -53,6 +53,27 @@
 
 * **F-HOI(arxiv2024.07)** F-HOI: Toward Fine-grained Semantic-Aligned 3D Human-Object Interactions [[arxiv link](https://arxiv.org/abs/2407.12435)][[project link](https://f-hoi.github.io/)][[dataset link](https://drive.google.com/file/d/1cw3ZmNs8HwirV-b_Stb1YSHBy8bFi58Y/view?usp=sharing)][`CUHKSZ + BIGAI + PKU`]
 
+* **ReGenHOI(CVPR2026)** ReGenHOI: Unifying Reconstruction and Generation for 3D Human-Object Interaction Understanding [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_ReGenHOI_Unifying_Reconstruction_and_Generation_for_3D_Human-Object_Interaction_Understanding_CVPR_2026_paper.html)][[code|official](https://github.com/xumiao66/ReGenHOI)][`Chinese Academy of Sciences + University of Chinese Academy of Sciences + City University of Hong Kong`]
+
+* **DiagHOI(CVPR2026 Workshop)** DiagHOI: A Diagnostic Benchmark for Human-Object Interaction Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2026W/SAUAFG/html/Wang_DiagHOI_A_Diagnostic_Benchmark_for_Human-Object_Interaction_Detection_CVPRW_2026_paper.html)][`The Ohio State University + National University of Singapore + Boston University + Independent Researcher + University of Mississippi`]
+
+* **HUG3D(CVPR2026 Highlight)(arxiv2026.04)** Human Interaction-Aware 3D Reconstruction from a Single Image [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_Human_Interaction-Aware_3D_Reconstruction_from_a_Single_Image_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2604.05436)][[project link](https://jongheean11.github.io/HUG3D_project/)][`Seoul National University`]
+
+* **GenPHRI(arxiv2026.04)** GenPHRI: Agentic Generative Simulation for Physical Human-Robot Interaction [[arxiv link](https://arxiv.org/abs/2604.08664)][[project link](https://rchi-lab.github.io/gen_phri/)][`Robotics Institute, Carnegie Mellon University`]
+
+* **TAIHRI(ECCV2026)(arxiv2026.04)** TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction [[paper link](https://link.springer.com/chapter/10.1007/978-3-032-36984-0_11)][[arxiv link](https://arxiv.org/abs/2604.08921)][[code|official](https://github.com/Tencent/TAIHRI)][`Tsinghua Shenzhen International Graduate School, Tsinghua University + Tencent Robotics X + Futian Laboratory`]
+
+* **SocialMirror(CVPR2026 Finding)(arxiv2026.04)** SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance [[paper link](https://openaccess.thecvf.com/content/CVPR2026F/html/Xia_SocialMirror_Reconstructing_3D_Human_Interaction_Behaviors_from_Monocular_Videos_with_CVPRF_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2604.13581)][[ICLR2026 rejected](https://openreview.net/forum?id=X5U5bdG1Gd)][`ShanghaiTech University + Nanyang Technological University + Guangzhou Institute of Energy Conversion, CAS + University of Science and Technology of China + The Chinese University of Hong Kong + Inceptio Technology + Shanghai Jiao Tong University`]
+
+* **AnyHOI(FG2026)(arxiv2026.04)** Towards Unconstrained Human-Object Interaction [[paper link](https://ieeexplore.ieee.org/abstract/document/11557036/)][[arxiv link](https://arxiv.org/abs/2604.14069)][[code|official](https://github.com/francescotonini/anyhoi)][`University of Trento + Fondazione Bruno Kessler + University of Verona`]
+
+* **HUM4D(CVPR2026 Workshop)(arxiv2026.04)** A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture [[paper link](https://openaccess.thecvf.com/content/CVPR2026W/ReGen4D/html/Park_A_Dataset_and_Evaluation_for_Complex_4D_Markerless_Human_Motion_CVPRW_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2604.12765)][[project link](https://parkyeeun23.github.io/HUM4D/)][[code|official](https://github.com/ParkYeeun23/HUM4D-processing)][`Texas A&M University, College Station, Texas, USA`]
+
+* **Pi-HOC(arxiv2026.04)** Pi-HOC: Pairwise 3D Human-Object Contact Estimation [[arxiv link](https://arxiv.org/abs/2604.12923)][[project link](https://pi-hoc.github.io/)][[code|official](https://github.com/SravanChittupalli/Pi-HOC)][`Carnegie Mellon University + National Robotics Engineering Center (NREC)`]
+
+* **DeVI(arxiv2026.04)** DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation [[arxiv link](https://arxiv.org/abs/2604.20841)][[project link](https://snuvclab.github.io/devi/)][[code|official](https://github.com/snuvclab/devi)][`Seoul National University + RLWRLD`]
+
+
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
