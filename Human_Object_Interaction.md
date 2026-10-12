@@ -35,6 +35,8 @@
 
 * **UniVRD(arxiv2023.03)** Unified Visual Relationship Detection with Vision and Language Models [[paper link](https://arxiv.org/abs/2303.08998v1)][[paperswithcode](https://paperswithcode.com/paper/unified-visual-relationship-detection-with)]
 
+* **InterDiff(ICCV2023)** InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_InterDiff_Generating_3D_Human-Object_Interactions_with_Physics-Informed_Diffusion_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.16905)][[project link](https://sirui-xu.github.io/InterDiff/)][[code|official](https://github.com/Sirui-Xu/InterDiff)][`University of Illinois at Urbana-Champaign`, `Human-Object Interactions`]
+
 * 👍**HOT(CVPR2023)** Detecting Human-Object Contact in Images [[paper link](https://arxiv.org/abs/2303.03373)][[project link](https://hot.is.tue.mpg.de/)][[paperswithcode](https://paperswithcode.com/paper/detecting-human-object-contact-in-images)][`马普所`][`HOT` dataset]
 
 * **ViPLO(CVPR2023)** ViPLO: Vision Transformer based Pose-Conditioned Self-Loop Graph for Human-Object Interaction Detection [[paper link](https://arxiv.org/abs/2304.08114v1)][[code|official](https://github.com/Jeeseung-Park/ViPLO)][[paperswithcode](https://paperswithcode.com/paper/viplo-vision-transformer-based-pose)]
@@ -57,6 +59,8 @@
 
 * **DiagHOI(CVPR2026 Workshop)** DiagHOI: A Diagnostic Benchmark for Human-Object Interaction Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2026W/SAUAFG/html/Wang_DiagHOI_A_Diagnostic_Benchmark_for_Human-Object_Interaction_Detection_CVPRW_2026_paper.html)][`The Ohio State University + National University of Singapore + Boston University + Independent Researcher + University of Mississippi`]
 
+* **FunHSI(arxiv2026.01)** Open-Vocabulary Functional 3D Human-Scene Interaction Generation [[arxiv link](https://arxiv.org/abs/2601.20835)][[project link](https://jliu4ai.github.io/projects/funhsi/)][`Meshcapade + University of Amsterdam + Max Planck Institute for Intelligent Systems + Stanford University`; `Michael J. Black`]
+
 * **HUG3D(CVPR2026 Highlight)(arxiv2026.04)** Human Interaction-Aware 3D Reconstruction from a Single Image [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_Human_Interaction-Aware_3D_Reconstruction_from_a_Single_Image_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2604.05436)][[project link](https://jongheean11.github.io/HUG3D_project/)][`Seoul National University`]
 
 * **GenPHRI(arxiv2026.04)** GenPHRI: Agentic Generative Simulation for Physical Human-Robot Interaction [[arxiv link](https://arxiv.org/abs/2604.08664)][[project link](https://rchi-lab.github.io/gen_phri/)][`Robotics Institute, Carnegie Mellon University`]
@@ -73,7 +77,8 @@
 
 * **DeVI(arxiv2026.04)** DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation [[arxiv link](https://arxiv.org/abs/2604.20841)][[project link](https://snuvclab.github.io/devi/)][[code|official](https://github.com/snuvclab/devi)][`Seoul National University + RLWRLD`]
 
-
-
+* **GRASP(NIPS2026)(arxiv2026.05)** GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions [[arxiv link](https://arxiv.org/abs/2605.15764)][[project link](https://social-reaoning.github.io/grasp/)][[code|official](https://github.com/Social-Reaoning/grasp)][`UIUC + Georgia Tech + Amazon AGI + Korea University`]
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+
 
