@@ -41,6 +41,13 @@
 
 * **XHand(arxiv2024.07)** XHand: Real-time Expressive Hand Avatar [[arxiv link](https://arxiv.org/abs/2407.21002)][[project link](https://agnjason.github.io/XHand-page/)][[code|official](https://github.com/agnJason/XHand)][`Zhejiang University`][Hand Avatar = 3D Hand Mesh + Texture]
 
+* **MASS(arxiv2026.04)** MASS: Mesh-inellipse Aligned Deformable Surfel Splatting for Hand Reconstruction and Rendering from Egocentric Monocular Video [[arxiv link](https://arxiv.org/abs/2604.08943)][`The Hong Kong Polytechnic University`]
+
+* **TouchMap-OR(CVPR2026 Workshop)(arxiv2026.05)** TouchMap-OR: Multi-View 3D Mapping of Hand-Surface Contacts [[paper link](https://openaccess.thecvf.com/content/CVPR2026W/CV4Clinic2026/html/Ktistakis_TouchMap-OR_Multi-View_3D_Mapping_of_Hand-Surface_Contacts_CVPRW_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2605.17638)][`ETH Zurich + Institute for Anesthesiology and Perioperative Medicine, University Hospital Zurich + Department of Public and Global Health, University of Zurich`]
+
+
+
+
 ### ▶ Hand 3D Pose Estimation/Shape Regression
 
 * **HMP(WACV2024)** HMP: Hand Motion Priors for Pose and Shape Estimation From Video [[paper link](https://openaccess.thecvf.com/content/WACV2024/html/Duran_HMP_Hand_Motion_Priors_for_Pose_and_Shape_Estimation_From_WACV_2024_paper.html)][[project link](https://hmp.is.tue.mpg.de/)][[code|official](https://github.com/enesduran/HMP)][`MPII`, taking video as the input, tested on datasets `HO3D` and `DexYCB`, mainly focusing on `hand occlusions`]
@@ -77,9 +84,47 @@
 
 * 👍👍**HaWoR(CVPR2025 Highlight)(arxiv2025.01)** HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_HaWoR_World-Space_Hand_Motion_Reconstruction_from_Egocentric_Videos_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2501.02973)][[project link](https://hawor-project.github.io/)][[code|official](https://github.com/ThunderVVV/HaWoR)][`Shanghai Jiao Tong University, China + Imperial College London, UK`]
 
+* 👍* **mmEgoHand(arxiv2025.01)** mmEgoHand: Egocentric Hand Pose Estimation and Gesture Recognition with Head-mounted Millimeter-wave Radar and IMU [[arxiv link](https://arxiv.org/abs/2501.13805)][[code|official](https://github.com/WhisperYi/mmVR)][`Xi’an Jiaotong University + Zhejiang University`]
+
 * **BaseNet-HaMeR(arxiv2025.08)** Enhancing Monocular 3D Hand Reconstruction with Learned Texture Priors [[arxiv link](https://arxiv.org/abs/2508.09629)][`ICS-FORTH + University of Texas at Austin + University of Crete`]
 
 * **HandUncertainty(BMVC2025)(arxiv2025.09)** Learning Correlation-aware Aleatoric Uncertainty for 3D Hand Pose Estimation [[arxiv link](https://arxiv.org/abs/2509.01242)][[project link](https://hand-uncertainty.github.io/)][`POSTECH + KAIST`]
+
+* **TokenHand(CVPR2026)** TokenHand: Discrete Token Representation for Efficient Hand Mesh Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/He_TokenHand_Discrete_Token_Representation_for_Efficient_Hand_Mesh_Reconstruction_CVPR_2026_paper.html)][`Chair of Media Technology, Technical University of Munich + Munich Institute of Robotics and Machine Intelligence, Technical University of Munich`]
+
+* 👍**EgoHandICL(ICLR2026)(arxiv2026.01)** EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning [[paper link](https://proceedings.iclr.cc/paper_files/paper/2026/hash/3a7cb31c8f4fa170aaa38f0e28d6042e-Abstract-Conference.html)][[openreview link](https://openreview.net/forum?id=nwjy9BeorI)][[arxiv link](https://arxiv.org/abs/2601.19850)][[code|official](https://github.com/Nicous20/EgoHandICL)][`The Chinese University of Hong Kong + Institute of Medical Intelligence and XR, The Chinese University of Hong Kong + Department of Computer Science, Khalifa University`]
+
+* **V-HPOT(WACV2026)(arxiv2026.01)** Towards Egocentric 3D Hand Pose Estimation in Unseen Domains [[paper link](https://ieeexplore.ieee.org/abstract/document/11492712)][[arxiv link](https://arxiv.org/abs/2601.06537)][[code|official](https://github.com/wiktormucha/vhpot)][`Computer Vision Lab, TU Wien + SoftServe Inc., Krakow, Poland + University of Bristol`]
+
+* **HandMCM(AAAI2026)(arxiv2026.02)** HandMCM: Multi-modal Point Cloud-based Correspondence State Space Model for 3D Hand Pose Estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/37324)][[arxiv link](https://arxiv.org/abs/2602.01586)][`National University of Singapore`]
+
+* **Fast-HaMeR(arxiv2026.03)** Fast-HaMeR: Boosting Hand Mesh Reconstruction using Knowledge Distillation [[arxiv link](https://arxiv.org/abs/2603.16444)][[code|official](https://github.com/hunainahmedj/Fast-HaMeR)][`RPTU, Kaiserslautern, Germany + DFKI-AV, Kaiserslautern, Germany + UPM, Saudi Arabia + NUST-SEECS, Islamabad, Pakistan`]
+
+* 👍**AnyHand(NIPS2026)(arxiv2026.03)** AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation [[arxiv link](https://arxiv.org/abs/2603.25726)][[project link](https://chen-si-cs.github.io/projects/AnyHand/)][[code|official](https://github.com/chen-si-cs/AnyHand)][`UC San Diego + Lambda, Inc + Imperial College London + Nanyang Technological University`; `Rolandos Alexandros Potamias + Hao Su`]
+
+* 👍**HGGT(arxiv2026.03)** HGGT: Robust and Flexible 3D Hand Mesh Reconstruction from Uncalibrated Images [[arxiv link](https://arxiv.org/abs/2603.23997)][[project link](https://lym29.github.io/HGGT/)][[code|official](https://github.com/lym29/HGGT)][`University of Science and Technology of China + Nanjing University + Max-Planck-Institut für Informatik + Macau University of Science and Technology + Hong Kong University of Science and Technology + ShanghaiTech University`][`Hand Geometry Grounding Transformer (HGGT)`]
+
+* 👍**StableHand(NIPS2026)(arxiv2026.05)** StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video [[arxiv link](https://arxiv.org/abs/2605.18553)][[project link](https://huajian-zeng.github.io/projects/stablehand/)][[code|official](https://github.com/huajian-zeng/stablehand)][`Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) + University of Illinois at Urbana-Champaign (UIUC) + Imperial College London`]
+
+* **EgoEV-HandPose(arxiv2026.05)** EgoEV-HandPose: Egocentric 3D Hand Pose Estimation and Gesture Recognition with Stereo Event Cameras [[arxiv link](https://arxiv.org/abs/2605.12297)][[code|official](https://github.com/ZJUWang01/EgoEV-HandPose)][`Zhejiang University + Hunan University + Ant Group Company Ltd. + Central Research Institute of Sunny Optical Technology`]
+
+* **EgoEMG(arxiv2026.05)** EgoEMG: A Multimodal Egocentric Dataset with Bilateral EMG and Vision for Hand Pose Estimation [[arxiv link](https://arxiv.org/abs/2605.05712)][[project link](https://zhenqis123.github.io/egoemg-site/)][[code|official](https://github.com/zhenqis123/EgoEMG)][`Department of Automation, Tsinghua University`]
+
+* **UST-Hand(CVPR2026)(arxiv2026.05)** UST-Hand: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Han_UST-Hand_An_Uncertainty-aware_Spatiotemporal_Point_Cloud_Interaction_Network_for_3D_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2605.17742)][`Shanghai Jiao Tong University + Beijing University of Posts and Telecommunications + Sun Yat-sen University + Peking University, + Defense Innovation Institute, Academy of Military Sciences + Tianjin Artificial Intelligence Innovation Center`]
+
+* **EgoForce(SIGGRAPH2026)(arxiv2026.05)** EgoForce: Forearm-Guided Camera-Space 3D Hand Pose from a Monocular Egocentric Camera [[paper link](https://dl.acm.org/doi/abs/10.1145/3799902.3811047)][[arxiv link](https://arxiv.org/abs/2605.12498)][[project link](https://dfki-av.github.io/EgoForce/)][[code|official](https://github.com/dfki-av/EgoForce)][`German Research Center for Artificial Intelligence (DFKI) + Rhineland-Palatinate Technical University of Kaiserslautern-Landau (RPTU) + Max Planck Institute for Informatics (MPII)`]
+
+* **GeoHand(arxiv2026.05)** GeoHand: Unlocking Prior Geometry Knowledge for Monocular 3D Hand Reconstruction [[arxiv link](https://arxiv.org/abs/2605.17354)][`School of Artificial Intelligence, Xidian University + Zhongguancun Academy + School of Automation, Beijing Institute of Technology`]
+
+* **AVI-HT(arxiv2026.05)** AVI-HT: Adaptive Vision-IMU Fusion for 3D Hand Tracking [[arxiv link](https://arxiv.org/abs/2605.21714)][`Meta Reality Labs`]
+
+* **ConTrack(ECCV2026)(arxiv2026.06)** ConTrack: Constrained Hand Motion Tracking with Adaptive Trade-off Control [[paper link](https://link.springer.com/chapter/10.1007/978-3-032-37422-6_23)][[arxiv link](https://arxiv.org/abs/2606.03177)][[project link](https://www.lyt0112.com/projects/ConTrack)][[code|official](https://github.com/EmptyBlueBox/ConTrack)][`University of California San Diego`; `Xiaolong Wang`]
+
+* **HandVisibilityDetector(arxiv2026.08)** Hand Visibility Detector: Per-Keypoint Visibility Estimation for Hands [[arxiv link](https://arxiv.org/abs/2608.11574)][[code|official](https://github.com/ryhara/hand_visibility_detector)][`Keio University + National Institute of Advanced Industrial Science and Technology (AIST) + OMRON SINIC X Corporation + The University of Tokyo`]
+
+* **ACE-Ego-Hand(arxiv2026.08)** ACE-Ego-Hand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery [[arxiv link](https://arxiv.org/abs/2608.20308)][[project link](https://ggxxii.github.io/ace-ego-hand)][[code|official](https://github.com/ggxxii/ACE-Ego-Hand)][`Shanghai Jiao Tong University + Nanyang Technological University + The Chinese University of Hong Kong + ACE Robotics`]
+
+* **TransHands(arxiv2026.08)** TransHands: Repurposing Human Pose Encoders as Hand Pose Encoders [[arxiv link](https://arxiv.org/abs/2608.22341)][[code|official](https://github.com/picciolimilo/TransHands)][`Politecnico di Torino, Torino, Italy + Consiglio Nazionale delle Ricerche, Torino, Italy`]
 
 
 
@@ -94,6 +139,10 @@
 * **EgoPressure(arxiv2024.09)** EgoPressure: A Dataset for Hand Pressure and Pose Estimation in Egocentric Vision [[arxiv link](https://arxiv.org/abs/2409.02224)][[project link](https://yiming-zhao.github.io/EgoPressure/)][`ETH Zurich + Microsoft`][It used the `MANO`]
 
 * **TouchInsight(UIST2024)(arxiv2024.10)** TouchInsight: Uncertainty-aware Rapid Touch and Text Input for Mixed Reality from Egocentric Vision [[paper link](https://dl.acm.org/doi/10.1145/3654777.3676330)][[arxiv link](https://arxiv.org/abs/2410.05940)][[project link](https://siplab.org/projects/TouchInsight)][`ETH Zürich + Meta`]
+
+* **EgoPressDiff(ICASSP2026)(arxiv2026.06)** EgoPressDiff: Multimodal Video Diffusion for Egocentric UV-Domain Hand-Pressure Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/11463813)][[arxiv link](https://arxiv.org/abs/2606.06872)][[project link](https://egopressdiff.github.io/)][[code|official](https://anonymous.4open.science/r/EgoPressDiff/README.md)][`Shenzhen International Graduate School, Tsinghua University + Harbin Institute of Technology + Pengcheng Laboratory`]
+
+* **HOPE(NIPS2026)(arxiv2026.08)** HOPE: Hand-Object Pressure Estimation from Monocular Videos [[arxiv link](https://arxiv.org/abs/2608.06192)][[project link](https://subin6.github.io/page-hope/)][`Seoul National University + RLWRLD`]
 
 
 ### ▶ Hand Object Interaction Related
@@ -187,6 +236,10 @@
 
 * **HoP(arxiv2024.09)** Hand-Object Interaction Pretraining from Videos [[arxiv link](https://arxiv.org/abs/2409.08273)][[project link](https://hgaurav2k.github.io/hop/)][[code|official](https://github.com/hgaurav2k/hop)][`University of California, Berkeley`; `Pieter Abbeel`]
 
+* 👍👍**HOP(ICRA2025)(arxiv2024.09)** Hand-Object Interaction Pretraining from Videos [[paper link](https://ieeexplore.ieee.org/abstract/document/11127811)][[arxiv link](https://arxiv.org/abs/2409.08273)][[project link](https://himanshusingh.ai/hop/)][[code|official](https://github.com/hgaurav2k/hop)][`University of California, Berkeley`; `Pieter Abbeel`]
+
+* 👍👍**ManiDext(TPAMI2025)(arxiv2024.09)** ManiDext: Hand-Object Manipulation Synthesis via Continuous Correspondence Embeddings and Residual-Guided Diffusion [[paper link](https://ieeexplore.ieee.org/document/11077949)][[arxiv link](https://arxiv.org/abs/2409.09300)][[project link](https://jiajunzhang16.github.io/manidext/)][[code|official]()][`Beijing University of Posts and Telecommunications + Tsinghua University + Beijing Normal University`]
+
 * **FürElise(SIGGRAPH Asia 2024)(arxiv2024.10)** FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance [[arxiv link](https://arxiv.org/abs/2410.05791)][[project link](https://for-elise.github.io/)][`Stanford University`]
 
 * **UniHOI(arxiv2024.11)** UniHOI: Learning Fast, Dense and Generalizable 4D Reconstruction for Egocentric Hand Object Interaction Videos [[arxiv link](https://arxiv.org/abs/2411.09145)][`Tsinghua University + Shanghai Artificial Intelligence Laboratory + Shanghai Qi Zhi Institute`; `Yang Gao`]
@@ -218,6 +271,30 @@
 * **ROHIT(arxiv2025.12)** Reconstructing Objects along Hand Interaction Timelines in Egocentric Video [[arxiv link](https://arxiv.org/abs/2512.07394)][[project link](https://zhifanzhu.github.io/objects-along-hit/)][[code|official](https://github.com/zhifanzhu/objects-along-hit)][`University of Bristol, UK + Max Planck Institute for Intelligent Systems, Tübingen, Germany`]
 
 * **HanDyVQA(arxiv2025.12)** HanDyVQA: A Video QA Benchmark for Fine-Grained Hand-Object Interaction Dynamics [[arxiv link](https://arxiv.org/abs/2512.00885)][[project link](https://masatate.github.io/HanDyVQA-project-page/)][`The University of Tokyo + National Institute of Advanced Industrial Science and Technology (AIST) + Waseda University + Oxford VGG`]
+
+* **EgoGrasp(arxiv2026.01)** EgoGrasp: World-Space Hand-Object Interaction Estimation from Egocentric Videos [[arxiv link](https://arxiv.org/abs/2601.01050)][[project link](https://frank-f2022.github.io/projects/EgoGrasp/)][[code|official](https://github.com/MINT-SJTU/EgoGrasp)][`Shanghai Jiao Tong University + The University of Hong Kong + University of Science and Technology of China + Imperial College London + Harbin Institute of Technology (Shenzhen) + Beijing Academy of Artificial Intelligence`]
+
+* **WHOLE(CVPR2026 Finding)(arxiv2026.02)** WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos [[paper link](https://openaccess.thecvf.com/content/CVPR2026F/html/Ye_WHOLE_World-Grounded_Hand-Object_Lifted_from_Egocentric_Videos_CVPRF_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2602.22209)][[project link](https://judyye.github.io/whole-www/)][`Stanford University`]
+
+* 👍**ForeHOI(CVPR2026)(arxiv2026.02)** ForeHOI: Feed-forward 3D Object Reconstruction from Daily Hand-Object Interaction Videos [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_ForeHOI_Feed-forward_3D_Object_Reconstruction_from_Daily_Hand-Object_Interaction_Videos_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2602.06226)][[project link](https://tao-11-chen.github.io/project_pages/ForeHOI/)][[code|official](https://github.com/Tao-11-chen/ForeHOI)][`SE, CUHKSZ + FNii-Shenzhen + SDS, CUHKSZ`]
+
+* 👍**AGILE(SIGGRAPH2026)(arxiv2026.02)** AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation [[paper link](https://dl.acm.org/doi/abs/10.1145/3799902.3811134)][[arxiv link](https://arxiv.org/abs/2602.04672)][[project link](https://agile-hoi.github.io/)][[code|official](https://github.com/Chuan-10/AGILE)][`State Key Lab of CAD & CG, Zhejiang University + Zhejiang University of Technology`]
+
+* **HOI-Synth(IJCV2026)(arxiv2026.03)** Leveraging Synthetic Data for Enhancing Egocentric Hand-Object Interaction Detection [[paper link](https://link.springer.com/article/10.1007/s11263-026-02838-8)][[arxiv link](https://arxiv.org/abs/2603.29733)][[project link](https://fpv-iplab.github.io/HOI-Synth/)][[code|official](https://github.com/fpv-iplab/HOI-Synth)][`University of Catania, Catania, Italy`]
+
+* **GHOST(CVPR2026 Finding)(arxiv2026.03)** GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting [[paper link](https://openaccess.thecvf.com/content/CVPR2026F/papers/Aboukhadra_GHOST_Fast_Category-Agnostic_Hand-Object_Interaction_Reconstruction_from_RGB_Videos_Using_CVPRF_2026_paper.pdf)][[arxiv link](https://arxiv.org/abs/2603.18912)][[project link](https://ataboukhadra.github.io/ghost/)][[code|official](https://github.com/ATAboukhadra/GHOST)][`RPTU + DFKI-AV Kaiserslautern + UPM Saudi Arabia + NUST-SEECS Pakistan`]
+
+* 👍**ArtHOI(CVPR2026 Highlight)(arxiv2026.03)** ArtHOI: Taming Foundation Models for Monocular 4D Reconstruction of Hand-Articulated-Object Interactions [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_ArtHOI_Taming_Foundation_Models_for_Monocular_4D_Reconstruction_of_Hand-Articulated-Object_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2603.25791)][[project link](https://arthoi-reconstruction.github.io/)][[code|official](https://github.com/hitcs-zikaiwang/ArtHOI-4D-Reconstruction)][`Harbin Institute of Technology + Shanghai Jiao Tong University`]
+
+* **HandX(CVPR2026)(arxiv2026.03)** HandX: Scaling Bimanual Motion and Interaction Generation [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_HandX_Scaling_Bimanual_Motion_and_Interaction_Generation_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2603.28766)][[project link](https://handx-project.github.io/)][[code|official](https://github.com/handx-project/HandX)][`University of Illinois Urbana-Champaign + Specs Inc. + Snap Inc.`]
+
+* 👍**GraG(SIGGRAPH2026)(arxiv2026.04)** Grasp in Gaussians: Fast Monocular Reconstruction of Dynamic Hand-Object Interactions [[arxiv link](https://arxiv.org/abs/2604.12929)][[project link](https://aidilayce.github.io/GraG-page/)][[code|official](https://github.com/aidilayce/GraG)][`Max Planck Institute for Informatics, Saarland Informatics Campus, Saarbrücken, Germany + Saarbrucken Research Center for Visual Computing, Interaction and AI + Google + Bielefeld University, Bielefeld, Germany`]
+
+* **Dex2HOI(arxiv2026.05)** Dex2HOI: Dexterous Bimanual Two-Object Interaction Generation [[arxiv link](https://arxiv.org/abs/2605.30444)][[project link](https://cpratikaki.github.io/dex2hoi/)][[code|official](https://github.com/cpratikaki/Dex2HOI)][`Imperial College London + University of Alicante`]
+
+* 👍**EPIC-Contact/HOPformer(ECCV2026)(arxiv2026.06)** Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-032-37595-7_2)][[arxiv link](https://arxiv.org/abs/2606.30598)][[project link](https://sid2697.github.io/epic-contact/)][[code|official](https://github.com/Sid2697/HOPformer)][`University of Bristol + Max Planck Institute for Intelligent Systems`; `Michael Black`]
+
+* 👍**EgoPHI(ECCV2026)(arxiv2026.08)** EgoPHI: Estimating 3D Hand-Object Contact and Force from Egocentric Vision [[paper link](https://link.springer.com/chapter/10.1007/978-3-032-37362-5_22)][[arxiv link](https://arxiv.org/abs/2608.13014)][[project link](https://siplab.org/projects/EgoPHI)][[code|official](https://github.com/eth-siplab/EgoPHI)][`Department of Computer Science, ETH Zürich, Switzerland`]
 
 
 
