@@ -1829,16 +1829,40 @@
 ### ※ 14) Manipulation with Mobility/Locomotion/Aircraft/ActiveCam/Whole-Body
 <details>
 <summary>Click Here to Show All</summary>
- 
+
+* **Walk These Ways(CoRL2022)(arxiv2022.12)** Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior [[arxiv link](https://arxiv.org/abs/2212.03238)][[project link](https://gmargo11.github.io/walk-these-ways/)][[code|official](https://github.com/Improbable-AI/walk-these-ways)][`MIT`][using `Unitree Go1 robot`]
+
+* **XMoP(RSS Workshop 2024)** Whole-Body Neural Policy for Zero-Shot Cross-Embodiment Motion Planning [[openreview link](https://openreview.net/forum?id=fg0NWbup5t)][[project link](https://sites.google.com/view/xmop)][[code|official](https://github.com/prabinrath/xmop)][`Arizona State University`]
+
 * 👍**MobileALOHA(CoRL2024)(arxiv2024.01)** Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[openreview link](https://openreview.net/forum?id=FO6tePGRZj)][[paper link](https://proceedings.mlr.press/v270/fu25b.html)][[arxiv link](https://arxiv.org/abs/2401.02117)][[project link](https://mobile-aloha.github.io/)][[code|official](https://github.com/MarkFzp/mobile-aloha)][`Stanford University`; `Chelsea Finn`]
+
+* **ExBody(RSS2024)(arxiv2024.02)** Expressive Whole-Body Control for Humanoid Robots [[arxiv link](https://arxiv.org/abs/2402.16796)][[project link](https://expressive-humanoid.github.io/)][`UC San Diego + HKUST`; related to [`Xiaolong Wang`](https://xiaolonw.github.io/) group; using the `Unitree H1 humanoid`]
+
+* **LegManip(arxiv2024.03)** Learning Visual Quadrupedal Loco-Manipulation from Demonstrations [[arxiv link](https://arxiv.org/abs/2403.20328)][[project link](https://zhengmaohe.github.io/leg-manip/)][`Shanghai Qi Zhi Institute + University of California, Berkeley + Tsinghua University + HKUST-GZ`][It aims to empower a `quadruped robot` to execute real-world manipulation tasks `using only its legs`; It used `3D Diffusion Policy` as the `high-level planner`.]
+
+* **VBC(CoRL2024, Oral)(arxiv2024.03)** Visual Whole-Body Control for Legged Loco-Manipulation [[openreview link](https://openreview.net/forum?id=cT2N3p1AcE)][[arxiv link](https://arxiv.org/abs/2403.16967)][[project link](https://wholebody-b1.github.io/)][[code|official](https://github.com/Ericonaldo/visual_wholebody)][`UC San Diego + Shanghai Jiao Tong University + Fudan University` + `Xiaolong Wang`]
 
 * **GeFF-b1(arxiv2024.03)** Learning Generalizable Feature Fields for Mobile Manipulation [[arxiv link](https://arxiv.org/abs/2403.07563)][[project link](https://geff-b1.github.io/)][`UC San Diego + CMU + MIT + IAIFI`; `Xiaolong Wang`]
 
+* 👍**H2O(arxiv2024.03)** Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation [[arxiv link](https://arxiv.org/abs/2403.04436)][[project link](https://human2humanoid.com/)][`CMU`, using the `Unitree H1 humanoid`; the first author [`Tairan He 何泰然`](https://tairanhe.com/) and [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
+
+* **PhysReaction(arxiv2024.04)** PhysReaction: Physically Plausible Real-Time Humanoid Reaction Synthesis via Forward Dynamics Guided 4D Imitation [[arxiv link](https://arxiv.org/abs/2404.01081)][[project link](https://yunzeliu.github.io/PhysReaction/)][`THU + Shanghai AI Lab + Shanghai Qi Zhi`]
+
+* 👍**Humanoid-Gym(arxiv2024.04)** Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer [[arxiv link](https://arxiv.org/abs/2404.05695)][[project link](https://sites.google.com/view/humanoid-gym/)][[code|official](https://github.com/roboterax/humanoid-gym)][`Shanghai Qi Zhi + Robot Era + THU`][The implementation of `Humanoid-Gym` relies on resources from [`legged_gym`](https://github.com/leggedrobotics/legged_gym) and [`rsl_rl`](https://github.com/leggedrobotics/rsl_rl) projects][This codebase is verified by `RobotEra's XBot-S (1.2 meter tall humanoid robot)` and `XBot-L (1.65 meter tall humanoid robot)` in real-world environment with `zero-shot sim-to-real transfer`.]
+
 * **BRMData(arxiv2024.05)** Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks [[arxiv link](https://arxiv.org/abs/2405.18860)][[project link](https://embodiedrobot.github.io/)][[dataset link](http://box.jd.com/sharedInfo/1147DC284DDAEE91DC759E209F58DD60)][`JD Explore Academy`][It proposed `BRMData`, a `Bimanual-mobile Robot Manipulation Dataset` specifically designed for `household applications`.]
+
+* **I-CTRL(arxiv2024.05)** I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning [[arxiv link](https://arxiv.org/abs/2405.08726)][`Technische Universitat Wien (TU Wien), Vienna, Austria`]
+
+* **HumanPlus(arxiv2024.06)** HumanPlus: Humanoid Shadowing and Imitation from Humans [[arxiv link](https://arxiv.org/abs/2406.10454)][[project link](https://humanoid-ai.github.io/)][[code|official](https://github.com/MarkFzp/humanplus)][`Stanford University`]
 
 * **BiGym(CoRL2024)(arxiv2024.07)** BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark [[openreview link](https://openreview.net/forum?id=EM0wndCeoD)][[arxiv link](https://arxiv.org/abs/2407.07788)][[project link](https://chernyadev.github.io/bigym/)][[code|official](https://github.com/chernyadev/bigym)][`Dyson Robot Learning Lab` + `Stephen James`][`Mujoco` + `UniTree H1`][BiGym is a new benchmark and learning environment for mobile bi-manual demo-driven robotic manipulation.]
 
 * 👍**FlyingHand(RSS2025)(arxiv2024.07)** Flying Hand: End-Effector-Centric Framework for Versatile Aerial Manipulation Teleoperation and Policy Learning [[arxiv link](https://arxiv.org/abs/2407.05587)][[project link](https://lecar-lab.github.io/flying_hand/)][`Carnegie Mellon University + Pennsylvania State University`]
+
+* **SkillMimic(arxiv2024.08)** SkillMimic: Learning Reusable Basketball Skills from Demonstrations [[arxiv link](https://arxiv.org/abs/2408.15270)][[project link](https://ingrid789.github.io/SkillMimic/)][[code|official](https://github.com/wyhuai/SkillMimic)][`HKUST + Unitree + PKU + THU + IDEA + Tencent + CMU`][using `Issac Gym`][a `data-driven` approach that `mimics both human and ball motions` to learn a wide variety of basketball skills.]
+
+* **Jumping CoD(arxiv2024.09)** Agile Continuous Jumping in Discontinuous Terrains [[arxiv link](https://arxiv.org/abs/2409.10923)][[project link](https://yxyang.github.io/jumping_cod/)][[code|official](https://github.com/yxyang/jumping_cod)][`University of Washington + Google Deepmind + Carnegie Mellon University`][using `Unitree Go1 robot`]
 
 * **DIAL-MPC(ICRA2025, Best Paper Finalist)(arxiv2024.09)** Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing [[arxiv link](https://arxiv.org/abs/2409.15610)][[project link](https://lecar-lab.github.io/dial-mpc/)][[code|official](https://github.com/LeCAR-Lab/dial-mpc)][`Carnegie Mellon University`][`DIAL-MPC: Diffusion-Inspired Annealing For Legged MPC`]
 
@@ -1850,16 +1874,25 @@
 
 * 👍**iDP3(arxiv2024.10)** Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[arxiv link](https://arxiv.org/abs/2410.10803)][[project link](https://humanoid-manipulation.github.io/)][[code|official](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)][`Stanford University + Simon Fraser University + UPenn + UIUC + CMU`; `Jiajun Wu`]
 
+* **HOVER(arxiv2024.10)** HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots [[arxiv link](https://arxiv.org/abs/2410.21229)][[project link](https://hover-versatile-humanoid.github.io/)][`NVIDIA + CMU + UC Berkeley + UT Austin + UC San Diego`; `Xiaolong Wang + Yuke Zhu`]
+
 * **PIM(ICRA2025)(arxiv2024.11)** Learning Humanoid Locomotion with Perceptive Internal Model [[arxiv link](https://arxiv.org/abs/2411.14386)][[project link](https://junfeng-long.github.io/PIM/)][[code|official](https://github.com/OpenRobotLab/HIMLoco)][`Shanghai AI Laboratory + The University of Hong Kong + Zhejiang University + Shanghai Jiao Tong University`; `Ping Luo + Jiangmiao Pang`]
+
+* **ExBody2(arxiv2024.12)** ExBody2: Advanced Expressive Humanoid Whole-Body Control [[arxiv link](https://arxiv.org/abs/2412.13196)][[project link](https://exbody2.github.io/)][`UC San Diego + UC Berkeley + MIT + NVIDIA` + `Xiaolong Wang`]
+
+* 👍**RFM_loco_mani(RAL2024)(arxiv2024.12)** Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator [[paper link](https://ieeexplore.ieee.org/abstract/document/10806624)][[arxiv link](https://arxiv.org/abs/2412.03012)][[project link](https://clearlab-sustech.github.io/RFM_loco_mani/)][`Southern University of Science and Technology + Zhejiang University-University of Illinois Urbana-Champaign Institute + LimX Dynamics`]
 
 * **TidyBot++(CoRL2024)(arxiv2024.12)** TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning [[openreview link](https://openreview.net/forum?id=L4p6zTlj6k)][[arxiv link](https://arxiv.org/abs/2412.10447)][[project link](https://tidybot2.github.io/)][[code|official](https://github.com/jimmyyhwu/tidybot2)][`Princeton University + Stanford University + Dexterity`; `Shuran Song`]
 
 * **M2Diffuser(TPAMI2025)(arxiv2024.12)** M2Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation in 3D Scenes [[paper link](https://ieeexplore.ieee.org/document/10937276)][[arxiv link](https://arxiv.org/pdf/2410.11402)][[project link](https://m2diffuser.github.io/)][[code|official](https://github.com/m2diffuser/M2Diffuser)][`Huazhong University of Science and Technology + BIGAI + UCLA + Beihang University + Xidian University + Peking University`; `Xinggang Wang + Song-Chun Zhu`]
 
-
 * **RoboMatrix(arxiv2024.12)** RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[arxiv link](https://arxiv.org/abs/2412.00171)][[project link](https://robo-matrix.github.io/)][[code|official](https://github.com/WayneMao/RoboMatrix/)][[weixin blog](https://mp.weixin.qq.com/s/kW9K4Kwj8BGbe1Mu__PXrg)][`Waseda University + Beijing Institute of Technology + Megvii Technology + The Chinese University of Hong Kong`][`Mobile Manipulation`]
 
 * **HOMIE(arxiv2025.02)** HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit [[arxiv link](https://arxiv.org/abs/2502.13013)][[project link](https://homietele.github.io/)][[code|official](https://github.com/OpenRobotLab/OpenHomie)][`Shanghai Artificial Intelligence Laboratory + The Chinese University of Hong Kong`; `Dahua Lin + Jiangmiao Pang`]
+
+* **EmbraceCollisions(arxiv2025.02)** Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions [[arxiv link](https://arxiv.org/abs/2502.01465)][[project link](https://project-instinct.github.io/)][`IIIS, Tsinghua University + Shanghai Qi Zhi Institute`; `Hang Zhao`][Whole-Body Control]
+
+* **BeamDojo(arxiv2025.02)** BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds [[arxiv link](https://arxiv.org/abs/2502.10363)][[project link](https://why618188.github.io/beamdojo/)][`Shanghai AI Laboratory + Shanghai Jiao Tong University + Zhejiang University + The University of Hong Kong + The Chinese University of Hong Kong`; `Weinan Zhang + Jiangmiao Pang`]
 
 * 👍**Being-0(arxiv2025.03)** Being-0: A Humanoid Robotic Agent with Vision-Language Models and Modular Skills [[arxiv link](https://arxiv.org/abs/2503.12533)][[project link](https://beingbeyond.github.io/being-0/)][[code|official](https://github.com/BeingBeyond/being-0)][`PKU + BAAI + Being`]
 
@@ -1986,6 +2019,8 @@
 * **RoboSeg(arxiv2026.08)** RoboSeg: Online Part-Level Semantic Reconstruction for Robotic Manipulation via a Single Eye-in-Hand Camera [[arxiv link](https://arxiv.org/abs/2608.09778)][`Beihang University`]
 
 * **RoboGesture(ECCV2026)(arxiv2026.08)** RoboGesture: Real-Time Semantic-aligned Co-Speech Gestures Generation for Humanoid Interaction [[paper link](https://link.springer.com/chapter/10.1007/978-3-032-37429-5_8)][[arxiv link](https://arxiv.org/abs/2608.28693)][[project link](https://robogesture.github.io/)][[code|official](https://github.com/GalaxyGeneralRobotics/RoboGesture)][`Tsinghua University + Galbot Inc. + Beijing Institute of Technology + Harbin Institute of Technology + Peking University + Shanghai Qi Zhi Institute`; `He Wang + Li Yi`]
+
+
 
 
 
