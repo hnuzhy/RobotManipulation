@@ -1738,6 +1738,8 @@
 
 * 👍**WiYH (arxiv2025.12)** World In Your Hands: A Large-Scale and Open-source Ecosystem for Learning Human-centric Manipulation in the Wild [[arxiv link](https://arxiv.org/abs/2512.24310)][[project link](https://wiyh.tars-ai.com/)][[code|official](https://github.com/tars-robotics/World-In-Your-Hands)][`TARS Robotics`]
 
+* **Exo2EgoPolicy(ECCV2026)** Exo2EgoPolicy: Geometry-Aware Policy Transfer from Exocentric Human Demonstrations [[paper link](https://link.springer.com/chapter/10.1007/978-3-032-36984-0_6)][[project link](https://hritam-98.github.io/exo2egopolicy/)][[code|official](https://github.com/hritam-98/exo2egopolicy)][`Amazon.com + Stony Brook University, USA`]
+
 * 👍**Action100M(CVPR2026 Workshop)(arxiv2026.01)** Action100M: A Large-scale Video Action Dataset [[paper link](https://openaccess.thecvf.com/content/CVPR2026W/EgoVis/html/Chen_Action100M_A_Large-scale_Video_Action_Dataset_CVPRW_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2601.10592)][[code|official](https://github.com/facebookresearch/Action100M)][`Meta FAIR + HKUST + University of Amsterdam + Sorbonne Université`]
 
 * **CLAP(arxiv2026.01)** CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos [[arxiv link](https://arxiv.org/abs/2601.04061)][[project link](https://lin-shan.com/CLAP/)][[code|official](https://github.com/LinShan-Bin/OpenCLAP)][`Tsinghua University + Astribot + University of Hong Kong + Massachusetts Institute of Technology`]
