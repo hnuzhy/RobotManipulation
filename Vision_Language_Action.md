@@ -1534,6 +1534,10 @@
 
 * **PPL(NIPS2025 Spotlight)(arxiv2025.10)** Predictive Preference Learning from Human Interventions [[openreview link](https://openreview.net/forum?id=ErEaq1UNaQ)][[arxiv link](https://arxiv.org/abs/2510.01545)][[project link](https://metadriverse.github.io/ppl/)][[code|official](https://github.com/metadriverse/PPL)][`University of California, Los Angeles`]
 
+* **GenPHRI(arxiv2026.04)** GenPHRI: Agentic Generative Simulation for Physical Human-Robot Interaction [[arxiv link](https://arxiv.org/abs/2604.08664)][[project link](https://rchi-lab.github.io/gen_phri/)][`Robotics Institute, Carnegie Mellon University`]
+
+* **TAIHRI(ECCV2026)(arxiv2026.04)** TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction [[paper link](https://link.springer.com/chapter/10.1007/978-3-032-36984-0_11)][[arxiv link](https://arxiv.org/abs/2604.08921)][[code|official](https://github.com/Tencent/TAIHRI)][`Tsinghua Shenzhen International Graduate School, Tsinghua University + Tencent Robotics X + Futian Laboratory`]
+
 * 👍**FPL(arxiv2026.06)** Freeform Preference Learning for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2606.32027)][[project link](https://freeform-pl.github.io/fpl.website/)][[code|official](https://github.com/freeform-pl/fpl)][`Stanford University`; `Chelsea Finn`][`Freeform Preference Learning (FPL)`]
 
 
