@@ -321,6 +321,33 @@
 * **VideoSeeker(arxiv2026.05)** VideoSeeker: Incentivizing Instance-level Video Understanding via Native Agentic Tool Invocation [[arxiv link](https://arxiv.org/abs/2605.16079)][[project link](https://gaotiexinqu.github.io/VideoSeeker/)][[code|official](https://github.com/gaotiexinqu/VideoSeeker)][`University of Science and Technology of China + Xiaohongshu Inc. + East China Normal University + Xi'an Jiaotong University`]
 
 
+***
+
+### ⭐11) Egocentric Video Generation Series
+
+* **Exo2Ego-V(NIPS2024)** Exocentric-to-Egocentric Video Generation [[paper link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f5a8b5e5d007e66c929b971c2bc21d76-Abstract-Conference.html)][[openreview link](https://openreview.net/forum?id=UHDCbIrCFL)][[code|official](https://github.com/showlab/Exo2Ego-V)][`Show Lab + National University of Singapore`]
+
+* **EgoVid-5M(NIPS2025)(arxiv2024.11)** EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation [[paper link](https://proceedings.neurips.cc/paper_files/paper/2025/hash/3ef2b740cb22dcce67c20989cb3d3fce-Abstract-Datasets_and_Benchmarks_Track.html)][[openreview link](https://openreview.net/forum?id=JtowPuCeHI)][[arxiv link](https://arxiv.org/abs/2411.08380)][[project link](https://egovid.github.io/)][[code|official](https://github.com/JeffWang987/EgoVid)][`Institute for Intelligent Computing, Alibaba Group + Institute of Automation, Chinese Academy of Sciences + Tsinghua University + University of Chinese Academy of Sciences`]
+
+* **PEVA(NIPS2025)(arxiv2025.06)** Whole-Body Conditioned Egocentric Video Prediction [[paper link](https://proceedings.neurips.cc/paper_files/paper/2025/hash/f0552f14388d95b19740dee809f5cad1-Abstract-Conference.html)][[arxiv link](https://arxiv.org/abs/2506.21552)][[project link](https://dannytran123.github.io/PEVA/)][`UC Berkeley (BAIR) + FAIR at Meta + New York University`; `Yann LeCun + Trevor Darrell + Jitendra Malik`]
+
+* **EgoTwin(ICLR2026)(arxiv2025.08)** EgoTwin: Dreaming Body and View in First Person [[paper link](https://proceedings.iclr.cc/paper_files/paper/2026/hash/3098f6165f551e02c99af1d03f0d6b03-Abstract-Conference.html)][[openreview link](https://openreview.net/forum?id=QFJkvv3zMi)][[arxiv link](https://arxiv.org/abs/2508.13013)][[project link](https://egotwin.pages.dev/)][`National University of Singapore + Nanyang Technological University + Hong Kong University of Science and Technology + Shanghai AI Laboratory`]
+
+* **EgoTraj-Bench(ICRA2026)(arxiv2025.10)** EgoTraj-Bench: Towards Robust Trajectory Prediction Under Ego-view Noisy Observations [[arxiv link](https://arxiv.org/abs/2510.00405)][[project link](https://zoeyliu1999.github.io/EgoTrajBench/)][[code|official](https://github.com/zoeyliu1999/EgoTraj-Bench)][`HKUST(GZ) + HKU + Miraikan + HKUST`]
+
+* **Exo2EgoSyn(arxiv2025.11)** Exo2EgoSyn: Unlocking Foundation Video Generation Models for Exocentric-to-Egocentric Video Synthesis [[arxiv link](https://arxiv.org/abs/2511.20186)][`INSAIT, Sofia University`; `Luc Van Gool`]
+
+* **EgoX(CVPR2026)(arxiv2025.12)** EgoX: Egocentric Video Generation from a Single Exocentric Video [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Kang_EgoX_Egocentric_Video_Generation_from_a_Single_Exocentric_Video_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2512.08269)][[project link](https://keh0t0.github.io/EgoX/)][[code|official](https://github.com/DAVIAN-Robotics/EgoX)][`KAIST AI + Seoul National University`]
+
+* **EgoMotion(TPAMI2026)(arxiv2026.04)** EgoMotion: Hierarchical Reasoning and Diffusion for Egocentric Vision-Language Motion Generation [[paper link](https://ieeexplore.ieee.org/abstract/document/11701458/)][[arxiv link](https://arxiv.org/abs/2604.19105)][`Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS) + Jilin University (JLU) + Beijing University of Posts and Telecommunications (BUPT) + University of the Chinese Academy of Sciences`]
+
+* **EgoMotion(arxiv2026.04)** EgoMotion: Hierarchical Reasoning and Diffusion for Egocentric Vision-Language Motion Generation [[arxiv link](https://arxiv.org/abs/2604.19105)][`Chinese Academy of Sciences (CAS) + Jilin University + Beijing University of Posts and Telecommunications (BUPT) + University of the Chinese Academy of Sciences`; `Shiguang Shan`]
+
+* **EgoExoMem(arxiv2026.05)** EgoExoMem: Cross-View Memory Reasoning over Synchronized Egocentric and Exocentric Videos [[arxiv link](https://arxiv.org/abs/2605.18734)][[code|official](https://github.com/RuipingL/EgoExoMem)][`Karlsruhe Institute of Technology + ETH Zurich + University of Oxford + Hunan University + INSAIT, Sofia University`]
+
+* 👍**ReViV(ECCV2026)(arxiv2026.07)** ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video [[paper link](https://link.springer.com/chapter/10.1007/978-3-032-37281-9_26)][[arxiv link](https://arxiv.org/abs/2607.17790)][[project link](https://reviv4d.github.io/)][[code|official](https://github.com/lvsean/reviv4d)][`ETH Zürich + Delft University of Technology + Microsoft`]
+
+
 
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
