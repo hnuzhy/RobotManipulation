@@ -13,6 +13,8 @@
 
 ## Papers
 
+#### 🔘 1) HOI Detection/Reconstruction/Understanding
+
 * **UnionDet(ECCV2020)** UnionDet: Union-Level Detector Towards Real-Time Human-Object Interaction Detection [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_30)][[paperswithcode](https://paperswithcode.com/paper/uniondet-union-level-detector-towards-real)]
 
 * **PaStaNet(CVPR2020)** PaStaNet: Toward Human Activity Knowledge Engine [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_PaStaNet_Toward_Human_Activity_Knowledge_Engine_CVPR_2020_paper.html)][[project link](http://hake-mvig.cn/)][`SJTU`, `body-part state annotations in the context of HOI`][`HAKE 1.0` (Human Activity Knowledge Engine) dataset]
@@ -63,10 +65,6 @@
 
 * **HUG3D(CVPR2026 Highlight)(arxiv2026.04)** Human Interaction-Aware 3D Reconstruction from a Single Image [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_Human_Interaction-Aware_3D_Reconstruction_from_a_Single_Image_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2604.05436)][[project link](https://jongheean11.github.io/HUG3D_project/)][`Seoul National University`]
 
-* **GenPHRI(arxiv2026.04)** GenPHRI: Agentic Generative Simulation for Physical Human-Robot Interaction [[arxiv link](https://arxiv.org/abs/2604.08664)][[project link](https://rchi-lab.github.io/gen_phri/)][`Robotics Institute, Carnegie Mellon University`]
-
-* **TAIHRI(ECCV2026)(arxiv2026.04)** TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction [[paper link](https://link.springer.com/chapter/10.1007/978-3-032-36984-0_11)][[arxiv link](https://arxiv.org/abs/2604.08921)][[code|official](https://github.com/Tencent/TAIHRI)][`Tsinghua Shenzhen International Graduate School, Tsinghua University + Tencent Robotics X + Futian Laboratory`]
-
 * **SocialMirror(CVPR2026 Finding)(arxiv2026.04)** SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance [[paper link](https://openaccess.thecvf.com/content/CVPR2026F/html/Xia_SocialMirror_Reconstructing_3D_Human_Interaction_Behaviors_from_Monocular_Videos_with_CVPRF_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2604.13581)][[ICLR2026 rejected](https://openreview.net/forum?id=X5U5bdG1Gd)][`ShanghaiTech University + Nanyang Technological University + Guangzhou Institute of Energy Conversion, CAS + University of Science and Technology of China + The Chinese University of Hong Kong + Inceptio Technology + Shanghai Jiao Tong University`]
 
 * **AnyHOI(FG2026)(arxiv2026.04)** Towards Unconstrained Human-Object Interaction [[paper link](https://ieeexplore.ieee.org/abstract/document/11557036/)][[arxiv link](https://arxiv.org/abs/2604.14069)][[code|official](https://github.com/francescotonini/anyhoi)][`University of Trento + Fondazione Bruno Kessler + University of Verona`]
@@ -77,8 +75,48 @@
 
 * **DeVI(arxiv2026.04)** DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation [[arxiv link](https://arxiv.org/abs/2604.20841)][[project link](https://snuvclab.github.io/devi/)][[code|official](https://github.com/snuvclab/devi)][`Seoul National University + RLWRLD`]
 
-* **GRASP(NIPS2026)(arxiv2026.05)** GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions [[arxiv link](https://arxiv.org/abs/2605.15764)][[project link](https://social-reaoning.github.io/grasp/)][[code|official](https://github.com/Social-Reaoning/grasp)][`UIUC + Georgia Tech + Amazon AGI + Korea University`]
+* 👍👍**GRASP(NIPS2026)(arxiv2026.05)** GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions [[arxiv link](https://arxiv.org/abs/2605.15764)][[project link](https://social-reaoning.github.io/grasp/)][[code|official](https://github.com/Social-Reaoning/grasp)][`UIUC + Georgia Tech + Amazon AGI + Korea University`]
+
+
+
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+
+#### 🔘 2) Human Motion Generation/Synthesis/Prediction
+
+* **MoFusion(CVPR2023)** MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Dabral_Mofusion_A_Framework_for_Denoising-Diffusion-Based_Motion_Synthesis_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2212.04495)][[project link](https://vcai.mpi-inf.mpg.de/projects/MoFusion/)][code is not avaliable][`MPII`]
+
+* **GMD(ICCV2023)** Guided Motion Diffusion for Controllable Human Motion Synthesis [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Karunratanakul_Guided_Motion_Diffusion_for_Controllable_Human_Motion_Synthesis_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2305.12577)][[project link](https://korrawe.github.io/gmd-project/)][[code|official](https://github.com/korrawe/guided-motion-diffusion)][`ETH`]
+
+* **PhysDiff(ICCV2023 Oral)** PhysDiff: Physics-Guided Human Motion Diffusion Model [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Yuan_PhysDiff_Physics-Guided_Human_Motion_Diffusion_Model_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2212.02500)][[project link](https://nvlabs.github.io/PhysDiff/)][code is not avaliable][`NVIDIA`]
+
+* **PACER(CVPR2023)(arxiv2023.04)** Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion [[paper link](http://openaccess.thecvf.com/content/CVPR2023/html/Rempe_Trace_and_Pace_Controllable_Pedestrian_Animation_via_Guided_Trajectory_Diffusion_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2304.01893)][[project link](https://research.nvidia.com/labs/toronto-ai/trace-pace/)][[code|official](https://github.com/nv-tlabs/pacer)][`NVIDIA + Stanford`; the first authors are [`Davis Rempe`](https://davrempe.github.io/) and [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
+
+* **PHC(PerpetualHumanoidControl)(ICCV2023)(arxiv2023.05)** Perpetual Humanoid Control for Real-time Simulated Avatars [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Luo_Perpetual_Humanoid_Control_for_Real-time_Simulated_Avatars_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2305.06456)][[project link](https://www.zhengyiluo.com/PHC-Site/)][[code|official](https://github.com/ZhengyiLuo/PerpetualHumanoidControl)][`Meta` and `CMU`; the first author [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
+
+* **OmniControl(arxiv2023.10)** OmniControl: Control Any Joint at Any Time for Human Motion Generation [[arxiv link](https://arxiv.org/abs/2310.08580)][[project link](https://neu-vi.github.io/omnicontrol/)][[code|official](https://github.com/neu-vi/omnicontrol)][`Northeastern University + Google Research`]
+
+* **MoConVQ(arxiv2023.10)** MoConVQ: Unified Physics-Based Motion Control via Scalable Discrete Representations [[arxiv link](https://arxiv.org/abs/2310.10198)][[project link](https://moconvq.github.io/)][`PKU`]
+
+* **MaskedMimic(SIGGRAPH2024)** MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting [[pdf link](https://research.nvidia.com/labs/par/maskedmimic/assets/SIGGRAPHAsia2024_MaskedMimic.pdf)][[project link](https://research.nvidia.com/labs/par/maskedmimic/)][[`NVIDIA`]
+
+* **PULSE(ICLR2024 spotlight)(arxiv2023.10)** Universal Humanoid Motion Representations for Physics-Based Control [[openreview link](https://openreview.net/forum?id=OrOd8PxOO2)][[arxiv link](https://arxiv.org/abs/2310.04582)][[project link](https://www.zhengyiluo.com/PULSE-Site/)][[code|official](https://github.com/ZhengyiLuo/PULSE)][`Meta` and `CMU`; the first author [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
+
+* **FlowMDM(CVPR2024)(arxiv2024.02)** Seamless Human Motion Composition with Blended Positional Encodings [[arxiv link](https://arxiv.org/abs/2402.15509)][[project link](https://barquerogerman.github.io/FlowMDM/)][[code|official](https://github.com/BarqueroGerman/FlowMDM)][`University of Barcelona, Spain`]
+
+* ❤**FLD(ICLR2024 spotlight)(arxiv2024.02)** FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning [[openreview link](https://openreview.net/forum?id=xsd2llWYSA)][[arxiv link](https://arxiv.org/abs/2402.13820)][[project link](https://sites.google.com/view/iclr2024-fld/home)][[weixin blog](https://mp.weixin.qq.com/s/0FR9Tu-91GfFkUU-4YR0dA)][[code|official](https://github.com/mit-biomimetics/fld)][`MIT`, `RL-based` Policy][It demonstrates its representation and generation capability with a `robotic motion tracking` task on [`MIT Humanoid`](https://spectrum.ieee.org/mit-dynamic-acrobatic-humanoid-robot) using [`NVIDIA Isaac Gym`](https://developer.nvidia.com/isaac-gym).]
+
+* **LDP(arxiv2024.03)** Human Motion Prediction under Unexpected Perturbation [[arxiv link](https://arxiv.org/abs/2403.15891)][`University of Leeds, United Kingdom + INRIA, France`]
+
+* **SimXR(CVPR2024)(arxiv2024.03)** Real-Time Simulated Avatar from Head-Mounted Sensors [[arxiv link](https://arxiv.org/abs/2403.06862)][[project link](https://www.zhengyiluo.com/SimXR-Site/)][`Meta` and `CMU`; the first author [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
+
+* **PACER+(CVPR2024)(arxiv2024.04)** PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios [[arxiv link](https://arxiv.org/abs/2404.19722)][[project link](https://wangjingbo1219.github.io/papers/CVPR2024_PACER_PLUS/PACERPLUSPage.html)][[code|official](https://github.com/IDC-Flash/PacerPlus)][`Shanghai AI LAB + CMU + Nvidia + CUHK`; the first author [`Jingbo Wang`](http://wangjingbo.top/) and [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
+
+* **LMM(arxiv2024.04)** Large Motion Model for Unified Multi-Modal Motion Generation [[arxiv link](https://arxiv.org/abs/2404.01284)][[project link](https://mingyuan-zhang.github.io/projects/LMM.html)][[code|official](https://github.com/mingyuan-zhang/LMM)][`S-Lab + SenseTime`]
+
+* **GVHMR(SIGGRAPH2024)(arxiv2024.09)** World-Grounded Human Motion Recovery via Gravity-View Coordinates [[arxiv link](https://arxiv.org/abs/2409.06662)][[project link](https://zju3dv.github.io/gvhmr/)][[code|official](https://github.com/zju3dv/GVHMR)][[huggingface demo](https://huggingface.co/spaces/LittleFrog/GVHMR)][`Zhejiang University + The University of Hong Kong + Deep Glint + Shenzhen University`]
+
+* 👍**FrankenMotion(CVPR2026)(arxiv2026.01)** FrankenMotion: Part-level Human Motion Generation and Composition [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Li_FrankenMotion_Part-level_Human_Motion_Generation_and_Composition_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2601.10909)][[project link](https://coral79.github.io/frankenmotion/)][[code|official](https://github.com/Coral79/FrankenMotion-Code)][`University of Tübingen + Tübingen AI Center + Max Planck Institute for Informatics, Saarland Informatics Campus`]
 
 
 
